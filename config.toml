@@ -1,3 +1,49 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://www.kevin-j-m.github.io/"
+title = "Kevin Murphy"
+copyright = "Copyright &copy; 2020 - Kevin Murphy"
+canonifyurls = true
+theme = "hugo-kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+# Note: to disable a social network icon delete or comment out the corresponding line
+[author]
+    name = "Kevin Murphy"
+    github = "kevin-j-m"
+    #gitlab = "username"
+    linkedin = "kevinmurphydev"
+    #facebook = "username"
+    twitter = "kevin_j_m"
+    #instagram = "username"
+    #stackoverflow = "username"
+    #youtube = "user/username" # or channel/channelname
+
+[params]
+    tagline = "Musings of a Boston-based Software Developer"
+    description = "Kevin Murphy: Software Developer"
+    #images = [""] #This is used for opengraph/twitter cards.
+    customCSS = []  #Optional Customised CSS
+    #favicon = ""
+
+[[menu.main]]
+    name = "Home" #Name in the navigation bar
+    weight = 10 #The larger the weight, the more on the right this item will be
+    url = "/" #URL address
+
+# uncomment to enable the Tags link on the main toolbar
+#  [[menu.main]]
+#    identifier = "tags"
+#    name = "Tags"
+#    url = "tags"
+#    weight = 1
+
+# uncomment to enable the Categories link on the main toolbar
+#  [[menu.main]]
+#    identifier = "categories"
+#    name = "Categories"
+#    url = "categories"
+#    weight = 1
