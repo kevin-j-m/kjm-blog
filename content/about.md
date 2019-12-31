@@ -11,4 +11,4 @@ Kevin is experienced in web application development, agile project management, a
 
 Kevin has spoken at [RailsConf 2019]({{< ref "/posts/railsconf-2019" >}}) and [RubyConf 2019]({{< ref "/posts/rubyconf-2019" >}}).
 
-Kevin maintains the [clockwork-test](https://github.com/kevin-j-m/clockwork-test) gem, which is a test harness for the clockwork gem.
+Kevin maintains the [clockwork-test](https://github.com/kevin-j-m/clockwork-test) gem, which is a test harness for the [clockwork](https://rubygems.org/gems/clockwork) gem.
