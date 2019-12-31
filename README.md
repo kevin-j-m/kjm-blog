@@ -18,6 +18,9 @@ hugo server -D
 
 # Deploying
 
+Currently, this is hosted on Github pages. Hugo's documentation provides
+[instructions](https://gohugo.io/hosting-and-deployment/hosting-on-github/), which at this point means only this script needs to run to deploy:
+
 ```
 ./deploy.sh
 ```
