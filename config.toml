@@ -1,4 +1,4 @@
-baseurl = "https://www.kevin-j-m.github.io/"
+baseurl = "http://www.kevin-j-m.github.io/"
 title = "Kevin Murphy"
 copyright = "Copyright &copy; 2020 - Kevin Murphy"
 canonifyurls = true
