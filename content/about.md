@@ -5,7 +5,7 @@ menu: "main"
 meta: "false"
 ---
 
-Kevin lives near Boston, where he is a Software Developer at The Gnar Company.
+Kevin Murphy lives near Boston, where he is a Software Developer at The Gnar Company.
 
 Kevin is experienced in web application development, agile project management, and systems analysis. He is dedicated to executing the technical aspects of software development projects with a keen eye towards driving business value.
 
