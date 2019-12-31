@@ -5,10 +5,10 @@ tags = []
 categories = []
 +++
 
-I originally wanted to call this post "Coding for Fun ~~And Profit~~", but hugo
-wouldn't recognize markdown in the title of a new post, so I gave up immediately
-and renamed it, which is a perfect encapsulation of what I'm looking to convey
-here.
+I originally wanted to call this post "Coding for Fun ~~And Profit~~" with And
+Profit in strikethrough, but hugo wouldn't recognize markdown in the title of a
+new post, so I gave up immediately and renamed it, which is a perfect
+encapsulation of what I'm looking to convey here.
 
 ## Background
 
