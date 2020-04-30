@@ -8,6 +8,18 @@ git submodule init
 git submodule update
 ```
 
+# Updating the theme
+
+The theme is a submodule, so to get the latest changes from the remote, you can
+execute:
+
+```
+cd themes/hugo-kiera
+git fetch
+git merge origin/master
+cd ../..
+```
+
 # Adding a post
 
 ```
