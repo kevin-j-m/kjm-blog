@@ -1,3 +1,13 @@
+# Cloning
+
+The theme is included as a submodule, so after cloning, you must set up that
+submodule:
+
+```
+git submodule init
+git submodule update
+```
+
 # Adding a post
 
 ```
