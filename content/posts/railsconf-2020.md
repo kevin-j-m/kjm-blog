@@ -7,7 +7,7 @@ summary = "Testing Third-Party Dependencies at RailsConf 2020"
 +++
 
 I'm honored to be speaking as a part of RailsConf 2020, which you can join from
-the comfort of your own [couch](https://railsconf.com/)! I hope you'll join my session and many others
+the comfort of your own [couch](https://railsconf.com/)! I hope you'll join [my session](https://railsconf.com/2020/video/kevin-murphy-fake-it-while-you-make-it) and many others
 when they are released on May 5, 2020.
 
 ## Abstract
@@ -18,5 +18,6 @@ There's no shortage of tools at your disposal to solve these problems. This talk
 
 ## Presentation Resources
 
+* [Video](https://youtu.be/iEfpAp2sqiw)
 * [Sample App](https://github.com/kevin-j-m/testing-services)
 * [Code Examples](https://github.com/kevin-j-m/testing-services#testing-methods)
