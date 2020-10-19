@@ -26,7 +26,8 @@ pygmentsCodeFences = true
     tagline = "Musings of a Boston-based Software Developer"
     description = "Kevin Murphy: Software Developer"
     #images = [""] #This is used for opengraph/twitter cards.
-    customCSS = ["css/link-style.css", "css/code-scroll.css"]  #Optional Customised CSS
+    customCSS = ["css/link-style.css", "css/code-scroll.css" ,
+"css/coverage-emoji.css"]  #Optional Customised CSS
     #favicon = ""
 
 [[menu.main]]

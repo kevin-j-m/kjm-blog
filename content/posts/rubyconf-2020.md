@@ -1,5 +1,5 @@
 +++
-title = "Enough Coverage To Beat The Band"
+title = "Enough Coverage To Beat The Band at RubyConf"
 date = 2020-09-16T19:47:00-04:00
 tags = ["ruby", "conference", "rubyconf"]
 categories = []
