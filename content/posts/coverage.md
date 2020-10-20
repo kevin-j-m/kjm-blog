@@ -83,6 +83,16 @@ Branch Coverage tracks execution of different conditional paths and documents ho
 
 If you’d like to discuss how [The Gnar Company](https://www.thegnar.co/about.html) can work with you on your technical challenges, [let us know](https://www.thegnar.co/hire-us.html).
 
+## Presentation Fonts
+
+The main content of all my slides, for code examples and similar text, is Arial Narrow.
+
+Slide titles and big statement fonts are The Fragile, available from [The NIN Hotline](https://www.theninhotline.com/features/fonts/).
+
+Supplemental content, like my twitter handle and text pointing to areas
+explaining what coverage output represents are The Wretched, also available from
+[The NIN Hotline](https://www.theninhotline.com/features/fonts/).
+
 ## Presentation Photo Credits
 
 All photos used in the presentation are from the band [Nine Inch Nails](https://www.nin.com/), and released on
