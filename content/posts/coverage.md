@@ -9,7 +9,7 @@ aliases = ["/coverage"]
 
 ## Presentation Resources
 
-Kevin's slides are available for review on SpeakerDeck. The code examples that accompanied the talk are available on [Github](https://github.com/kevin-j-m/ruby_cover_band).
+Kevin's slides are available for review on [SpeakerDeck](https://speakerdeck.com/kevinmurphy/enough-coverage-to-beat-the-band). The code examples that accompanied the talk are available on [Github](https://github.com/kevin-j-m/ruby_cover_band).
 
 ## Code Coverage Modes
 
