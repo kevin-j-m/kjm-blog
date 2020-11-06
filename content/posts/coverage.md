@@ -79,6 +79,16 @@ Branch Coverage tracks execution of different conditional paths and documents ho
 * For conditionals that lay out multiple code paths on a single line, this provides feedback on their individual execution where Line Coverage only considers whether any part of the line was run.
 * When interested in conditionals, and only conditionals, it has less noise than Lines Coverage.
 
+## Gem Support
+
+If you'd like to leverage existing abstractions on top of ruby's Coverage module
+in your current applications, I recommend:
+
+* [SimpleCov](https://github.com/simplecov-ruby/simplecov) for test coverage. It
+  now supports [branches](https://github.com/simplecov-ruby/simplecov#branch-coverage-ruby--25) coverage!
+* [Coverband](https://github.com/danmayer/coverband) for measuring coverage of
+  production code. Here's an [example](https://github.com/danmayer/coverband/blob/43c5ac94febc7a961346b0e9408d829d4d2ef8ad/test/rails5_dummy/config/coverband.rb#L15) on how to configure it to run using oneshot lines coverage.
+
 ## The Gnar Company
 
 If you’d like to discuss how [The Gnar Company](https://www.thegnar.co/about.html) can work with you on your technical challenges, [let us know](https://www.thegnar.co/hire-us.html).
