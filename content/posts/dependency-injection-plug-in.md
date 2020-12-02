@@ -1,16 +1,21 @@
 +++
 title = "Dependency Injection: Plug In"
 date = 2020-11-24T14:10:31-05:00
-tags = ["ruby", "software-design"]
+tags = ["ruby", "software-design", "software-design-concert-series"]
 summary = "These go to eleven"
 +++
+
+## Ruby Software Design Concert Series
+
+1. __Dependency Injection: Plug In__
+2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
 
 ## Setting the Stage
 
 Dependency injection is a fancy term. It __sounds__ intimidating. The purpose of
 this post is to explain what dependency injection is, how to use it, and why it
 can be beneficial. To illustrate, let's talk about playing a guitar in a
-concert, which comes from my [RubyConf 2020](http://rubyconf.org/program/sessions#session-1044)
+concert, which comes from my [RubyConf 2020](https://rubyconf.org/program/sessions#session-1044)
 talk about Ruby's [Coverage](https://docs.ruby-lang.org/en/master/Coverage.html) module.
 
 ## Sound Check
