@@ -9,6 +9,7 @@ summary = "It's time to light the lights"
 
 1. [Dependency Injection: Plug In]({{< ref "/dependency-injection-plug-in" >}})
 2. __Shedding a Light on Duck Typing__
+3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
 
 ## Setting the Stage
 
@@ -213,5 +214,7 @@ Rubyists, the flexibility this approach provides often outweighs the cost.
 If you're coming from a static typing system, or desiring more direction or
 enforcement about what's expected to be provided as an argument, then
 investigate defining interface types with RBS, which will be part of Ruby 3.
+
+Our concert series continues with a discussion on [composition and delegation]({{< ref "/synthesizing-composition-with-delegation" >}}).
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/shedding-light-on-duck-typing).

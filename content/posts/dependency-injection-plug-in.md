@@ -9,6 +9,7 @@ summary = "These go to eleven"
 
 1. __Dependency Injection: Plug In__
 2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
+3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
 
 ## Setting the Stage
 
@@ -153,5 +154,7 @@ Using dependency injection can lead to less tightly-coupled code, which
 allows for more flexibility in collaborating with others, reduces the burden of
 testing, and makes it more clear when classes are growing to the point where
 their current design needs to be reconsidered.
+
+The next post in our series explains using [duck typing]({{< ref "/shedding-light-on-duck-typing" >}}) in ruby.
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/dependency-injection-plug-in).
