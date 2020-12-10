@@ -10,6 +10,7 @@ summary = "It's time to light the lights"
 1. [Dependency Injection: Plug In]({{< ref "/dependency-injection-plug-in" >}})
 2. __Shedding a Light on Duck Typing__
 3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
+4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
 
 ## Setting the Stage
 

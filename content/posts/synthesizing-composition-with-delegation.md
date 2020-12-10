@@ -10,6 +10,7 @@ summary = "Orchestrating the sum so you don't need to know the parts"
 1. [Dependency Injection: Plug In]({{< ref "/dependency-injection-plug-in" >}})
 2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
 3. __Synthesizing Composition With Delegation__
+4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
 
 ## Setting the Stage
 
@@ -151,6 +152,6 @@ responsibility to different classes can also make it easier for the system to
 change, making it more likely to promote code reuse.
 
 Next we're going to play one of the greatest hits in software design:
-inheritance.
+[inheritance]({{< ref "/inheritance-derivative-songwriting" >}}).
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/synthesizing-composition-with-delegation).

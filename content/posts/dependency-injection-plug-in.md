@@ -10,6 +10,7 @@ summary = "These go to eleven"
 1. __Dependency Injection: Plug In__
 2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
 3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
+4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
 
 ## Setting the Stage
 
