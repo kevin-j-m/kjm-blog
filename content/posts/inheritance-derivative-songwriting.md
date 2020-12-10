@@ -1,5 +1,5 @@
 +++
-title = "Inheritance Derivative Songwriting"
+title = "Inheritance: Derivative Songwriting"
 date = 2020-12-10T16:56:38-05:00
 tags = ["ruby", "software-design", "software-design-concert-series"]
 summary = "There are only 12 notes to choose from"
