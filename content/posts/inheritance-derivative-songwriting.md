@@ -11,6 +11,7 @@ summary = "There are only 12 notes to choose from"
 2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
 3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
 4. __Inheritance: Derivative Songwriting__
+5. [Using Sonic Pi To Play Music With Ruby]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
 
 ## Setting the Stage
 
@@ -275,5 +276,9 @@ end up being factors that cause pain, tears, multiple "code spikes", and
 shouldn't be avoided wholesale based on this, but it should be carefully and
 judiciously applied in your systems.
 
+Our next post will move a little further from theory and explore how to build an
+[interface to Sonic Pi]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}}),
+so that these principles can work together to actually make sounds on your
+computer.
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/inheritance-derivative-songwriting).

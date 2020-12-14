@@ -11,6 +11,7 @@ summary = "These go to eleven"
 2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
 3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
 4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
+5. [Using Sonic Pi To Play Music With Ruby]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
 
 ## Setting the Stage
 
