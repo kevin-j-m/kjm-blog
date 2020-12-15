@@ -12,6 +12,7 @@ summary = "Orchestrating the sum so you don't need to know the parts"
 3. __Synthesizing Composition With Delegation__
 4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
 5. [Using Sonic Pi To Play Music With Ruby]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
+6. [Stringing Code Together To Play Music]({{< ref "/stringing-code-together-to-play-music" >}})
 
 ## Setting the Stage
 

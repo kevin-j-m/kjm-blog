@@ -12,6 +12,7 @@ summary = "These go to eleven"
 3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
 4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
 5. [Using Sonic Pi To Play Music With Ruby]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
+6. [Stringing Code Together To Play Music]({{< ref "/stringing-code-together-to-play-music" >}})
 
 ## Setting the Stage
 

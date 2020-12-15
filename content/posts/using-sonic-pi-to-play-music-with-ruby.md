@@ -12,6 +12,7 @@ summary = "Amplifying the impact of your code"
 3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
 4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
 5. __Using Sonic Pi To Play Music With Ruby__
+6. [Stringing Code Together To Play Music]({{< ref "/stringing-code-together-to-play-music" >}})
 
 ## Setting the Stage
 
@@ -102,6 +103,6 @@ commands from outside of its IDE. We have a way to *send* sound
 out of our ruby code.
 
 In our next post, we'll take a look at how we *generate* the sound to send from
-a guitar to an amplifier.
+a [guitar]({{< ref "/stringing-code-together-to-play-music" >}}) to an amplifier.
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/using-sonic-pi-to-play-music-with-ruby).
