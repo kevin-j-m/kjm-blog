@@ -64,7 +64,7 @@ it has since changed to run on a [dynamically-determined](https://github.com/son
 
 The CLI already implemented the functionality to [find the port](https://github.com/Widdershin/sonic-pi-cli/blob/20a18f91b4aa24de9f4b187aa20c69334ddf0329/bin/sonic_pi#L13-L33)
 to send to the `SonicPi` class, so for demonstration purposes, I copied that in
-my initializer.
+my constructor.
 
 ```ruby
 class Amplifier
