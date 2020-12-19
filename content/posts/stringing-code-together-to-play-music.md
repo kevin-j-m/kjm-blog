@@ -17,7 +17,7 @@ summary = "Anyone Can Play Guitar"
 ## Setting the Stage
 
 In our [last post]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}}), I talked about how I built an interface to [Sonic Pi](https://sonic-pi.net) when
-I was preparing my [RubyConf 2020](https://rubyconf.org/program/sessions#session-1044) talk about Ruby's [Coverage](https://docs.ruby-lang.org/en/master/Coverage.html) module. At the
+I was preparing my [RubyConf 2020](https://youtu.be/EyLO0EEm3BQ) talk about Ruby's [Coverage](https://docs.ruby-lang.org/en/master/Coverage.html) module. At the
 end of that post, we could send sounds to Sonic Pi. Today, we'll have our code
 play the guitar, and send those sounds to our amplifier.
 

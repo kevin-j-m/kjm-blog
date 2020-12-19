@@ -19,7 +19,7 @@ summary = "These go to eleven"
 Dependency injection is a fancy term. It __sounds__ intimidating. The purpose of
 this post is to explain what dependency injection is, how to use it, and why it
 can be beneficial. To illustrate, let's talk about playing a guitar in a
-concert, which comes from my [RubyConf 2020](https://rubyconf.org/program/sessions#session-1044)
+concert, which comes from my [RubyConf 2020](https://youtu.be/EyLO0EEm3BQ)
 talk about Ruby's [Coverage](https://docs.ruby-lang.org/en/master/Coverage.html) module.
 
 ## Sound Check

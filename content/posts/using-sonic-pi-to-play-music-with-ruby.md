@@ -16,7 +16,7 @@ summary = "Amplifying the impact of your code"
 
 ## Setting the Stage
 
-My [RubyConf 2020](https://rubyconf.org/program/sessions#session-1044)
+My [RubyConf 2020](https://youtu.be/EyLO0EEm3BQ)
 talk about Ruby's [Coverage](https://docs.ruby-lang.org/en/master/Coverage.html) module
 uses examples about playing live music. As such, I had the ambitious goal of
 delivering a live performance of some music during the presentation. This ended

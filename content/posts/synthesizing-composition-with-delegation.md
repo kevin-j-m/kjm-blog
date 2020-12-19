@@ -26,7 +26,7 @@ is beneficial.
 
 To demonstrate using composition to model a complex system and using delegation
 in that composition, we will explore how a synthesizer can handle memory
-management to store presets of sounds. This example comes from my [RubyConf 2020](https://rubyconf.org/program/sessions#session-1044)
+management to store presets of sounds. This example comes from my [RubyConf 2020](https://youtu.be/EyLO0EEm3BQ)
 talk about Ruby's
 [Coverage](https://docs.ruby-lang.org/en/master/Coverage.html) module.
 

@@ -19,7 +19,7 @@ summary = "There are only 12 notes to choose from"
 Inheritance sets up a relationship or a taxonomy between classes to allow for
 code reuse. It is both a commonly reached for and commonly derided tool which
 has its place, but must be wielded with care. We'll use inheritance to write new
-songs for our concert setlist, an example which comes from my [RubyConf 2020](https://rubyconf.org/program/sessions#session-1044)
+songs for our concert setlist, an example which comes from my [RubyConf 2020](https://youtu.be/EyLO0EEm3BQ)
 talk about Ruby's
 [Coverage](https://docs.ruby-lang.org/en/master/Coverage.html) module.
 

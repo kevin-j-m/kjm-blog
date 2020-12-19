@@ -18,7 +18,7 @@ summary = "It's time to light the lights"
 
 Duck typing is commonly used by Rubyists and other users of dynamic languages.
 We'll demonstrate duck typing by helping a concert lighting team set up the
-lighting for a band, which comes from my [RubyConf 2020](https://rubyconf.org/program/sessions#session-1044) talk about Ruby's
+lighting for a band, which comes from my [RubyConf 2020](https://youtu.be/EyLO0EEm3BQ) talk about Ruby's
 [Coverage](https://docs.ruby-lang.org/en/master/Coverage.html) module.
 
 ## Stage Design
