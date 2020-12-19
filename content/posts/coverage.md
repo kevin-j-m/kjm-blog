@@ -91,6 +91,13 @@ in your current applications, I recommend:
 * [Coverband](https://github.com/danmayer/coverband) for measuring coverage of
   production code. Here's an [example](https://github.com/danmayer/coverband/blob/43c5ac94febc7a961346b0e9408d829d4d2ef8ad/test/rails5_dummy/config/coverband.rb#L15) on how to configure it to run using oneshot lines coverage.
 
+## Supplemental Content
+
+I have a series of blog posts using the live music examples I wrote for the talk
+to describe various software design principles. The first post is about
+[dependency injection]({{< ref "/dependency-injection-plug-in" >}}).
+You can see the full series [here]({{< ref "/tags/software-design-concert-series/" >}}).
+
 ## The Gnar Company
 
 If you’d like to discuss how [The Gnar Company](https://www.thegnar.co/about.html) can work with you on your technical challenges, [let us know](https://www.thegnar.co/hire-us.html).
