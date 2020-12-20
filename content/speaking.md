@@ -5,6 +5,10 @@ menu: "main"
 meta: "false"
 ---
 
+Kevin has experience speaking both in-person and remotely. He's delivered live
+and pre-recorded talks. If you're interested in Kevin speaking at your event,
+you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) him.
+
 * [Enough Coverage To Beat The Band]({{< ref "#enough-coverage-to-beat-the-band" >}})
 * [Fake It While You Make It]({{< ref "#fake-it-while-you-make-it" >}})
 * [Don't Hang Me Out To DRY]({{< ref "#dont-hang-me-out-to-dry" >}})
