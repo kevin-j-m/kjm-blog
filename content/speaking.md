@@ -5,6 +5,11 @@ menu: "main"
 meta: "false"
 ---
 
+* [Enough Coverage To Beat The Band]({{< ref "#enough-coverage-to-beat-the-band" >}})
+* [Fake It While You Make It]({{< ref "#fake-it-while-you-make-it" >}})
+* [Don't Hang Me Out To DRY]({{< ref "#dont-hang-me-out-to-dry" >}})
+* [I Know I Can, But Should I?]({{< ref "#i-know-i-can-but-should-i" >}})
+
 ## Enough Coverage To Beat The Band
 
 The lights cut out. The crowd roars. It’s time. The band takes the stage.
