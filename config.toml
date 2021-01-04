@@ -1,6 +1,6 @@
 baseurl = "https://kevinjmurphy.com/"
 title = "Kevin Murphy"
-copyright = "Copyright &copy; 2020 - Kevin Murphy"
+copyright = "Copyright &copy; 2021 - Kevin Murphy"
 canonifyurls = true
 theme = "hugo-kiera"
 
