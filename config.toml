@@ -14,10 +14,11 @@ pygmentsCodeFences = true
 [author]
     name = "Kevin Murphy"
     github = "kevin-j-m"
-    #gitlab = "username"
-    linkedin = "kevinmurphydev"
-    #facebook = "username"
     twitter = "kevin_j_m"
+    linkedin = "kevinmurphydev"
+    devto = "kevin_j_m"
+    #gitlab = "username"
+    #facebook = "username"
     #instagram = "username"
     #stackoverflow = "username"
     #youtube = "user/username" # or channel/channelname
