@@ -21,7 +21,7 @@ email to use, so we change that a few times.
 ```
 
 We have PaperTrail set to [track changes](https://github.com/paper-trail-gem/paper_trail#only)
-made to a user's email. Later on, we may need to do some archaelogy to figure
+made to a user's email. Later on, we may need to do some archaeology to figure
 out why this user's email address isn't "km\@example.com". Let's investigate how
 PaperTrail can help with that.
 
