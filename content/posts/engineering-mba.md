@@ -1,29 +1,16 @@
 +++
 title = "Engineering MBA"
-date = 2021-03-08T08:12:10-04:00
+date = 2021-03-12T20:30:07-05:00
 tags = ["ruby", "rails", "conference", "railsconf"]
 categories = []
 summary = "Be The Boss of Your Own Work"
 aliases = ["/eng-mba"]
 +++
 
-I'm honored to be speaking as part of RailsConf 2021, which you can join from
-[wherever](http://railsconf.com/) you are. I hope you'll join [my session](https://railsconf.com/program/sessions#session-1136)
-and many others from April 13 - 15, 2021.
-
-## Abstract
-
-Improve your work as a developer with an introduction to strategic planning,
-situational leadership, and process management. No balance sheets or income
-statements here; join me to learn the MBA skills valuable to developers without
-the opportunity costs of lost wages or additional student loans.
-
-Demystify the strategic frameworks your management team may use to make
-decisions and learn how you can use those same concepts in your daily work.
-Explore the synergy one developer achieved by going to business school (sorry,
-the synergy comment slipped out - old habit).
-
 ## Apply To Graduate
+
+Congratulations on completing your coursework. To receive your diploma, please
+fill out the form below.
 
 {{< rawhtml >}}
 <p style="text-align: center;">
@@ -31,3 +18,88 @@ the synergy comment slipped out - old habit).
 </p>
 
 {{< /rawhtml >}}
+
+## Curriculum
+
+### Situational Leadership
+
+The [Situational Leadership Model](https://en.wikipedia.org/wiki/Situational_leadership_theory) posits that there are four different styles of
+leadership.
+
+* Directing - provide close, detailed supervision with clear instructions and
+  expectations.
+* Coaching - focus on getting buy-in from the team on explaining why decisions
+  are made the way they are.
+* Supporting - shift decision-making ownership to the team and facilitate.
+  discussion amongst the team to reach decisions and provide encouragement.
+* Delegating - focus on overall vision, trusting the team with automony on
+  day-to-day decision-making.
+
+A leader must be able to exhibit all of these styles. Otherwise, they'll only be
+effective in very specific scenarios with a very specific group of people at a
+given time. In order to determine which style to use at a given time, consider
+how much relationship and task behavior is required by the individual or team at
+the moment.
+
+{{< figure src="/img/situational-leadership.png" class="mid" >}}
+
+Consider this model when you're in a position of leadership, or to identify what
+type of leadership you or your team would benefit from at the moment. Sprint
+planning exercises are an opportunity to understand how different leadership
+styles can benefit different people on a specific task.
+
+### Competitive Advantage
+
+A firm's [competitive advantage](https://corporatefinanceinstitute.com/resources/knowledge/strategy/competitive-advantage/) is the attributes that allow it to flourish against competitors. There are three general competitive [strategies](https://www.ifm.eng.cam.ac.uk/research/dstools/porters-generic-competitive-strategies/):
+
+* Cost.
+* Differentiation.
+* Focus.
+
+#### Core Competency
+
+A firm's [core competencies](http://www.personal.psu.edu/kkm11/files/HandP_Core%20Competence%20of%20the%20organization.pdf) are the very specific set of qualities or characteristics that drive success. A core competency must meet all of the following criteria:
+
+* Provides access to various markets.
+* Contributes to perceived customer benefit.
+* Difficult for competitors to imitate.
+
+Identification of core competencies can aid in more quickly answering your next
+build vs. buy vs. borrow conundrum when building out a feature.
+
+### Business Process Management
+
+Managing and delivering iterative improvements of a [business process](https://www.bpminstitute.org/resources/articles/what-bpm-anyway-business-process-management-explained) involves
+following these cyclical steps:
+
+* Design - document the existing process and propose an improved future state.
+* Model - perform "what if" analysis to subject different theoretical
+  constraints to the proposed future state.
+* Execute - in an automated *or* manual fashion, roll out the future state to a
+  small group.
+* Monitor - track and report on key performance indicators (KPIs) to observe
+  the impact of the change.
+* Optimize - identify current bottlenecks and feed that in to future design
+  iterations.
+
+#### Business Process Reengineering
+
+[Reengineering](https://hbr.org/1990/07/reengineering-work-dont-automate-obliterate) is the big rewrite of processes. The process is reimagined from the ground-up, ensuring that each step in the flow directly contributes to the intended goal and adds value.
+
+Much of our work as software developers involves managing processes. Whether
+we're optimizing our individual developer workflow, or automating business
+processes, we can follow the same methodical approach to know if we've succeeded
+in improving stakeholders' well-being.
+
+Ensure that the ultimate focus is not
+purely on solving the optimization problem - consider the impact and
+consequences of the work being delivered for users of the system and those
+otherwise impacted by the decisions made by the system.
+
+## Extra Credit Reading
+
+* [Getting To Yes](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757): This is a seminal read on negotiation tactics. If you've heard of BATNA, best alternative to a negotiated agreement, this is where that comes from.
+* [Reengineering the Corporation](https://www.amazon.com/Reengineering-Corporation-Manifesto-Business-Revolution/dp/0887306403): Our coursework introduces the topic of Business Process Reengineering. If you'd like to dig in further, this is the book to pick up.
+* [Blue Ocean Strategy](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/1625274491): If you're interested in how to explore different strategies for a successful business, I recommend reading this.
+* [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996/): This is a fascinating dissection of the characteristics and qualities that define successful companies over the long-term.
+* [Essentials of Business Communication](https://www.amazon.com/Essentials-Business-Communication-Ellen-Guffey/dp/1337386499/): I'm only familiar with the 7th edition of this textbook, but it's a reference I continue to use today when I need to structure a certain kind of written business report or communication.
