@@ -19,6 +19,10 @@ fill out the form below.
 
 {{< /rawhtml >}}
 
+## Presentation Resources
+
+* [Slides](https://speakerdeck.com/kevinmurphy/engineering-mba)
+
 ## Curriculum
 
 ### Situational Leadership
@@ -69,6 +73,17 @@ build vs. buy vs. borrow conundrum when building out a feature.
 
 ### Business Process Management
 
+Dr. Thomas Davenport [defines a process](https://books.google.com/books?id=kLlIOMGaKnsC&lpg=PP1&pg=PA5#v=onepage&q&f=false) as:
+
+> a structured, measured set of activities designed to produce a specific
+> output.
+
+The Association of Business Process Management [states](https://www.abpmp.org/page/BPM_Profession)
+that Business Process Management
+
+> enables an enterprise to align its business processes to its business
+> strategy.
+
 Managing and delivering iterative improvements of a [business process](https://www.bpminstitute.org/resources/articles/what-bpm-anyway-business-process-management-explained) involves
 following these cyclical steps:
 
@@ -95,6 +110,22 @@ Ensure that the ultimate focus is not
 purely on solving the optimization problem - consider the impact and
 consequences of the work being delivered for users of the system and those
 otherwise impacted by the decisions made by the system.
+
+Dr. Hammer, credited with introducing the concept of Business Process
+Reengineering, later [stated](https://www.wsj.com/articles/SB848961197738163500) that,
+
+> I was reflecting my engineering background and was insufficiently
+> appreciative of the human dimension.
+
+Dr. Davenport, who provided our definition of a process above, also
+[remarked](https://www.fastcompany.com/26310/fad-forgot-people),
+
+> The rock that reengineering has foundered on is simple: people.
+
+Consider the consequences of our work. Not only for the team building the
+system, or using the system, or that uses its output. Consider the impact on
+systems and individuals who are affected by the decisions your system makes who
+don't even know your system exists.
 
 ## Extra Credit Reading
 
