@@ -9,10 +9,27 @@ Kevin has experience speaking both in-person and remotely. He's delivered live
 and pre-recorded talks. If you're interested in Kevin speaking at your event,
 you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) him.
 
+* [Engineering MBA]({{< ref "#engineering-mba" >}})
 * [Enough Coverage To Beat The Band]({{< ref "#enough-coverage-to-beat-the-band" >}})
 * [Fake It While You Make It]({{< ref "#fake-it-while-you-make-it" >}})
 * [Don't Hang Me Out To DRY]({{< ref "#dont-hang-me-out-to-dry" >}})
 * [I Know I Can, But Should I?]({{< ref "#i-know-i-can-but-should-i" >}})
+
+## Engineering MBA
+
+Improve your work as a developer with an introduction to strategic planning,
+situational leadership, and process management. No balance sheets or income
+statements here; join me to learn the MBA skills valuable to developers without
+the opportunity costs of lost wages or additional student loans.
+
+Demystify the strategic frameworks your management team may use to make
+decisions and learn how you can use those same concepts in your daily work.
+Explore the synergy one developer achieved by going to business school (sorry,
+the synergy comment slipped out - old habit).
+
+### RailsConf 2021
+
+* [Details]({{< ref "/engineering-mba" >}})
 
 ## Enough Coverage To Beat The Band
 
