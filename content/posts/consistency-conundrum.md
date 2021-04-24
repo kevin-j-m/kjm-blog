@@ -126,4 +126,4 @@ Living in the two worlds can be uncomfortable, and it is inconsistent. But it's
 intentional inconsistency with a plan towards consistency and based on a value
 judgement on the cost of the change vs. the benefit it'll provide.
 
-> This post originally published on [The Gnar Company blog](https://blog.thegnar.co/to-change-or-not-to-change).
+> This post originally published on [The Gnar Company blog](https://blog.thegnar.co/consistency-conundrum).
