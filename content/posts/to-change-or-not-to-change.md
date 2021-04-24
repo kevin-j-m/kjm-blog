@@ -5,6 +5,11 @@ tags = ["ruby", "software-design"]
 summary = "Here are more questions to try to answer THAT question"
 +++
 
+## Evaluating Alternatives
+
+- **To Change Or Not To Change**
+- [Consistency Conundrum]({{< ref "/consistency-conundrum" >}})
+
 ## Optional Feedback
 
 Imagine you've just wrapped up a new feature and submitted it for code review,
@@ -159,6 +164,6 @@ left out any discussion of consistency with the application itself.
 If keyword arguments aren't used anywhere else in the application, should we
 reject the change because it's inconsistent? What criteria can we use to
 determine how to maintain consistency **and** support change? We'll explore that
-in our next post.
+in our [next post]({{< ref "/consistency-conundrum" >}}).
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/to-change-or-not-to-change).
