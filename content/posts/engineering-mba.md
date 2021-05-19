@@ -21,6 +21,7 @@ fill out the form below.
 
 ## Presentation Resources
 
+* [Video](https://youtu.be/6ldCGo29w5g)
 * [Slides](https://speakerdeck.com/kevinmurphy/engineering-mba)
 
 ## Curriculum
