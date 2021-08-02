@@ -29,3 +29,8 @@ In case you can't read that, the tweet says:
 > Validate CSV Input With ActiveModel::Validations
 >
 > { author: @kevin_j_m } #DEVCommunity
+
+Lastly, Ruby Radar [#9](https://rubyradar.dev/issues/ruby-radar-9-junior-spotlight-705164)
+featured the post!
+
+{{< figure src="/img/ruby_radar_9.png" class="mid" >}}
