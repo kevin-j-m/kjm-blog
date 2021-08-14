@@ -1,6 +1,6 @@
 +++
 title = "Stringing Code Together to Play Music"
-date = 2020-12-15T7:03:46-05:00
+date = 2020-12-15T07:03:46-05:00
 tags = ["ruby", "software-design", "software-design-concert-series"]
 summary = "Anyone Can Play Guitar"
 +++

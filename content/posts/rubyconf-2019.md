@@ -14,6 +14,10 @@ Don’t get me wrong; these qualities are all beneficial. However, if we also th
 
 ## Presentation Resources
 
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b960MApGA7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 * [Video](https://www.youtube.com/watch?v=b960MApGA7A)
 * [Slides](https://speakerdeck.com/kevinmurphy/dont-hang-me-out-to-dry)
 * [Sample App](https://github.com/kevin-j-m/ivory-tower)

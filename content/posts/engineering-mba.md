@@ -21,6 +21,10 @@ fill out the form below.
 
 ## Presentation Resources
 
+{{< rawhtml class="float" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ldCGo29w5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 * [Video](https://youtu.be/6ldCGo29w5g)
 * [Slides](https://speakerdeck.com/kevinmurphy/engineering-mba)
 

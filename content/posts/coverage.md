@@ -9,6 +9,10 @@ aliases = ["/coverage"]
 
 ## Presentation Resources
 
+{{< rawhtml class="float" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EyLO0EEm3BQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 * [Video](https://youtu.be/EyLO0EEm3BQ)
 * [Slides](https://speakerdeck.com/kevinmurphy/enough-coverage-to-beat-the-band)
 * [Code Examples](https://github.com/kevin-j-m/ruby_cover_band)

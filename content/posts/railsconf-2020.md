@@ -18,6 +18,10 @@ There's no shortage of tools at your disposal to solve these problems. This talk
 
 ## Presentation Resources
 
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iEfpAp2sqiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 * [Video](https://youtu.be/iEfpAp2sqiw)
 * [Sample App](https://github.com/kevin-j-m/testing-services)
 * [Code Examples](https://github.com/kevin-j-m/testing-services#testing-methods)

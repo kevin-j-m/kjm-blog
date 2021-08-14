@@ -14,6 +14,10 @@ The ruby toolbox is vast. While Rails provides a default experience, it leaves p
 
 ## Presentation Resources
 
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NiePLJVjNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 * [Video](https://www.youtube.com/watch?v=2NiePLJVjNI&feature=youtu.be)
 * [Slides](https://speakerdeck.com/kevinmurphy/i-know-i-can-but-should-i-evaluating-alternatives)
 * [Sample App](https://github.com/kevin-j-m/evaluating-alternatives)
