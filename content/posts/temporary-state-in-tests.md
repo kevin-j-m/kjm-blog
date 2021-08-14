@@ -28,7 +28,7 @@ expect(notifier.send_notification?).to eq true
 ```
 
 When we do this, we want to ensure that the results are _temporary_. Other
-tests, or even areas within a given test, shouldn't be affected bythis state
+tests, or even areas within a given test, shouldn't be affected by this state
 change. It should still be whatever day the tests are **really** run otherwise.
 
 Now, in the case of these helpers from Rails, according to the documentation:
