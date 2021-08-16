@@ -24,7 +24,7 @@ pygmentsCodeFences = true
     #youtube = "user/username" # or channel/channelname
 
 [params]
-    tagline = "Musings of a Boston-based Software Developer"
+    tagline = "Software Developer"
     description = "Kevin Murphy: Software Developer"
     #images = [""] #This is used for opengraph/twitter cards.
     customCSS = ["css/link-style.css", "css/code-scroll.css" ,
