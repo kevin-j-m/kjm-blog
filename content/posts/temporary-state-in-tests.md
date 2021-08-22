@@ -1,5 +1,5 @@
 +++
-title = "Temporary State in Tests"
+title = "Temporary State in Tests: Bloc(k) Party"
 date = 2021-08-14T14:05:07-04:00
 tags = ["ruby", "rails"]
 summary = "Turn Bullet warnings into a Silent Alarm"
