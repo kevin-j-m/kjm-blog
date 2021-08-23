@@ -14,6 +14,7 @@ you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) h
 * [Fake It While You Make It]({{< ref "#fake-it-while-you-make-it" >}})
 * [Don't Hang Me Out To DRY]({{< ref "#dont-hang-me-out-to-dry" >}})
 * [I Know I Can, But Should I?]({{< ref "#i-know-i-can-but-should-i" >}})
+* [Podcasts]({{< ref "#podcasts" >}})
 
 ## Engineering MBA
 
@@ -116,3 +117,10 @@ best in your situation with these lessons.
 {{< /rawhtml >}}
 
 * [Details]({{< ref "/railsconf-2019" >}})
+
+## Podcasts
+
+### Rails With Jason
+
+I joined Jason Swett on his podcast to talk about my RailsConf 2021 talk:
+Engineering MBA. You can listen [here](https://www.codewithjason.com/rails-with-jason-podcast/episodes/096-engineering-mba-with-kevin-murphy-jumSoete/).
