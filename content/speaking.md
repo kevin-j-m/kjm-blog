@@ -124,3 +124,9 @@ best in your situation with these lessons.
 
 I joined Jason Swett on his podcast to talk about my RailsConf 2021 talk:
 Engineering MBA. You can listen [here](https://www.codewithjason.com/rails-with-jason-podcast/episodes/096-engineering-mba-with-kevin-murphy-jumSoete/).
+
+### Remote Ruby
+
+I joined Andrew, Chris, and Jason to talk about code coverage, DRY code, and
+writing performant code - and the potential __downsides__ of focusing on those
+practices. You can listen [here](https://remoteruby.transistor.fm/143).
