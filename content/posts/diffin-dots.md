@@ -4,6 +4,7 @@ date = 2019-12-30T21:04:53-05:00
 tags = ["git"]
 categories = []
 summary = "Git comparisons of the future...today!"
+description = "A comparison of ways to, well, compare, different objects in git."
 +++
 
 ## A Sweet Surprise

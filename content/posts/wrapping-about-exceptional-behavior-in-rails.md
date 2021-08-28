@@ -4,6 +4,7 @@ date = 2021-03-21T20:24:01-04:00
 tags = ["ruby", "rails", "bundler", "debugging"]
 categories = []
 summary = "Unwrapping a mystery"
+description = "Why is our Rails app returning different HTTP status codes in different versions of Rails? Learn some tips and tricks for navigating a large ruby code base in this post."
 +++
 
 ## Exceptional Behavior in Rails

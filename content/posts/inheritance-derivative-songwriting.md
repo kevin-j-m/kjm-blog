@@ -3,6 +3,7 @@ title = "Inheritance: Derivative Songwriting"
 date = 2020-12-10T16:56:38-05:00
 tags = ["ruby", "software-design", "software-design-concert-series"]
 summary = "There are only 12 notes to choose from"
+description = "Inheritance sets up a relationship or a taxonomy between classes to allow for code reuse. It is both a commonly reached for and commonly derided tool which has its place, but must be wielded with care. Here we'll use inheritance to write new songs for our concert setlist."
 +++
 
 ## Ruby Software Design Concert Series

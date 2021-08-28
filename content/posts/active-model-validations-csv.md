@@ -3,6 +3,7 @@ title = "Validate CSV Input With ActiveModel::Validations"
 date = 2021-07-19T08:08:53-04:00
 tags = ["ruby", "rails", "data"]
 summary = "BOOK IT! towards using existing framework functionality"
+description = "Data input processes may be subject to different business rules than the data it ultimately correlates to in your system. You can still use familiar tools to apply those constraints and validations that only apply in this one case. Learn how to improve the robustness of CSV file ingestion using ActiveModel::Validations in this article."
 +++
 
 ## Standard Library Parsing

@@ -3,6 +3,7 @@ title = "Temporary State in Tests: Bloc(k) Party"
 date = 2021-08-14T14:05:07-04:00
 tags = ["ruby", "rails"]
 summary = "Turn Bullet warnings into a Silent Alarm"
+description = "Tests will sometimes require us to bend the truth and modify the state of the world in order to have repeatable, consistent results and feedback. Learn how to build your own method using a block to temporarily change what's true in an application with this article."
 +++
 
 

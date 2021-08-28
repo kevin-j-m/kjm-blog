@@ -3,6 +3,7 @@ title = "Shedding a Light on Duck Typing"
 date = 2020-12-03T12:10:31-05:00
 tags = ["ruby", "software-design", "software-design-concert-series"]
 summary = "It's time to light the lights"
+description = "Duck typing is commonly used by Rubyists and other users of dynamic languages. We'll demonstrate duck typing by helping a concert lighting team set up the lighting for a band."
 +++
 
 ## Ruby Software Design Concert Series

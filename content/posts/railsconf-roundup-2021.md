@@ -3,6 +3,7 @@ title = "RailsConf Roundup 2021"
 date = 2021-05-19T10:50:20-04:00
 tags = ["ruby", "rails", "conference", "railsconf", "speaking"]
 summary = "What's in your stack, or playlist?"
+description = "The RailsConf talk sessions have been released on YouTube, thanks to RubyCentral. If you'd like some suggestions on what to watch, I've got you covered."
 +++
 
 # RailsConf 2021

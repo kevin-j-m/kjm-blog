@@ -3,6 +3,7 @@ title = "ActiveRecord's New Takes a Block, Kid"
 date = 2021-05-14T12:20:07-05:00
 tags = ["ruby", "rails", "activerecord"]
 summary = "Hangin' Tough With All The Ways To Initialize An Object"
+description = "A number of ActiveRecord methods take a block to initialize attributes. This post explores how to do that and how using it compares to a few other methods of setting attributes on an object."
 +++
 
 ## Making New ActiveRecord Models ([Let's Try It Again](https://en.wikipedia.org/wiki/Let%27s_Try_It_Again))

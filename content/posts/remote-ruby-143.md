@@ -3,6 +3,7 @@ title = "Best Practices Are The Best For Whom?"
 date = 2021-08-26T19:13:09-04:00
 tags = ["ruby", "self-promotion", "podcast"]
 summary = "Appearance on the Remote Ruby Podcast"
+description = "Clarifying who is responsible for conveying the intent of best practices, as heard on Remote Ruby 143."
 +++
 
 I had a great time talking to Andrew Mason, Jason Charnes , and Chris Oliver on Remote Ruby. The episode was just released, and you can listen to it [here](https://remoteruby.transistor.fm/143).

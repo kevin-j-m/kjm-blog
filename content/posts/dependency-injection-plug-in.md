@@ -3,6 +3,7 @@ title = "Dependency Injection: Plug In"
 date = 2020-11-24T14:10:31-05:00
 tags = ["ruby", "software-design", "software-design-concert-series"]
 summary = "These go to eleven"
+description = "Dependency injection is a fancy term. It sounds intimidating. The purpose of this post is to explain what dependency injection is, how to use it, and why it can be beneficial."
 +++
 
 ## Ruby Software Design Concert Series

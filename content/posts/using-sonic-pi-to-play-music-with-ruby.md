@@ -3,6 +3,7 @@ title = "Using Sonic Pi to Play Music With Ruby"
 date = 2020-12-14T18:48:24-05:00
 tags = ["ruby", "software-design", "software-design-concert-series"]
 summary = "Amplifying the impact of your code"
+description = "Sonic Pi is a fun and approachable way to make music with code. For a slight twist on using it, you can read about how I incorporated it into an existing ruby code base."
 +++
 
 ## Ruby Software Design Concert Series
