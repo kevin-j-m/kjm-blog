@@ -3,6 +3,7 @@ title: "Speaking"
 date: 2020-12-19T17:37:33-05:00
 menu: "main"
 meta: "false"
+description: "Kevin has experience speaking both in-person and remotely. He’s delivered live and pre-recorded talks."
 ---
 
 Kevin has experience speaking both in-person and remotely. He's delivered live
@@ -36,6 +37,12 @@ the synergy comment slipped out - old habit).
 
 * [Details]({{< ref "/engineering-mba" >}})
 
+### [ChicagoRuby](https://www.meetup.com/ChicagoRuby/events/277987966/)
+
+### [Philly.rb](https://www.meetup.com/Phillyrb/events/278381879/)
+
+---
+
 ## Enough Coverage To Beat The Band
 
 The lights cut out. The crowd roars. It’s time. The band takes the stage.
@@ -56,6 +63,8 @@ assist your crew and delight your audience.
 
 * [Details]({{< ref "/coverage" >}})
 
+---
+
 ## Fake It While You Make It
 
 We all write code to interface with external systems, like a web service or a
@@ -75,6 +84,8 @@ tools together to ease the testing process.
 {{< /rawhtml >}}
 
 * [Details]({{< ref "/railsconf-2020" >}})
+
+---
 
 ## Don't Hang Me Out To DRY
 
@@ -97,6 +108,10 @@ to some of the “rules” we all hold dear.
 
 * [Details]({{< ref "/rubyconf-2019" >}})
 
+### [Boston.rb](https://www.meetup.com/bostonrb/events/265361498/)
+
+---
+
 ## I Know I Can, But Should I?
 
 You __can__ use a hammer to drive a screw into wood, but I’d recommend a
@@ -118,12 +133,17 @@ best in your situation with these lessons.
 
 * [Details]({{< ref "/railsconf-2019" >}})
 
+### [Boston.rb](https://www.meetup.com/bostonrb/events/260131301/)
+---
+
 ## Podcasts
 
 ### Rails With Jason
 
 I joined Jason Swett on his podcast to talk about my RailsConf 2021 talk:
 Engineering MBA. You can listen [here](https://www.codewithjason.com/rails-with-jason-podcast/episodes/096-engineering-mba-with-kevin-murphy-jumSoete/).
+
+---
 
 ### Remote Ruby
 
