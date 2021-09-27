@@ -7,7 +7,13 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 ---
 
 Kevin enjoys sharing what he learns through blogging. You can find his full
-archive of writing on this site, as well as cross-posted at his [dev.to pofile](https://dev.to/kevin_j_m). This page highlights posts of his that have been shared by others.
+archive of writing on this site, as well as cross-posted at his [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of his that have been shared by others.
+
+[Buffered IO Streams In Ruby]({{< ref "ruby-io-buffer" >}})
+
+* Ruby Weekly [#571](https://rubyweekly.com/issues/571)
+* Awesome Ruby [#290](https://ruby.libhunt.com/newsletter/279)
+* Ruby Radar [#17](https://rubyradar.dev/issues/ruby-radar-17-fall-is-here-779681)
 
 [Temporary State in Tests: Bloc(k) Party]({{< ref "temporary-state-in-tests" >}})
 
