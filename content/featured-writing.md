@@ -13,6 +13,7 @@ archive of writing on this site, as well as cross-posted at his [dev.to profile]
 "code-golf-conditionally-add-to-array" >}})
 
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1443339560365215746)
+* Dev Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1443491059259039745)
 
 [Buffered IO Streams In Ruby]({{< ref "ruby-io-buffer" >}})
 
