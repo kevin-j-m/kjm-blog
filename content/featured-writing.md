@@ -9,6 +9,11 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 Kevin enjoys sharing what he learns through blogging. You can find his full
 archive of writing on this site, as well as cross-posted at his [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of his that have been shared by others.
 
+[Code Golf: Conditionally Add To An Array]({{< ref
+"code-golf-conditionally-add-to-array" >}})
+
+* The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1443339560365215746)
+
 [Buffered IO Streams In Ruby]({{< ref "ruby-io-buffer" >}})
 
 * Ruby Weekly [#571](https://rubyweekly.com/issues/571)
@@ -25,7 +30,7 @@ archive of writing on this site, as well as cross-posted at his [dev.to profile]
 * Ruby Weekly [#562](https://rubyweekly.com/issues/562)
 * Awesome Ruby [#270](https://ruby.libhunt.com/newsletter/270)
 * Ruby Radar [#9](https://rubyradar.dev/issues/ruby-radar-9-junior-spotlight-705164)
-* The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1417522440431968261?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1417522440431968261%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=http%3A%2F%2Flocalhost%3A1313%2Fposts%2Fcsv-validation-sharing%2F)
+* The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1417522440431968261)
 
 [ActiveRecord's New Takes a Block, Kid]({{< ref "activerecord-new-block" >}})
 
