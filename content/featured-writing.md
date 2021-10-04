@@ -12,6 +12,8 @@ archive of writing on this site, as well as cross-posted at his [dev.to profile]
 [Code Golf: Conditionally Add To An Array]({{< ref
 "code-golf-conditionally-add-to-array" >}})
 
+* Ruby Weekly [#572](https://rubyweekly.com/issues/572)
+* Ruby Radar [#18](https://rubyradar.dev/issues/ruby-radar-18-happy-spooky-month-793121)
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1443339560365215746)
 * Dev Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1443491059259039745)
 
