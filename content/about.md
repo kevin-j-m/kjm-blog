@@ -5,7 +5,7 @@ menu: "main"
 meta: "false"
 ---
 
-Kevin Murphy is the Director of Software Development at The Gnar Company.
+Kevin Murphy is a Staff Engineer at Vendr.
 He works primarily with back-end technologies. He's most proficient with Ruby,
 but also writes Elixir and Golang. He recognizes that Javascript exists, and is
 happy that other people like it. He enjoys solving integration and architecture
@@ -16,7 +16,7 @@ talking on [podcasts]({{< ref "speaking#podcasts" >}}).
 
 Kevin graduated from Rochester Institute of Technology (2008) and
 Bentley University (2010). After college, he worked as a developer in the
-insurance and healthcare technology industries before joining The Gnar Company.
+insurance industry, healthcare technology industry, and consulting.
 
 Kevin is originally from New Hampshire, and currently lives with his wife
 and daughter outside of Boston, Massachusetts. He enjoys
