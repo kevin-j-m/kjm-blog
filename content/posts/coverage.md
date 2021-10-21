@@ -33,7 +33,7 @@ Each mode answers a different question about the code that was run under coverag
 </p>
 {{< /rawhtml >}}
 
-This is the “classic” implementation of providing coverage. Each relevant line, that is those that aren’t things like empty lines or “end” statements, has a counter that is incremented each time the line is visited in code execution while coverage is running. At the conclusion, you will see how many times each line is executed.
+This is the “classic” implementation of providing coverage. Each relevant line, that is those that aren’t things like empty lines or `end` statements, has a counter that is incremented each time the line is visited in code execution while coverage is running. At the conclusion, you will see how many times each line is executed.
 
 #### Benefits
 
@@ -48,12 +48,12 @@ This is the “classic” implementation of providing coverage. Each relevant li
 </p>
 {{< /rawhtml >}}
 
-Similar to Line Coverage, this also documents that a relevant line was executed while coverage was running. However, it’s a binary report of whether it was executed or not. It will not tell you how often. This may be sufficient in many cases, and comes with the benefit of being more performant every subsequent time a particular line of code is executed under coverage.
+Similar to lines coverage, this also documents that a relevant line was executed while coverage was running. However, it’s a binary report of whether it was executed or not. It will not tell you how often. This may be sufficient in many cases, and comes with the benefit of being more performant every subsequent time a particular line of code is executed under coverage.
 
 #### Benefits
 
 * Oneshot provides you with nothing more than if a line of application code is executed in a test suite.
-* As long as being constrained to knowing if something ran or not, and not knowing how often, is sufficient, Oneshot Line Coverage provides the same feedback as Line Coverage with better performance.
+* As long as being constrained to knowing if something ran or not, and not knowing how often, is sufficient, oneshot lines coverage provides the same feedback as lines coverage with better performance.
 
 ### Methods
 
@@ -63,7 +63,7 @@ Similar to Line Coverage, this also documents that a relevant line was executed 
 </p>
 {{< /rawhtml >}}
 
-Method Coverage brings the granularity of Line Coverage up to a coarser grain. Rather than tracking individual lines, it’s concerned with whether a particular method is executed. It can be a 10 line method where the first line is the only line ever executed. Method Coverage will still consider that as executed the same as a 20 line method where each line is executed.
+Methods coverage brings the granularity of lines coverage up to a coarser grain. Rather than tracking individual lines, it’s concerned with whether a particular method is executed. It can be a 10 line method where the first line is the only line ever executed. Methods coverage will still consider that as executed the same as a 20 line method where each line is executed.
 
 #### Benefits
 
@@ -77,17 +77,17 @@ Method Coverage brings the granularity of Line Coverage up to a coarser grain. R
 </p>
 {{< /rawhtml >}}
 
-Branch Coverage tracks execution of different conditional paths and documents how often those different paths are run. The unique benefit that this provides over Line Coverage is in conditionals that execute multiple code paths in a single line, such as ternary statements. You may have a part of that conditional that’s never run or tested, but you wouldn’t know that if you’re relying on Line Coverage alone.
+Branches coverage tracks execution of different conditional paths and documents how often those different paths are run. The unique benefit that this provides over lines coverage is in conditionals that execute multiple code paths in a single line, such as ternary statements. You may have a part of that conditional that’s never run or tested, but you wouldn't know that if you’re relying on lines coverage alone.
 
 #### Benefits
 
-* It provides a different frame of reference than Line Coverage, which ends up being either coarser or more granular than line coverage in different situations.
-* For conditionals that lay out multiple code paths on a single line, this provides feedback on their individual execution where Line Coverage only considers whether any part of the line was run.
-* When interested in conditionals, and only conditionals, it has less noise than Lines Coverage.
+* It provides a different frame of reference than lines coverage, which ends up being either coarser or more granular than line coverage in different situations.
+* For conditionals that lay out multiple code paths on a single line, this provides feedback on their individual execution where lines coverage only considers whether any part of the line was run.
+* When interested in conditionals, and only conditionals, it has less noise than lines coverage.
 
 ## Gem Support
 
-If you'd like to leverage existing abstractions on top of ruby's Coverage module
+If you'd like to leverage existing abstractions on top of ruby's coverage module
 in your current applications, I recommend:
 
 * [SimpleCov](https://github.com/simplecov-ruby/simplecov) for test coverage. It
@@ -101,10 +101,6 @@ I have a series of blog posts using the live music examples I wrote for the talk
 to describe various software design principles. The first post is about
 [dependency injection]({{< ref "/dependency-injection-plug-in" >}}).
 You can see the full series [here]({{< ref "/tags/software-design-concert-series/" >}}).
-
-## The Gnar Company
-
-If you’d like to discuss how [The Gnar Company](https://www.thegnar.co/about.html) can work with you on your technical challenges, [let us know](https://www.thegnar.co/hire-us.html).
 
 ## Presentation Fonts
 

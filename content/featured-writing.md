@@ -58,4 +58,4 @@ archive of writing on this site, as well as cross-posted at his [dev.to profile]
 
 Ruby Coverage Documentation
 
-* Ruby [source code](https://github.com/ruby/ruby/commit/0026f644d739efed0d69911b434a1012ad55c393)
+* Ruby [documentation](https://docs.ruby-lang.org/en/3.0.0/Coverage.html) ([commit](https://github.com/ruby/ruby/commit/0026f644d739efed0d69911b434a1012ad55c393))
