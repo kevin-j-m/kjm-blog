@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 Kevin enjoys sharing what he learns through blogging. You can find his full
 archive of writing on this site, as well as cross-posted at his [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of his that have been shared by others.
 
+[Ruby's Got You Covered]({{< ref "rubys-got-you-covered" >}})
+
+* Ruby Radar [#21](https://www.getrevue.co/profile/rubyradar/issues/ruby-radar-21-what-s-the-tea-on-turbo-native-824552)
+
 [Code Golf: Conditionally Add To An Array]({{< ref
 "code-golf-conditionally-add-to-array" >}})
 
