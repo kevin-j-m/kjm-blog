@@ -63,6 +63,7 @@ assist your crew and delight your audience.
 
 * [Details]({{< ref "/coverage" >}})
 
+### [BostonRB](https://www.meetup.com/bostonrb/events/281560022/)
 ---
 
 ## Fake It While You Make It
