@@ -12,6 +12,7 @@ archive of writing on this site, as well as cross-posted at his [dev.to profile]
 [Ruby's Got You Covered]({{< ref "rubys-got-you-covered" >}})
 
 * Ruby Radar [#21](https://www.getrevue.co/profile/rubyradar/issues/ruby-radar-21-what-s-the-tea-on-turbo-native-824552)
+* Ruby Weekly [#577](https://rubyweekly.com/issues/577)
 
 [Code Golf: Conditionally Add To An Array]({{< ref
 "code-golf-conditionally-add-to-array" >}})
