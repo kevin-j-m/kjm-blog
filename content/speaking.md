@@ -64,6 +64,9 @@ assist your crew and delight your audience.
 * [Details]({{< ref "/coverage" >}})
 
 ### [BostonRB](https://www.meetup.com/bostonrb/events/281560022/)
+### [Columbus Ruby Brigade](https://www.meetup.com/columbusrb/events/281100451/)
+### [Philly.rb](https://www.meetup.com/Phillyrb/events/281652062)
+### [Nash.rb](https://www.meetup.com/nashrb/events/280646020)
 ---
 
 ## Fake It While You Make It
