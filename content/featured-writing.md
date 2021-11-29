@@ -13,6 +13,7 @@ archive of writing on this site, as well as cross-posted at his [dev.to profile]
 
 * Ruby Weekly [#579](https://rubyweekly.com/issues/579)
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1461371624557535240)
+* Ruby Radar [#26](https://rubyradar.dev/issues/ruby-radar-26-giving-thanks-896499)
 
 [Ruby's Got You Covered]({{< ref "rubys-got-you-covered" >}})
 
