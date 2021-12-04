@@ -67,6 +67,7 @@ assist your crew and delight your audience.
 ### [Columbus Ruby Brigade](https://www.meetup.com/columbusrb/events/281100451/)
 ### [Philly.rb](https://www.meetup.com/Phillyrb/events/281652062)
 ### [Nash.rb](https://www.meetup.com/nashrb/events/280646020)
+### [LRUG](https://lrug.org/meetings/2021/december/)
 ---
 
 ## Fake It While You Make It
@@ -145,7 +146,7 @@ best in your situation with these lessons.
 ### Rails With Jason
 
 I joined Jason Swett on his podcast to talk about my RailsConf 2021 talk:
-Engineering MBA. You can listen [here](https://www.codewithjason.com/rails-with-jason-podcast/episodes/096-engineering-mba-with-kevin-murphy-jumSoete/).
+Engineering MBA. You can listen [here](https://www.codewithjason.com/podcast/9478219-096-engineering-mba-with-kevin-murphy/).
 
 ---
 
