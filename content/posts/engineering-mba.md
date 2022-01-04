@@ -39,9 +39,9 @@ leadership.
   expectations.
 * Coaching - focus on getting buy-in from the team on explaining why decisions
   are made the way they are.
-* Supporting - shift decision-making ownership to the team and facilitate.
+* Supporting - shift decision-making ownership to the team and facilitate
   discussion amongst the team to reach decisions and provide encouragement.
-* Delegating - focus on overall vision, trusting the team with automony on
+* Delegating - focus on overall vision, trusting the team with autonomy on
   day-to-day decision-making.
 
 A leader must be able to exhibit all of these styles. Otherwise, they'll only be

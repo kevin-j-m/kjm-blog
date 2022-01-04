@@ -68,6 +68,7 @@ assist your crew and delight your audience.
 ### [Philly.rb](https://www.meetup.com/Phillyrb/events/281652062)
 ### [Nash.rb](https://www.meetup.com/nashrb/events/280646020)
 ### [LRUG](https://lrug.org/meetings/2021/december/)
+### [NYC.rb](https://www.meetup.com/NYC-rb/events/277238600)
 ---
 
 ## Fake It While You Make It
