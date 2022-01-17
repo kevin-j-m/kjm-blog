@@ -1,21 +1,19 @@
 +++
 title = "Situational Leadership: A Developer's Business"
 date = 2022-01-17T07:25:00-05:00
-tags = ["business", "soft-skills"]
+tags = ["business", "soft-skills", "leadership", "management", "productivity", "career"]
 summary = "Applying different leadership styles in software development"
 description = "The Situational Leadership model introduces four different leadership styles: directing, coaching, supporting, and delegating. Knowing which to use in the current situation is what makes for a successful and adaptable leader."
 +++
 
 ## A Developer's Business
 
-Knowing a thing or two about the mindset of someone on the "business" side of your
-company can be very valuable. That doesn't mean you need to spend two years of your life
-getting a [MBA]({{< ref "/engineering-mba" >}}) to learn about this (but don't
-let me stop you).
+1. __Situational Leadership__
+2. [Competitive Advantage]({{< ref "/competitive-advantage" >}})
 
-This post won't be about accounting or marketing or entrepreneurship or making
-quarterly revenue projections. However, it will focus on a concept I learned
-in business school that helps me in my day to day as a developer.
+Knowing a thing or two about the mindset of someone on the "business" side of your company can be very valuable. That doesn't mean you need to spend two years of your life getting a [MBA]({{< ref "/engineering-mba" >}}) to learn about this (but don't let me stop you).
+
+This post won't be about accounting, marketing, entrepreneurship, or making quarterly revenue projections. Instead, it will focus on a concept I learned in business school that helps me in my day-to-day as a developer.
 
 ## Leadership
 
