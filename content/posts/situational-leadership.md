@@ -10,6 +10,7 @@ description = "The Situational Leadership model introduces four different leader
 
 1. __Situational Leadership__
 2. [Competitive Advantage]({{< ref "/competitive-advantage" >}})
+3. [Core Competency]({{< ref "/core-competency" >}})
 
 Knowing a thing or two about the mindset of someone on the "business" side of your company can be very valuable. That doesn't mean you need to spend two years of your life getting a [MBA]({{< ref "/engineering-mba" >}}) to learn about this (but don't let me stop you).
 

@@ -67,7 +67,7 @@ A firm's [competitive advantage](https://corporatefinanceinstitute.com/resources
 
 #### Core Competency
 
-A firm's [core competencies](http://www.personal.psu.edu/kkm11/files/HandP_Core%20Competence%20of%20the%20organization.pdf) are the very specific set of qualities or characteristics that drive success. A core competency must meet all of the following criteria:
+A firm's [core competencies](https://link.springer.com/chapter/10.1007/978-3-662-41482-8_46) are the very specific set of qualities or characteristics that drive success. A core competency must meet all of the following criteria:
 
 * Provides access to various markets.
 * Contributes to perceived customer benefit.
