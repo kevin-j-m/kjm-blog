@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 Kevin enjoys sharing what he learns through blogging. You can find his full
 archive of writing on this site, as well as cross-posted at his [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of his that have been shared by others.
 
+[Situational Leadership: A Developer's Business]({{< ref "situational-leadership" >}})
+
+* DEV Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1483424689942847490)
+
 [Setter Method Return Values In Ruby]({{< ref "ruby-setter-return-value" >}})
 
 * Ruby Weekly [#579](https://rubyweekly.com/issues/579)
