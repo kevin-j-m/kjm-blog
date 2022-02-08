@@ -11,6 +11,7 @@ description = "Core competencies are unique capabilities that a firm delivers. D
 1. [Situational Leadership]({{< ref "/situational-leadership" >}})
 2. [Competitive Advantage]({{< ref "/competitive-advantage" >}})
 3. __Core Competency__
+4. [Business Process Management]({{< ref "/business-process-management" >}})
 
 Knowing a thing or two about the mindset of someone on the "business" side of your company can be very valuable. That doesn't mean you need to spend two years of your life getting a [MBA]({{< ref "/engineering-mba" >}}) to learn about this (but don't let me stop you).
 

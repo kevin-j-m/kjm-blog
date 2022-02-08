@@ -11,6 +11,7 @@ description = "Competitive Advantage strategies (cost, differentiation, and focu
 1. [Situational Leadership]({{< ref "/situational-leadership" >}})
 2. __Competitive Advantage__
 3. [Core Competency]({{< ref "/core-competency" >}})
+4. [Business Process Management]({{< ref "/business-process-management" >}})
 
 Knowing a thing or two about the mindset of someone on the "business" side of your company can be very valuable. That doesn't mean you need to spend two years of your life getting a [MBA]({{< ref "/engineering-mba" >}}) to learn about this (but don't let me stop you).
 
