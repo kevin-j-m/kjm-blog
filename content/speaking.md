@@ -69,6 +69,7 @@ assist your crew and delight your audience.
 ### [Nash.rb](https://www.meetup.com/nashrb/events/280646020)
 ### [LRUG](https://lrug.org/meetings/2021/december/)
 ### [NYC.rb](https://www.meetup.com/NYC-rb/events/277238600)
+### [VanRuby](https://www.meetup.com/vancouver-ruby/events/283653291/)
 ---
 
 ## Fake It While You Make It
