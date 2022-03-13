@@ -5,6 +5,7 @@ tags = ["ruby", "rails", "bundler", "debugging"]
 categories = []
 summary = "Unwrapping a mystery"
 description = "Why is our Rails app returning different HTTP status codes in different versions of Rails? Learn some tips and tricks for navigating a large ruby code base in this post."
+canonicalUrl = "https://www.thegnar.com/blog/wrapping-about-exceptional-behavior-in-rails"
 +++
 
 ## Exceptional Behavior in Rails

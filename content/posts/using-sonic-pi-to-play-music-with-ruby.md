@@ -4,6 +4,7 @@ date = 2020-12-14T18:48:24-05:00
 tags = ["ruby", "software-design", "software-design-concert-series"]
 summary = "Amplifying the impact of your code"
 description = "Sonic Pi is a fun and approachable way to make music with code. For a slight twist on using it, you can read about how I incorporated it into an existing ruby code base."
+canonicalUrl = "https://www.thegnar.com/blog/using-sonic-pi-to-play-music-with-ruby"
 +++
 
 ## Ruby Software Design Concert Series

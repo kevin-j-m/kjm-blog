@@ -4,6 +4,7 @@ date = 2021-09-20T09:00:07-04:00
 tags = ["ruby"]
 summary = "The buffer ate my homework"
 description = "Ruby IO may not immediately write where you are asking it to. Here we explore where writing to a stream goes and when it may or may not be committed where you would expect it to."
+canonicalUrl = "https://www.thegnar.com/blog/ruby-io-buffer"
 +++
 
 ## Object Permanence

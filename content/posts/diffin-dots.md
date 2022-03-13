@@ -5,6 +5,7 @@ tags = ["git"]
 categories = []
 summary = "Git comparisons of the future...today!"
 description = "A comparison of ways to, well, compare, different objects in git."
+canonicalUrl = "https://www.thegnar.com/blog/diffin-dots"
 +++
 
 ## A Sweet Surprise

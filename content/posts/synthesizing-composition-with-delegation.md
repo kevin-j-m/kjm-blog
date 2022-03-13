@@ -4,6 +4,7 @@ date = 2020-12-05T14:00:55-05:00
 tags = ["ruby", "software-design", "software-design-concert-series"]
 summary = "Orchestrating the sum so you don't need to know the parts"
 description = "Explore the benefits of delegating work to collaborators in object-oriented languages."
+canonicalUrl = "https://www.thegnar.com/blog/synthesizing-composition-with-delegation"
 +++
 
 ## Ruby Software Design Concert Series

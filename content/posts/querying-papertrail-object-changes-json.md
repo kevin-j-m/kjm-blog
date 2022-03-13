@@ -4,6 +4,7 @@ date = 2021-02-15T16:47:03-05:00
 tags = ["ruby", "papertrail", "postgres"]
 summary = "Reliving the past has never felt so futuristic"
 description = "How to use Postgres' JSON functions to retrieve data out of PaperTrail"
+canonicalUrl = "https://www.thegnar.com/blog/querying-papertrail-object-changes-json"
 +++
 
 [PaperTrail](https://github.com/paper-trail-gem/paper_trail) may be a fit for

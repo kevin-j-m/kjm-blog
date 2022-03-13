@@ -2,6 +2,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="description" content="{{ .Params.description | default .Site.Params.description }}" />
 <meta name="author" content="{{ .Params.Author | default .Site.Author.name }}" />
+{{ if .Params.canonicalUrl }}
+<link rel="canonical" href="{{ .Params.canonicalUrl }}">
+{{ else }}
+<link rel="canonical" href="{{ .Permalink }}">
+{{ end }}
 {{- with .OutputFormats.Get "rss" -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{- end -}}
