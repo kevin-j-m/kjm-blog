@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 Kevin enjoys sharing what he learns through blogging. You can find his full
 archive of writing on this site, as well as cross-posted at his [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of his that have been shared by others.
 
+[Finding an Initially Confusing Result in Rails]({{< ref "find-or-initialize-by-block" >}})
+
+* The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1503408365288017920)
+
 [Situational Leadership: A Developer's Business]({{< ref "situational-leadership" >}})
 
 * DEV Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1483424689942847490)
