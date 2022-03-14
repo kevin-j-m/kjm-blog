@@ -1,6 +1,6 @@
 +++
 title = "Finding an Initially Confusing Result in Rails"
-date = 2022-03-14T07:30:41-05:00
+date = 2022-03-14T07:30:41-04:00
 tags = ["ruby", "rails"]
 summary = "Blocking off some time to explain what feels like inconsistent behavior"
 description = "Rails' find_or_initialize_by method accepts an optional block, but that block is only executed when an existing record is not found by the provided attributes."
