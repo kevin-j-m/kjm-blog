@@ -12,6 +12,9 @@ archive of writing on this site, as well as cross-posted at his [dev.to profile]
 [Finding an Initially Confusing Result in Rails]({{< ref "find-or-initialize-by-block" >}})
 
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1503408365288017920)
+* Ruby Weekly [#595](https://rubyweekly.com/issues/595)
+* Awesome Ruby [#304](https://ruby.libhunt.com/newsletter/304)
+* Ruby Radar [#42](https://rubyradar.dev/issues/ruby-radar-42-vegas-baby-1085239)
 
 [Situational Leadership: A Developer's Business]({{< ref "situational-leadership" >}})
 
