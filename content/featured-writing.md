@@ -6,7 +6,7 @@ meta: "false"
 description: "Kevin enjoys sharing what he learns through blogging. This page highlights posts of his that have been shared by others."
 ---
 
-I enjoy sharing what I learns through blogging. You can find my full
+I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
 [Finding an Initially Confusing Result in Rails]({{< ref "find-or-initialize-by-block" >}})
