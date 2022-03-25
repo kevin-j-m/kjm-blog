@@ -5,27 +5,12 @@ menu: "main"
 meta: "false"
 ---
 
-Kevin Murphy is a Staff Engineer at Vendr.
-He works primarily with back-end technologies. He's most proficient with Ruby,
-but also writes Elixir and Golang. He recognizes that Javascript exists, and is
-happy that other people like it. He enjoys solving integration and architecture
-concerns with projects.
+I am a full-stack Rails developer. My primary focus is in back-end and code design improvements. I love coaching team members to improve their technical abilities. Learning together with my coworkers is a joy. I have a [track record](https://www.linkedin.com/in/kevinmurphydev/) of delivering solutions to big problems with small teams.
 
-Kevin enjoys [speaking]({{< ref "speaking" >}}) at conferences and meetups, [writing]({{< ref "featured-writing" >}}) about what he's learned, and
-talking on [podcasts]({{< ref "speaking#podcasts" >}}).
+I prefer working with back-end technologies. I'm most proficient with Ruby. I've have recently written Elixir and Golang professionally. I recognize that Javascript exists, and am happy that other people like it. I enjoy solving integration and architecture concerns with projects.
 
-Kevin graduated from Rochester Institute of Technology (2008) and
-Bentley University (2010). After college, he worked as a developer in the
-insurance industry, healthcare technology industry, and consulting.
+I like [speaking]({{< ref "speaking" >}}) at conferences and meetups, [writing]({{< ref "featured-writing" >}}) about what I've learned, and talking on [podcasts]({{< ref "speaking#podcasts" >}}).
 
-Kevin is originally from New Hampshire, and currently lives with his wife
-and daughter outside of Boston, Massachusetts. He enjoys
-supporting and visiting his [local greyhound rescue](https://greyhoundrescuene.org/)
-when he can. He likes live music and is passionate about very specific artists,
-namely [Bruce Springsteen](https://brucespringsteen.net/) and
-[Nine Inch Nails](https://www.nin.com/). He enjoys watching hockey and other
-people make woodworking projects, which leaves him with no time to make
-projects of his own.
+I graduated from Rochester Institute of Technology (2008) and Bentley University (2010). I have experience in the insurance industry, healthcare technology industry, and consulting.
 
-Kevin maintains the [clockwork-test](https://github.com/kevin-j-m/clockwork-test) gem,
-which is a test harness for the [clockwork](https://rubygems.org/gems/clockwork) gem.
+I'm originally from New Hampshire. I currently live with my wife and daughter outside of Boston, Massachusetts. I support and visit my [local greyhound rescue](https://greyhoundrescuene.org/) when I can. I'm passionate about very specific musical artists, namely [Bruce Springsteen](https://brucespringsteen.net/) and [Nine Inch Nails](https://www.nin.com/). I enjoy watching hockey and other people make woodworking projects. Unfortunately, that leaves me with no time to make projects of my own.
