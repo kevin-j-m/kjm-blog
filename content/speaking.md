@@ -6,9 +6,9 @@ meta: "false"
 description: "Kevin has experience speaking both in-person and remotely. He’s delivered live and pre-recorded talks."
 ---
 
-Kevin has experience speaking both in-person and remotely. He's delivered live
-and pre-recorded talks. If you're interested in Kevin speaking at your event,
-you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) him.
+I have experience speaking both in-person and remotely. I've delivered live
+and pre-recorded talks. If you're interested in me speaking at your event,
+you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) me.
 
 * [Engineering MBA]({{< ref "#engineering-mba" >}})
 * [Enough Coverage To Beat The Band]({{< ref "#enough-coverage-to-beat-the-band" >}})
