@@ -4,6 +4,8 @@ copyright = "Copyright &copy; 2021 - Kevin Murphy"
 canonifyurls = true
 theme = "hugo-kiera"
 
+googleAnalytics = 'G-RVD6VLNE04'
+
 paginate = 10
 
 summaryLength = 30
