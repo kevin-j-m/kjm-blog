@@ -5,6 +5,8 @@ menu: "main"
 meta: "false"
 ---
 
+I am [actively looking]({{< ref "available-for-hire-2022" >}}) for my next full-time remote role.
+
 I am a full-stack Rails developer. My primary focus is in back-end and code design improvements. I love coaching team members to improve their technical abilities. Learning together with my coworkers is a joy. I have a [track record](https://www.linkedin.com/in/kevinmurphydev/) of delivering solutions to big problems with small teams.
 
 I prefer working with back-end technologies. I'm most proficient with Ruby. I've have recently written Elixir and Golang professionally. I recognize that Javascript exists, and am happy that other people like it. I enjoy solving integration and architecture concerns with projects.
