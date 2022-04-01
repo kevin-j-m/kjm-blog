@@ -2,6 +2,7 @@
 title = "I Know I Can, But Should I?"
 date = 2019-12-30T17:40:50-05:00
 tags = ["ruby", "rails", "conference", "railsconf"]
+aliases = ["/railsconf-2019"]
 categories = []
 summary = "Evaluating Alternatives at RailsConf 2019"
 +++
