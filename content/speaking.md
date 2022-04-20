@@ -10,12 +10,23 @@ I have experience speaking both in-person and remotely. I've delivered live
 and pre-recorded talks. If you're interested in me speaking at your event,
 you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) me.
 
+* [Browser History Confessional]({{< ref "#browser-history-confessional" >}})
 * [Engineering MBA]({{< ref "#engineering-mba" >}})
 * [Enough Coverage To Beat The Band]({{< ref "#enough-coverage-to-beat-the-band" >}})
 * [Fake It While You Make It]({{< ref "#fake-it-while-you-make-it" >}})
 * [Don't Hang Me Out To DRY]({{< ref "#dont-hang-me-out-to-dry" >}})
 * [I Know I Can, But Should I?]({{< ref "#i-know-i-can-but-should-i" >}})
 * [Podcasts]({{< ref "#podcasts" >}})
+
+## Browser History Confessional
+
+We all only have so much working memory available in our brains. Developers may joke about spending their day composing search engine queries. The reason it's a joke is because of the truth behind it. Search-driven development is a reality.
+
+Join me, and my actual search history, on a journey to solve recent challenges I faced. I'll categorize the different types of information I often search for. You'll leave with tips on retrieving the knowledge you need for your next bug, feature, or pull request.
+
+### RailsConf 2022
+
+* [Details]({{< ref "/browser-history" >}})
 
 ## Engineering MBA
 
