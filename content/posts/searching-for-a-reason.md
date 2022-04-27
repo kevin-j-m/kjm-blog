@@ -1,28 +1,16 @@
 +++
-title = "Browser History Confessional: Searching My Recent Searches"
-date = 2022-04-13T08:55:10-04:00
-tags = ["ruby", "conference", "railsconf"]
-categories = []
-summary = "Searching for my latest conference talk"
-description = "Presentation resources for a talk about why we search for help in our day-to-day lives as software developers."
-aliases = ["/browser-history", "/alluvial"]
+title = "Searching for a Reason"
+date = 2022-05-15T07:00:00-04:00
+tags = ["ruby", "career", "productivity"]
+summary = "Browser History Confessional"
+description = "Why do we search for information? I consider the four main reasons I do: solving direct problems, recalling details, revisiting assumptions, and sharing communal knowledge."
 +++
-
-## Abstract
-
-We all only have so much working memory available in our brains. Developers may joke about spending their day composing search engine queries. The reason it's a joke is because of the truth behind it. Search-driven development is a reality.
-
-Join me, and my actual search history, on a journey to solve recent challenges I faced. I'll categorize the different types of information I often search for. You'll leave with tips on retrieving the knowledge you need for your next bug, feature, or pull request.
-
-## Presentation Resources
-
-* [Slides](https://speakerdeck.com/kevinmurphy/browser-history-confessional-searching-my-recent-searches)
-* [Code Examples](https://github.com/kevin-j-m/browser-history)
-* [Blog Post]({{< ref "/searching-for-a-reason" >}})
 
 ## Search-Driven Development
 
-I find it's important to consider *why* I'm searching for something. It helps guide the path I'll take to resolve my query and helps frame the problem in a familiar context. In my own work, I've found there are four main categories of reasons why I search. They all relate to how much experience I have with the problem I'm working on.
+We all only have so much working memory available in our brains. Developers may joke about spending their day composing search engine queries. The reason it's a joke is because of the truth behind it. Search-driven development is a reality.
+
+Embracing that truth, I find it's important to consider *why* I'm searching for something. It helps guide the path I'll take to resolve my query and helps frame the problem in a familiar context. In my own work, I've found there are four main categories of reasons why I search. They all relate to how much experience I have with the problem I'm working on.
 
 ### Solve Direct Problems
 
@@ -30,7 +18,7 @@ When I'm trying to do something for the first time, I may lack any context and p
 
 With a specific error that I'm looking to fix, there's one thing I almost always do first. I __copy and paste the error__ into a search engine. This is a high-leverage, low-effort move. It's unlikely you're the only person to have encountered this issue before. It requires validating that what you find are people experiencing the same problem. You must also determine for yourself if their solution works for you. However, it is still a go-to first step for me.
 
-That may not be a great approach if the error is fairly generic. It may not yield results if a lot of the error message is about code specific to your application. In that case, I review the error message, and consider the context where it arived. Search the README of the framework, dependency, or tool you're working with. Visit open and closed issues. Search their documentation. Find their forums. Use log messages to add to your search criteria.
+That may not be a great approach if the error is fairly generic. It may not yield results if a lot of the error message is about code specific to your application. In that case, I review the error message, and consider the context where it arrived. Search the README of the framework, dependency, or tool you're working with. Visit open and closed issues. Search their documentation. Find their forums. Use log messages to add to your search criteria.
 
 You may conduct a thorough search using all these avenues and still not have an answer. You might start feeling frustrated, or angry. You might be doubting your abilities. When that creeps in, the most important thing I can recommend is that you stop.
 
