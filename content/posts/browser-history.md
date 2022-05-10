@@ -4,6 +4,7 @@ date = 2022-04-13T08:55:10-04:00
 tags = ["ruby", "conference", "railsconf"]
 categories = []
 summary = "Searching for my latest conference talk"
+description = "Presentation resources for a talk about why we search for help in our day-to-day lives as software developers."
 aliases = ["/browser-history", "/alluvial"]
 +++
 
