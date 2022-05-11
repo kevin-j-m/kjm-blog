@@ -13,7 +13,7 @@ The piece of code I've written in the last two months most interesting to me isn
 
 ## Sad Song
 
-I don't (and likely will never) consider myself a guitarist, but I like the guitar. I'd like to have a Les Paul to go along with my Stratocaster, but I also like having money for things like food and shelter. I can't justify in the budget, and that's fine. But maybe I could find something close enough for less money.
+I don't (and likely will never) consider myself a guitarist, but I like the guitar. I'd like to have a Les Paul to go along with my Stratocaster, but I also like having money for things like food and shelter. I can't justify it in the budget, and that's fine. But maybe I could find something close enough for less money.
 
 I zeroed in on a copy, and I decided on a Firefly. There was only one problem - I couldn't buy one. At least, not from them. Keeping them in stock was problematic. Not only because of supply chain issues, but because of their business model. They batch up a small number of guitars a few times a year for sale. I wasn't the only person with the same plan to buy one. They sell out quickly most of the time.
 
