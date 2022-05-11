@@ -168,3 +168,10 @@ Engineering MBA. You can listen [here](https://www.codewithjason.com/podcast/947
 I joined Andrew, Chris, and Jason to talk about code coverage, DRY code, and
 writing performant code - and the potential __downsides__ of focusing on those
 practices. You can listen [here](https://remoteruby.transistor.fm/143).
+
+---
+
+### Code and the Coding Coders who Code it
+
+Drew Bragg and I cover prepping a talk for RailsConf, finding a job, and writing
+words about code that aren't code. You can listen [here](https://www.buzzsprout.com/1927628/10596923).
