@@ -28,6 +28,8 @@ Join me, and my actual search history, on a journey to solve recent challenges I
 
 * [Details]({{< ref "/browser-history" >}})
 
+### [Boulder Ruby](https://www.meetup.com/boulder_ruby_group/events/tzshdsydchbpb/)
+
 ## Engineering MBA
 
 Improve your work as a developer with an introduction to strategic planning,
