@@ -15,6 +15,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [Scraping Buy: Scripting for a Purchase]({{< ref "scraping-buy" >}})
 
+* Ruby Weekly [#605](https://rubyweekly.com/issues/605)
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1526252896383381505)
 
 [Finding an Initially Confusing Result in Rails]({{< ref "find-or-initialize-by-block" >}})
