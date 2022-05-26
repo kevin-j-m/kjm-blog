@@ -7,7 +7,9 @@ aliases = ["/available-for-hire"]
 description = "Kevin Murphy is looking for his next full-time remote role."
 +++
 
-I’m a Ruby and Rails developer looking for my next full-time remote role. Here’s a little [about me]({{< ref "about" >}}) and what I’m looking for. If this sounds like a good fit for your organization, I’d love to [talk](mailto:murphy.kevin.mail@gmail.com?subject=Opportunity%20To%20Work%20Together) with you.
+UPDATE: I am [no longer]({{< ref "/posts/bookbub-start" >}}) looking for work. Below is my original post from when I was.
+
+I’m a Ruby and Rails developer looking for my next full-time remote role. Here’s a little [about me]({{< ref "about" >}}) and what I’m looking for. If this sounds like a good fit for your organization, I’d love to talk with you.
 
 ## How I Work
 
@@ -29,4 +31,4 @@ This last year I've [written articles]({{< ref "featured-writing" >}}) featured 
 
 ## What I'm Looking For
 
-I’m looking for a full-time remote Staff/Principal/Architect role. I want to mentor team members, ship meaningful work, and learn from each other. If that sounds like a fit for your team, [let’s talk](mailto:murphy.kevin.mail@gmail.com?subject=Opportunity%20To%20Work%20Together).
+I’m looking for a full-time remote Staff/Principal/Architect role. I want to mentor team members, ship meaningful work, and learn from each other. If that sounds like a fit for your team, let’s talk.
