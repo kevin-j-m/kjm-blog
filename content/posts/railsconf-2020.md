@@ -23,5 +23,6 @@ There's no shortage of tools at your disposal to solve these problems. This talk
 {{< /rawhtml >}}
 
 * [Video](https://youtu.be/iEfpAp2sqiw)
+* [Slides](https://speakerdeck.com/kevinmurphy/fake-it-while-you-make-it)
 * [Sample App](https://github.com/kevin-j-m/testing-services)
 * [Code Examples](https://github.com/kevin-j-m/testing-services#testing-methods)
