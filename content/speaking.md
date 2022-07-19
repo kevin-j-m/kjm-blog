@@ -26,6 +26,10 @@ Join me, and my actual search history, on a journey to solve recent challenges I
 
 ### RailsConf 2022
 
+{{< rawhtml class="float" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7LkHjJdH9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 * [Details]({{< ref "/browser-history" >}})
 
 ### [Boulder Ruby](https://www.meetup.com/boulder_ruby_group/events/tzshdsydchbpb/)

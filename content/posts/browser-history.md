@@ -16,6 +16,11 @@ Join me, and my actual search history, on a journey to solve recent challenges I
 
 ## Presentation Resources
 
+{{< rawhtml class="float" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7LkHjJdH9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+* [Video](https://youtu.be/R7LkHjJdH9o)
 * [Slides](https://speakerdeck.com/kevinmurphy/browser-history-confessional-searching-my-recent-searches)
 * [Code Examples](https://github.com/kevin-j-m/browser-history)
 * [Blog Post]({{< ref "/searching-for-a-reason" >}})
