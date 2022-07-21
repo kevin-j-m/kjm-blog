@@ -17,9 +17,9 @@ That post has been featured in Ruby Weekly [#534](https://rubyweekly.com/issues/
 
 {{< figure src="/img/ruby_weekly_534.png" class="mid" >}} 
 
-I was also humbled to receive this tweet reply from a Nokogiri maintainer: 
+I was also humbled to receive this tweet reply from a Nokogiri maintainer:
 
-{{< tweet 1347195095079137285 >}} 
+{{< tweet user="flavorjones" id="1347195095079137285" >}}
 
 In case you can't read that, the tweet from Mike Dalessio says: 
 

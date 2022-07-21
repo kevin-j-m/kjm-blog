@@ -22,7 +22,7 @@ All of my blog posts are cross-posted on [dev.to](https://dev.to/kevin_j_m),
 and their ruby community was nice enough to share my post with their twitter
 followers.
 
-{{< tweet 1417522440431968261 >}}
+{{< tweet user="the_ruby_dev" id="1417522440431968261" >}}
 
 In case you can't read that, the tweet says:
 
