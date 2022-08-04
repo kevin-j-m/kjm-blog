@@ -16,6 +16,7 @@ aliases = ["/coverage"]
 * [Video](https://youtu.be/EyLO0EEm3BQ)
 * [Slides](https://speakerdeck.com/kevinmurphy/enough-coverage-to-beat-the-band)
 * [Code Examples](https://github.com/kevin-j-m/ruby_cover_band)
+* [Proposal]({{< ref "enough-coverage-to-beat-the-band-proposal" >}})
 
 ## Code Coverage Modes
 

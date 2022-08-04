@@ -22,6 +22,7 @@ Don’t get me wrong; these qualities are all beneficial. However, if we also th
 * [Slides](https://speakerdeck.com/kevinmurphy/dont-hang-me-out-to-dry)
 * [Sample App](https://github.com/kevin-j-m/ivory-tower)
 * [Code Examples](https://github.com/kevin-j-m/ivory-tower#code-examples)
+* [Proposal]({{< ref "dont-hang-me-out-to-dry-proposal" >}})
 
 ## Common Guiding Principles
 

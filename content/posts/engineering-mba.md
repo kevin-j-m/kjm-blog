@@ -27,6 +27,7 @@ fill out the form below.
 
 * [Video](https://youtu.be/6ldCGo29w5g)
 * [Slides](https://speakerdeck.com/kevinmurphy/engineering-mba)
+* [Proposal]({{< ref "engineering-mba-proposal" >}})
 
 ## Curriculum
 

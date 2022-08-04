@@ -23,6 +23,7 @@ The ruby toolbox is vast. While Rails provides a default experience, it leaves p
 * [Slides](https://speakerdeck.com/kevinmurphy/i-know-i-can-but-should-i-evaluating-alternatives)
 * [Sample App](https://github.com/kevin-j-m/evaluating-alternatives)
 * [Code Examples](https://github.com/kevin-j-m/evaluating-alternatives#code-examples)
+* [Proposal]({{< ref "evaluating-alternatives-proposal" >}})
 
 ## Evaluating Gnarly Alternatives
 
