@@ -50,7 +50,7 @@ Not all of these questions may be applicable in all situations, and the relative
 3. Evolving Traditional Approach for Daily/Common Decisions
   * What impact will this have on the project?
     - Research, prototype, or spike out how well this resolves the issue at hand.
-    - Identify how your supporting team may react to the change. Consider their past experience, strongly-heldbeliefs, and ability to build on or maintain this.
+    - Identify how your supporting team may react to the change. Consider their past experience, strongly-held beliefs, and ability to build on or maintain this.
     - Contemplate what, if any, standard this sets for future similar problems. Communicate, if necessary, not only for the current team but future contributors, the lens through which this should be evaluated for upcoming features.
     - *Example*: Should I use an ActiveRecord callback, or wrap this logic in another method?
   * Has the team encountered this before?
