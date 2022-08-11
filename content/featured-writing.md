@@ -11,6 +11,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [Sharing Past Conference Proposals]({{< ref "sharing-past-conference-proposals" >}})
 
+* Ruby Weekly [#616](https://rubyweekly.com/issues/616)
 * Ruby Radar [#62](https://www.getrevue.co/profile/rubyradar/issues/ruby-radar-62-hiring-and-mentoring-juniors-1295887)
 * Developer Avocados Weekly [#174](https://tinyletter.com/developeravocados/letters/the-2022-developer-relations-compensation-report-174)
 * DEV Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1555871431027834880)
