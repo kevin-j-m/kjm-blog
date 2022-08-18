@@ -14,6 +14,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 * Ruby Weekly [#616](https://rubyweekly.com/issues/616)
 * Ruby Radar [#62](https://www.getrevue.co/profile/rubyradar/issues/ruby-radar-62-hiring-and-mentoring-juniors-1295887)
 * Developer Avocados Weekly [#174](https://tinyletter.com/developeravocados/letters/the-2022-developer-relations-compensation-report-174)
+* Ruby Together [news](https://rubytogether.org/news/2022-08-18-5-reasons-to-turn-that-idea-into-a-rubyconf-2022-talk)
 * DEV Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1555871431027834880)
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1555890187166781440)
 
