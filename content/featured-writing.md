@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[Symmetric Spies: RSpec Test Organization]({{< ref "symmetric-spies" >}})
+* DEV Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1572528313322672128)
+* The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1572498113306267649)
+
 [Sharing Past Conference Proposals]({{< ref "sharing-past-conference-proposals" >}})
 
 * Ruby Weekly [#616](https://rubyweekly.com/issues/616)
