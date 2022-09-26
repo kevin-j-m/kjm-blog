@@ -12,6 +12,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 [Symmetric Spies: RSpec Test Organization]({{< ref "symmetric-spies" >}})
 * DEV Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1572528313322672128)
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1572498113306267649)
+* Short Ruby Newsletter [#11](https://newsletter.shortruby.com/p/issue-11-2022)
 
 [Sharing Past Conference Proposals]({{< ref "sharing-past-conference-proposals" >}})
 
