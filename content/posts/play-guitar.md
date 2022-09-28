@@ -8,7 +8,7 @@ description = "Presentation resources for a talk about teaching a computer to pl
 aliases = ["/play-guitar", "/playguitar", "/playGuitar"]
 +++
 
-I'm delighted to be [speaking](https://twitter.com/RubyConfMini/status/1573031880022032385) at [RubyConf Mini](https://www.rubyconfmini.com/) this November in Providence, RI. I hope you'll consider joining us.
+I'm delighted to be [speaking](https://twitter.com/RubyConfMini/status/1573031880022032385) at [RubyConf Mini](https://www.rubyconfmini.com/program) this November in Providence, RI. I hope you'll consider joining us.
 
 ## Abstract
 
