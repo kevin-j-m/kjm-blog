@@ -1,6 +1,6 @@
 +++
 title = "Revisiting Calling Sonic Pi From Ruby"
-date = 2022-10-02T18:48:24-05:00
+date = 2022-10-03T07:43:24-05:00
 tags = ["ruby", "software-design-concert-series"]
 summary = ""
 description = ""
