@@ -77,7 +77,7 @@ expect, it plays a sound. We retrieve the value of the sound to play from the
 inside of our `sound_output`, store it in our list of `@sounds` that the
 amplifier projects, and return it as well.
 
-## Output to File (Rename)
+## Audio Loopback
 
 The reason we're keeping track of our `@sounds` is that we want to be able to
 replay them again after the fact. Our amplifier will use this ability to write
