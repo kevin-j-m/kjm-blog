@@ -25,7 +25,10 @@ delivering a live performance of some music during the presentation. This ended
 up getting cut for a variety of reasons (time, concern about the audio working
 on the streaming platform, the reality of ambition turning into actual work to
 do), but I built out the structure to support this for one instrument, the
-guitar. This is the first of two posts that'll describe the work that I did to
+guitar. I integrated this into my [RubyConf Mini 2022]({{< ref "/play-guitar">}})
+talk, though with some [modifications]({{< ref "/revisiting-calling-sonic-pi-from-ruby" >}}).
+
+This is the first of two posts that'll describe the work that I did to
 support this.
 
 First, I had to figure out if it was possible to make this happen. I wanted to
@@ -50,7 +53,7 @@ controlling my audio from the code examples directly. I didn't want to have to
 work within the IDE.
 
 To get around using the IDE directly, I found the [sonic-pi-cli](https://github.com/Widdershin/sonic-pi-cli)
-gem. Its principal use case is to be used directly in the
+gem. This gem works with Sonic Pi versions 2.7 - 3.2. Its principal use case is to be used directly in the
 [terminal](https://github.com/Widdershin/sonic-pi-cli/blob/c4280f98edcec4de99801d013ec946cc47787932/bin/sonic_pi).
 However, it's a gem, and written in ruby, and the core functionality is
 available in a [class](https://github.com/Widdershin/sonic-pi-cli/blob/c4280f98edcec4de99801d013ec946cc47787932/lib/sonic_pi.rb)
