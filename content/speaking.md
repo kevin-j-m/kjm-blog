@@ -10,6 +10,7 @@ I have experience speaking both in-person and remotely. I've delivered live
 and pre-recorded talks. If you're interested in me speaking at your event,
 you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) me.
 
+* [Anyone Can Play Guitar (With Ruby)]({{< ref "#anyone-can-play-guitar-with-ruby" >}})
 * [Browser History Confessional]({{< ref "#browser-history-confessional" >}})
 * [Engineering MBA]({{< ref "#engineering-mba" >}})
 * [Enough Coverage To Beat The Band]({{< ref "#enough-coverage-to-beat-the-band" >}})
@@ -18,11 +19,23 @@ you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) m
 * [I Know I Can, But Should I?]({{< ref "#i-know-i-can-but-should-i" >}})
 * [Podcasts]({{< ref "#podcasts" >}})
 
+## Anyone Can Play Guitar (With Ruby)
+
+I've got the blues. I've been looking for the perfect guitar tone, but haven't found it. To amp up my mood, let's teach a computer to play the guitar through an amplifier.
+
+Let's string together object-oriented principles to orchestrate a blues shuffle. We'll model our domain with the help of inheritance, composition, and dependency injection. This talk will strike a chord with you, whether you've strummed a guitar before or not.
+
+[Read More]({{< ref "/play-guitar" >}})
+
+### RubyConf Mini 2022
+
 ## Browser History Confessional
 
 We all only have so much working memory available in our brains. Developers may joke about spending their day composing search engine queries. The reason it's a joke is because of the truth behind it. Search-driven development is a reality.
 
 Join me, and my actual search history, on a journey to solve recent challenges I faced. I'll categorize the different types of information I often search for. You'll leave with tips on retrieving the knowledge you need for your next bug, feature, or pull request.
+
+[Read More]({{< ref "/browser-history" >}})
 
 ### RailsConf 2022
 
@@ -30,7 +43,6 @@ Join me, and my actual search history, on a journey to solve recent challenges I
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R7LkHjJdH9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-* [Details]({{< ref "/browser-history" >}})
 
 ### [Boulder Ruby](https://www.meetup.com/boulder_ruby_group/events/tzshdsydchbpb/)
 
@@ -46,13 +58,13 @@ decisions and learn how you can use those same concepts in your daily work.
 Explore the synergy one developer achieved by going to business school (sorry,
 the synergy comment slipped out - old habit).
 
+[Read More]({{< ref "/engineering-mba" >}})
+
 ### RailsConf 2021
 
 {{< rawhtml class="float" >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ldCGo29w5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
-
-* [Details]({{< ref "/engineering-mba" >}})
 
 ### [ChicagoRuby](https://www.meetup.com/ChicagoRuby/events/277987966/)
 
@@ -72,13 +84,13 @@ production and also tell you how live code is used (or not used). We’ll cover
 how to leverage ruby’s different coverage measurement techniques in concert to
 assist your crew and delight your audience.
 
+[Read More]({{< ref "/coverage" >}})
+
 ### RubyConf 2020
 
 {{< rawhtml class="float" >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EyLO0EEm3BQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
-
-* [Details]({{< ref "/coverage" >}})
 
 ### [BostonRB](https://www.meetup.com/bostonrb/events/281560022/)
 ### [Columbus Ruby Brigade](https://www.meetup.com/columbusrb/events/281100451/)
@@ -101,13 +113,13 @@ talk will introduce some available options, provide guidance on when one
 approach may be more appropriate than another, and discuss how to use these
 tools together to ease the testing process.
 
+[Read More]({{< ref "/railsconf-2020" >}})
+
 ### RailsConf 2020
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iEfpAp2sqiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
-
-* [Details]({{< ref "/railsconf-2020" >}})
 
 ---
 
@@ -124,13 +136,13 @@ think we should value everything in moderation, when should we push back on
 these ideals? What problems can they introduce? Let’s talk about the exceptions
 to some of the “rules” we all hold dear.
 
+[Read More]({{< ref "/rubyconf-2019" >}})
+
 ### RubyConf 2019
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b960MApGA7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
-
-* [Details]({{< ref "/rubyconf-2019" >}})
 
 ### [Boston.rb](https://www.meetup.com/bostonrb/events/265361498/)
 
@@ -149,13 +161,13 @@ plenty of room for alternatives. In learning how to do something, you may
 uncover different ways to accomplish the same goal. Determine which tool fits
 best in your situation with these lessons.
 
+[Read More]({{< ref "/railsconf-2019" >}})
+
 ### RailsConf 2019
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2NiePLJVjNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
-
-* [Details]({{< ref "/railsconf-2019" >}})
 
 ### [Boston.rb](https://www.meetup.com/bostonrb/events/260131301/)
 ---
