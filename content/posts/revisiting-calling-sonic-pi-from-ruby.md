@@ -10,6 +10,7 @@ description = "This provides a crude mechanism for piping sound output from your
 
 1. [Enumerating Musical Notes]({{< ref "/enumerating-musical-notes" >}})
 2. __Revisiting Calling Sonic Pi From Ruby__
+3. [Programming Guitar Greatness]({{< ref "/programming-guitar-greatness" >}})
 
 ## Tweaking Amp Settings
 
@@ -124,3 +125,5 @@ Sam Aaron very helpfully on [Twitter](https://twitter.com/samaaron/status/159265
 > One approach would be to implement some live_loop listeners to incoming OSC which you could then send to at your leisure from a separate pure Ruby process.
 >
 > That way you can show off the best of both worlds!
+
+Let's take a step back and explore how to model the business domain of [playing guitar]({{< ref "/programming-guitar-greatness" >}}).
