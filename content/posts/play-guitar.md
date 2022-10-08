@@ -26,6 +26,7 @@ Let's string together object-oriented principles to orchestrate a blues shuffle.
 * [Proposal]({{< ref "/anyone-can-play-guitar-proposal" >}})
 * Blog Post: [Enumerating Musical Notes]({{< ref "/enumerating-musical-notes" >}})
 * Blog Post: [Programming Guitar Greatness]({{< ref "/programming-guitar-greatness" >}})
+* Blog Post: [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "/composing-our-own-guitar-amps-from-inherited-gear" >}})
 * Blog Post: [Revisiting Calling Sonic Pi From Ruby]({{< ref "/revisiting-calling-sonic-pi-from-ruby" >}})
 
 {{< rawhtml >}}

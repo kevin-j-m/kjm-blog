@@ -11,6 +11,7 @@ description = "This provides a crude mechanism for piping sound output from your
 1. [Enumerating Musical Notes]({{< ref "/enumerating-musical-notes" >}})
 2. __Revisiting Calling Sonic Pi From Ruby__
 3. [Programming Guitar Greatness]({{< ref "/programming-guitar-greatness" >}})
+4. [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "/composing-our-own-guitar-amps-from-inherited-gear" >}})
 
 ## Tweaking Amp Settings
 
