@@ -11,6 +11,8 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [Enumerating Musical Notes]({{< ref "enumerating-musical-notes" >}})
 
+* Ruby Weekly [#625](https://rubyweekly.com/issues/625)
+* Awesome Ruby [#335](https://ruby.libhunt.com/newsletter/335)
 * DEV Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1582378972553224192)
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1582344492950384640)
 
