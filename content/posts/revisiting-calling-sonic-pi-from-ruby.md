@@ -6,6 +6,11 @@ summary = "Different year, different gear"
 description = "This provides a crude mechanism for piping sound output from your ruby program into Sonic Pi to have it sound like playing a guitar."
 +++
 
+## Anyone Can Play Guitar Series
+
+1. [Enumerating Musical Notes]({{< ref "/enumerating-musical-notes" >}})
+2. __Revisiting Calling Sonic Pi From Ruby__
+
 ## Tweaking Amp Settings
 
 [Sonic Pi](https://sonic-pi.net/) is software to make sounds and music driven by code. Sonic Pi comes with an [IDE](https://sonic-pi.net/tutorial.html#section-1-2) of sorts. You can program the composition you'd like to play in the IDE. With one button, you get immediate feedback hearing how your code sounds.
