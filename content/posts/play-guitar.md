@@ -1,7 +1,7 @@
 +++
 title = "Anyone Can Play Guitar (With Ruby)"
 date = 2022-09-22T17:00:10-04:00
-tags = ["ruby", "conference", "rubyconf"]
+tags = ["ruby", "conference", "rubyconf", "anyone-can-play-guitar"]
 categories = []
 summary = "Plugging (in) a new conference talk"
 description = "Presentation resources for a talk about teaching a computer to play guitar with object-oriented design principles."

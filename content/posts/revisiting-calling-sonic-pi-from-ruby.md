@@ -1,7 +1,7 @@
 +++
 title = "Revisiting Calling Sonic Pi From Ruby"
-date = 2022-10-03T07:43:24-05:00
-tags = ["ruby", "software-design-concert-series"]
+date = 2022-10-23T07:43:24-05:00
+tags = ["ruby", "software-design-concert-series", "anyone-can-play-guitar"]
 summary = "Different year, different gear"
 description = "This provides a crude mechanism for piping sound output from your ruby program into Sonic Pi to have it sound like playing a guitar."
 +++

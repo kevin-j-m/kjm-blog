@@ -1,7 +1,7 @@
 +++
 title = "Enumerating Musical Notes"
 date = 2022-10-13T17:00:10-04:00
-tags = ["ruby", "conference", "rubyconf"]
+tags = ["ruby", "conference", "rubyconf", "anyone-can-play-guitar"]
 categories = []
 summary = "Orchestrating an array of methods"
 description = "This post utilizes a score of Array and Enumerable methods to model music notes."
