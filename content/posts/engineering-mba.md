@@ -28,6 +28,10 @@ fill out the form below.
 * [Video](https://youtu.be/6ldCGo29w5g)
 * [Slides](https://speakerdeck.com/kevinmurphy/engineering-mba)
 * [Proposal]({{< ref "engineering-mba-proposal" >}})
+* Blog Post: [Situational Leadership]({{< ref "situational-leadership" >}})
+* Blog Post: [Competitive Advantage]({{< ref "competitive-advantage" >}})
+* Blog Post: [Core Competency]({{< ref "core-competency" >}})
+* Blog Post: [Business Process Management]({{< ref "business-process-management" >}})
 
 ## Curriculum
 
