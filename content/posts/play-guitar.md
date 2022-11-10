@@ -16,7 +16,7 @@ Let's string together object-oriented principles to orchestrate a blues shuffle.
 
 ## Presentation Resources
 
-* Slides
+* [Slides](https://speakerdeck.com/kevinmurphy/anyone-can-play-guitar)
 * [Code Examples](https://github.com/kevin-j-m/ruby-play-guitar#code-examples)
 * [Proposal]({{< ref "/anyone-can-play-guitar-proposal" >}})
 * Blog Post: [Enumerating Musical Notes]({{< ref "/enumerating-musical-notes" >}})
