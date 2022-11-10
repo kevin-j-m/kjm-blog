@@ -1,6 +1,6 @@
 +++
 title = "Anyone Can Play Guitar (With Ruby) - The Proposal"
-date = 2022-10-02T20:26:22-04:00
+date = 2022-11-10T20:26:22-04:00
 tags = ["conference-proposal", "conference", "rubyconf"]
 summary = "Presented at RubyConf Mini 2022"
 description = "The proposal for a talk I gave at RubyConf Mini 2022."
