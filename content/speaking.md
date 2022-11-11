@@ -27,7 +27,7 @@ Let's string together object-oriented principles to orchestrate a blues shuffle.
 
 [Read More]({{< ref "/play-guitar" >}})
 
-### RubyConf Mini 2022
+* [RubyConf Mini 2022](https://www.rubyconfmini.com/program#Anyone-Can-Play-Guitar-With-Ruby)
 
 ## Browser History Confessional
 
@@ -37,14 +37,12 @@ Join me, and my actual search history, on a journey to solve recent challenges I
 
 [Read More]({{< ref "/browser-history" >}})
 
-### RailsConf 2022
-
 {{< rawhtml class="float" >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R7LkHjJdH9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-
-### [Boulder Ruby](https://www.meetup.com/boulder_ruby_group/events/tzshdsydchbpb/)
+* [RailsConf 2022](https://railsconf.com/program/sessions#session-1262)
+* [Boulder Ruby](https://www.meetup.com/boulder_ruby_group/events/tzshdsydchbpb/)
 
 ## Engineering MBA
 
@@ -60,15 +58,13 @@ the synergy comment slipped out - old habit).
 
 [Read More]({{< ref "/engineering-mba" >}})
 
-### RailsConf 2021
-
 {{< rawhtml class="float" >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ldCGo29w5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-### [ChicagoRuby](https://www.meetup.com/ChicagoRuby/events/277987966/)
-
-### [Philly.rb](https://www.meetup.com/Phillyrb/events/278381879/)
+* RailsConf 2021
+* [ChicagoRuby](https://www.meetup.com/ChicagoRuby/events/277987966/)
+* [Philly.rb](https://www.meetup.com/Phillyrb/events/278381879/)
 
 ---
 
@@ -86,19 +82,19 @@ assist your crew and delight your audience.
 
 [Read More]({{< ref "/coverage" >}})
 
-### RubyConf 2020
-
 {{< rawhtml class="float" >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EyLO0EEm3BQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-### [BostonRB](https://www.meetup.com/bostonrb/events/281560022/)
-### [Columbus Ruby Brigade](https://www.meetup.com/columbusrb/events/281100451/)
-### [Philly.rb](https://www.meetup.com/Phillyrb/events/281652062)
-### [Nash.rb](https://www.meetup.com/nashrb/events/280646020)
-### [LRUG](https://lrug.org/meetings/2021/december/)
-### [NYC.rb](https://www.meetup.com/NYC-rb/events/277238600)
-### [VanRuby](https://www.meetup.com/vancouver-ruby/events/283653291/)
+* RubyConf 2020
+* [BostonRB](https://www.meetup.com/bostonrb/events/281560022/)
+* [Columbus Ruby Brigade](https://www.meetup.com/columbusrb/events/281100451/)
+* [Philly.rb](https://www.meetup.com/Phillyrb/events/281652062)
+* [Nash.rb](https://www.meetup.com/nashrb/events/280646020)
+* [LRUG](https://lrug.org/meetings/2021/december/)
+* [NYC.rb](https://www.meetup.com/NYC-rb/events/277238600)
+* [VanRuby](https://www.meetup.com/vancouver-ruby/events/283653291/)
+
 ---
 
 ## Fake It While You Make It
@@ -115,11 +111,11 @@ tools together to ease the testing process.
 
 [Read More]({{< ref "/railsconf-2020" >}})
 
-### RailsConf 2020
-
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iEfpAp2sqiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
+
+* RailsConf 2020
 
 ---
 
@@ -138,13 +134,12 @@ to some of the “rules” we all hold dear.
 
 [Read More]({{< ref "/rubyconf-2019" >}})
 
-### RubyConf 2019
-
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b960MApGA7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-### [Boston.rb](https://www.meetup.com/bostonrb/events/265361498/)
+* RubyConf 2019
+* [Boston.rb](https://www.meetup.com/bostonrb/events/265361498/)
 
 ---
 
@@ -163,13 +158,12 @@ best in your situation with these lessons.
 
 [Read More]({{< ref "/railsconf-2019" >}})
 
-### RailsConf 2019
-
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2NiePLJVjNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-### [Boston.rb](https://www.meetup.com/bostonrb/events/260131301/)
+* RailsConf 2019
+* [Boston.rb](https://www.meetup.com/bostonrb/events/260131301/)
 ---
 
 ## Podcasts
