@@ -12,6 +12,7 @@ description = "This post explores different domain modeling tools and object-ori
 2. [Revisiting Calling Sonic Pi From Ruby]({{< ref "/revisiting-calling-sonic-pi-from-ruby" >}})
 3. __Programming Guitar Greatness__
 4. [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "/composing-our-own-guitar-amps-from-inherited-gear" >}})
+5. [Flog-Driven Development]({{< ref "/flog-driven-development" >}})
 
 > I use heavy strings, tune low, play hard, and floor it. Floor it. That's technical talk.
 > -- [Stevie Ray Vaughan](https://twitter.com/srvofficial/status/836589348489424896?lang=en)

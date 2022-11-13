@@ -12,6 +12,7 @@ description = "This post explores inheritance and composition as a way to build 
 2. [Revisiting Calling Sonic Pi From Ruby]({{< ref "/revisiting-calling-sonic-pi-from-ruby" >}})
 3. [Programming Guitar Greatness]({{< ref "/programming-guitar-greatness" >}})
 4. __Composing Our Own Guitar Amps From Inherited Gear__
+5. [Flog-Driven Development]({{< ref "/flog-driven-development" >}})
 
 ## Getting Amped Up
 
@@ -212,3 +213,5 @@ end
 ```
 
 The special behavior for each of the amps lives in the modules so that different amp types can use them. We use modules to share that behavior across classes. That allows our hybrid amp to operate the same way as parts of our other amps.
+
+Next let's dig into a [tool]({{< ref "/flog-driven-development" >}}) that can help guide some of the code organization decisions we've made while building our guitar and amps.
