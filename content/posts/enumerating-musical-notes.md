@@ -13,6 +13,7 @@ description = "This post utilizes a score of Array and Enumerable methods to mod
 2. [Revisiting Calling Sonic Pi From Ruby]({{< ref "/revisiting-calling-sonic-pi-from-ruby" >}})
 3. [Programming Guitar Greatness]({{< ref "/programming-guitar-greatness" >}})
 4. [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "/composing-our-own-guitar-amps-from-inherited-gear" >}})
+5. [Flog-Driven Development]({{< ref "/flog-driven-development" >}})
 
 I'm teaching a computer how to play the guitar for [RubyConf Mini 2022]({{< ref "play-guitar" >}}). Let's understand some basics before focusing on the guitar. Guitars can play many musical notes - actually, all of them! In this post, we'll output which note we play with the help of Ruby's [Array](https://ruby-doc.org/core-3.1.2/Array.html) class and [Enumerable](https://ruby-doc.org/core-3.1.2/Enumerable.html) module.
 

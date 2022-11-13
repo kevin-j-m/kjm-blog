@@ -28,6 +28,7 @@ Let's string together object-oriented principles to orchestrate a blues shuffle.
 * Blog Post: [Programming Guitar Greatness]({{< ref "/programming-guitar-greatness" >}})
 * Blog Post: [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "/composing-our-own-guitar-amps-from-inherited-gear" >}})
 * Blog Post: [Revisiting Calling Sonic Pi From Ruby]({{< ref "/revisiting-calling-sonic-pi-from-ruby" >}})
+* Blog Post: [Flog-Driven Development]({{< ref "/flog-driven-development" >}})
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iQUNU36Vem4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
