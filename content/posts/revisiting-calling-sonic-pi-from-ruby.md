@@ -115,4 +115,12 @@ Sonic Pi will start, read the init file with all the instructions to play our so
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iQUNU36Vem4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{{< /rawhtml >}}
+{{< /rawhtml >}}s
+
+## Coda
+
+Sam Aaron very helpfully on [Twitter](https://twitter.com/samaaron/status/1592653823486889984) suggested a more reasonable approach that highlights built-in Sonic Pi functionality. With a combination of [live loops](https://github.com/sonic-pi-net/sonic-pi/blob/dev/etc/doc/tutorial/A.02-live-coding.md) and [OSC messages](https://github.com/sonic-pi-net/sonic-pi/blob/dev/etc/doc/tutorial/12.1-Receiving-OSC.md) I could have avoided relying on the init file. Thanks to Sam for the tip - and for Sonic Pi!
+
+> One approach would be to implement some live_loop listeners to incoming OSC which you could then send to at your leisure from a separate pure Ruby process.
+>
+> That way you can show off the best of both worlds!
