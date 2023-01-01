@@ -1,6 +1,6 @@
 baseurl = "https://kevinjmurphy.com/"
 title = "Kevin Murphy"
-copyright = "Copyright &copy; 2022 - Kevin Murphy"
+copyright = "Copyright &copy; 2023 - Kevin Murphy"
 canonifyurls = true
 theme = "hugo-kiera"
 
@@ -19,6 +19,7 @@ pygmentsCodeFences = true
     twitter = "kevin_j_m"
     linkedin = "kevinmurphydev"
     devto = "kevin_j_m"
+    mastodon = "ruby.social/@kevin_j_m"
     #gitlab = "username"
     #facebook = "username"
     #instagram = "username"
