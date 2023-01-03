@@ -18,7 +18,7 @@ As I write this, we're in that period between Christmas and New Year's Day. In t
 
 Having some time where I'm not working, I set some very healthy boundaries. Instead of working, I would instead *read* about work-related things. While I was catching up on the changes in 3.2.0, something caught my eye - there were some changes to Ruby's Coverage module.
 
-Coverage can [now support](https://github.com/ruby/ruby/pull/6396) measuring code coverage of code in `eval`. I may write more about that in a later post. As a follow-up to conversation in the [initial issue](https://bugs.ruby-lang.org/issues/19008), [another PR](https://github.com/ruby/ruby/pull/6462) adds controls for whether `eval` coverage is running.
+Coverage can [now support](https://github.com/ruby/ruby/pull/6396) measuring code coverage of code in `eval`. I've written more about that in a [later post]({{< ref "evaluating-more-coverage-in-ruby-3-2" >}}). As a follow-up to conversation in the [initial issue](https://bugs.ruby-lang.org/issues/19008), [another PR](https://github.com/ruby/ruby/pull/6462) adds controls for whether `eval` coverage is running.
 
 Part of that change adds a [new method](https://bugs.ruby-lang.org/issues/19026) to the `Coverage` API. `Coverage.supported?` is a method that accepts a symbol as an argument. It tells you if the Coverage module supports the mode or type of coverage asked about.
 
