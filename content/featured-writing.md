@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[My First Code Commit in Ruby]({{< ref "my-first-code-commit-in-ruby" >}})
+
+* Awesome Ruby [#346](https://ruby.libhunt.com/newsletter/346)
+
 [Enumerating Musical Notes]({{< ref "enumerating-musical-notes" >}})
 
 * Ruby Weekly [#625](https://rubyweekly.com/issues/625)
