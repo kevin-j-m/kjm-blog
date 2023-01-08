@@ -12,6 +12,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 [My First Code Commit in Ruby]({{< ref "my-first-code-commit-in-ruby" >}})
 
 * Awesome Ruby [#346](https://ruby.libhunt.com/newsletter/346)
+* Ruby Radar [#84](https://rubyradar.dev/issues/ruby-radar-84-one-week-in-1515552)
 
 [Enumerating Musical Notes]({{< ref "enumerating-musical-notes" >}})
 
