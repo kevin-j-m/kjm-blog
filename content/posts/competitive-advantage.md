@@ -62,3 +62,6 @@ Now that we know what competitive advantage *is*, why should you care as a devel
 Do you know what your company's stated, or intended, advantage is? That will help you propose new initiatives, knowing it's aligned with company strategy. It can inform how your team builds its next feature. Given our focus, we can frame our design reviews to make sure features add value for medical bloggers.
 
 You should also consider your personal competitive advantage strategy compared to other developers. That may sound obvious if you're looking for a new job. It's also important when asking for a promotion, or solidifying your performance review. The labor market now (early 2022) has a limited supply of developers, compared to job openings. Even so, the number of developers looking or interested in jobs is likely more than only __you__. What's your strategy to set yourself apart?
+
+Competitive advantage feeds in nicely to our next topic: [core competency]({{< ref "/core-competency" >}}).
+

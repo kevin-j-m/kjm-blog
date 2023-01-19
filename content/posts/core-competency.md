@@ -58,3 +58,5 @@ We can use the kind work of open source developers who maintain pagination libra
 ## Core Lesson
 
 A company's core competencies help it stand out in the marketplace. The same is true for you. What unique talents and skills do you bring to bear? How can you use them so that a company will reward you with a new job, title, or raise? Think about what your awesome qualities are and how you can leverage them.
+
+For the final lesson in our series, we'll discuss [business process management]({{< ref "/business-process-management" >}}).

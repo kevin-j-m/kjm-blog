@@ -147,3 +147,5 @@ practice, regardless of our expertise, title, or role in our teams. Situational
 Leadership is a framework you can use to consider what concrete actions you can
 model in a given scenario to provide the most effective leadership for yourself
 and your team.
+
+Now that we've covered leadership, let's explore your company's [competitive advantage]({{< ref "/competitive-advantage" >}}).
