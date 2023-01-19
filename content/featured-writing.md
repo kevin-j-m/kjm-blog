@@ -11,6 +11,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [Evaluating More Coverage in Ruby 3.2]({{< ref "evaluating-more-coverage-in-ruby-3-2" >}})
 
+* Ruby Weekly [#637](https://rubyweekly.com/issues/637)
 * Short Ruby Newsletter [#25](https://newsletter.shortruby.com/p/edition-25)
 
 [My First Code Commit in Ruby]({{< ref "my-first-code-commit-in-ruby" >}})
