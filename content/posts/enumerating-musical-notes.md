@@ -258,3 +258,6 @@ Note.new(starting_note: :a, starting_octave: 1, offset: 12).octave
 We now have a class that can tell us which note we play on any string of our guitar. We leveraged Ruby's standard library to handle most of our logic. The [Array](https://ruby-doc.org/core-3.1.2/Array.html) class and [Enumerable](https://ruby-doc.org/core-3.1.2/Enumerable.html) module worked in concert with our domain knowledge. We didn't need to write any algorithms or complex transformations ourselves. And now our computer knows how to play musical notes.
 
 That sounds great to me.
+
+Let's keep exploring using Ruby to make music by touching on an integration with [Sonic Pi]({{< ref "/revisiting-calling-sonic-pi-from-ruby" >}}).
+
