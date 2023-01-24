@@ -13,6 +13,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 * Ruby Weekly [#637](https://rubyweekly.com/issues/637)
 * Short Ruby Newsletter [#25](https://newsletter.shortruby.com/p/edition-25)
+* Short Ruby Newsletter [#26](https://newsletter.shortruby.com/p/edition-26)
 
 [My First Code Commit in Ruby]({{< ref "my-first-code-commit-in-ruby" >}})
 
