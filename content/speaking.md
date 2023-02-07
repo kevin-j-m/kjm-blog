@@ -27,6 +27,10 @@ Let's string together object-oriented principles to orchestrate a blues shuffle.
 
 [Read More]({{< ref "/play-guitar" >}})
 
+{{< rawhtml class="float" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t0C75Z0LX20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 * [RubyConf Mini 2022](https://www.rubyconfmini.com/program#Anyone-Can-Play-Guitar-With-Ruby)
 
 ## Browser History Confessional

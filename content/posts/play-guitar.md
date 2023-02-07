@@ -16,6 +16,11 @@ Let's string together object-oriented principles to orchestrate a blues shuffle.
 
 ## Presentation Resources
 
+{{< rawhtml class="float" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t0C75Z0LX20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+* [Video](https://youtu.be/t0C75Z0LX20)
 * [Slides](https://speakerdeck.com/kevinmurphy/anyone-can-play-guitar)
 * [Code Examples](https://github.com/kevin-j-m/ruby-play-guitar#code-examples)
 * [Proposal]({{< ref "/anyone-can-play-guitar-proposal" >}})
