@@ -191,3 +191,9 @@ practices. You can listen [here](https://remoteruby.transistor.fm/143).
 
 Drew Bragg and I cover prepping a talk for RailsConf, finding a job, and writing
 words about code that aren't code. You can listen [here](https://www.buzzsprout.com/1927628/10596923). If you want some bonus hockey talk, you can listen to that [here](https://www.buzzsprout.com/1927628/10597043-bonus-hockey-episode).
+
+---
+
+### The Ruby on Rails Podcast
+
+Brittany Martin and I talked about BookBub, coverage, contributing to Ruby, and conference speaking. You can listen [here](https://www.therubyonrailspodcast.com/456).
