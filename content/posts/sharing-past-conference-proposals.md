@@ -8,7 +8,7 @@ description = "This summarizes my past accepted conference proposals, with some 
 
 ## Happy CFP Season!
 
-As of this writing, in the Ruby world, it is time to respond to a CFP! CFP stands for Call For Proposals. Conferences are looking for speakers, and they want to hear from you. The [CFP](https://cfp.rubycentral.org/events/rubyconf-2022) for [RubyConf](https://rubyconf.com/) and [RubyConf Mini](https://www.rubyconfmini.com/) is open, and I hope you'll consider submitting.
+Is it time to respond to a CFP? CFP stands for Call For Proposals. Conferences are looking for speakers, and they want to hear from you. I hope you'll consider submitting.
 
 To celebrate, I've published each of my [accepted proposals]({{< ref "/tags/conference-proposal/" >}}). This is definitely not me procrastinating on writing new proposals. This post is a whimsical summary of things that worked for me that can help with your proposal.
 
@@ -78,4 +78,4 @@ When people ask me for resources about writing a proposal, I currently send them
 * [How to Talk to Developers (video)](https://www.youtube.com/watch?v=l9JXH7JPjR4)
 * Review [other proposals](https://speakerline.io/proposals) (including [mine](https://speakerline.io/speakers/96))
 
-What can you share with everyone? What are you passionate about? What do you want to learn more about? Take all that energy and turn it into a [proposal](https://cfp.rubycentral.org/events/rubyconf-2022)! I look forward to reading your abstract in the RubyConf 2022 program.
+What can you share with everyone? What are you passionate about? What do you want to learn more about? Take all that energy and turn it into a proposal! Send me a link showing your name in the conference program so we can celebrate together.
