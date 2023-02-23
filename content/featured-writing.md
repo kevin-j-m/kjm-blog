@@ -10,7 +10,12 @@ I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
 [Duped into modifying a frozen hash]({{< ref "modify-frozen-hash" >}})
+
+* Ruby Weekly [#642](https://rubyweekly.com/issues/642)
 * Short Ruby Newsletter [#30](https://newsletter.shortruby.com/p/edition-30)
+* The Ruby Dev (dev.to) on [mastodon](https://ruby.social/@devcommunity/109914254738441718)
+* The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1628745253023883264)
+* DEV Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1628805136599351304)
 
 [Evaluating More Coverage in Ruby 3.2]({{< ref "evaluating-more-coverage-in-ruby-3-2" >}})
 
