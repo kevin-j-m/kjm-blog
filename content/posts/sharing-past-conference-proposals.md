@@ -6,6 +6,11 @@ summary = "A walk down memory lane"
 description = "This summarizes my past accepted conference proposals, with some tips or commentary on writing them."
 +++
 
+## Conference Talk Preparation Series
+
+1. __Sharing Past Conference Proposals__
+2. [Building Conference Talk Content]({{< ref "/building-conference-talk-content" >}})
+
 ## Happy CFP Season!
 
 Is it time to respond to a CFP? CFP stands for Call For Proposals. Conferences are looking for speakers, and they want to hear from you. I hope you'll consider submitting.
