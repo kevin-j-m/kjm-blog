@@ -10,6 +10,7 @@ description = "This summarizes my past accepted conference proposals, with some 
 
 1. __Sharing Past Conference Proposals__
 2. [Building Conference Talk Content]({{< ref "/building-conference-talk-content" >}})
+3. [Preparing Conference Talk Delivery]({{< ref "/preparing-conference-talk-delivery" >}})
 
 ## Happy CFP Season!
 

@@ -10,6 +10,7 @@ description = "This documents my methodology of taking an accepted talk proposal
 
 1. [Sharing Past Conference Proposals]({{< ref "/sharing-past-conference-proposals" >}})
 2. __Building Conference Talk Content__
+3. [Preparing Conference Talk Delivery]({{< ref "/preparing-conference-talk-delivery" >}})
 
 Have you recently had a conference proposal accepted? Congratulations! Are you wondering, "what do I do *now*?" Here is the process I follow to turn my proposal into a full-length talk.
 
@@ -17,11 +18,19 @@ Have you recently had a conference proposal accepted? Congratulations! Are you w
 
 My first step is to gather all the content I want to talk about as quickly as possible. I know that sounds reductive. Oh, the first step is JUST to put together all your content? How easy! I might as well tell you [how to draw an owl](https://knowyourmeme.com/photos/572078-how-to-draw-an-owl) next.
 
+<<<<<<< HEAD
 But, here's the thing - for a conference talk, I'm not starting from scratch. I've already put a lot of time, and thinking, into the [proposal]({{< ref "/sharing-past-conference-proposals" >}}). For me, that almost always includes a full outline. So I start by revisiting that and seeing what I need to add.
 
 I completed most of my research in the proposal, but I may need to brush up on some details. There may be a book or research paper that I skimmed that I need to go back to and dig into.
 
 Will I be using code examples to demonstrate some points? I'll start writing some code samples, in my usual code editor, that show what I want. I'll make sure they run. At this point, I'm not concerned about how terse or verbose they are. I'm not worried what the domain is. I need something that shows the point I want to make. I will admit that sometimes this code generation process is procrastination. I try to call myself out on that and not put too much effort into it at this point.
+=======
+But, here's the thing - for a conference talk, I'm not starting from scratch. I've already put a lot of time, and thinking, into the [proposal]({{< ref "/sharing-past-conference-proposals" >}}). For me, that almost always includes a full outline. So I start by revisiting that and see what I need to add.
+
+I completed ost of my research in the proposal, but I may need to brush up on some details. There may be a book or research paper that I skimmed that I need to go back to and dig into.
+
+Will I be using code examples to demonstrate some points? I'll start writing some code samples, in my usual code editor, that show what I want. I'll make sure they run. At this point, I'm not concerned about how terse or verbose they are. I'm not worried what the domain is. I need something that shows the point I want to make. I will admit that sometimes this code generation process is procrastination. I try to call myself out on that and not put too much effort into them at this point.
+>>>>>>> bdb7b2b (post about delivering a conference talk)
 
 ## Shameless Green
 
@@ -96,6 +105,7 @@ Are my slides accessible? I run my color scheme through a [contrast checker](htt
 
 Are my slides readable to the audience? I avoid putting any information you need the audience to see on the bottom third of the slides. Someone's head might be in the way. I distill code down to the essentials, even if that means it isn't syntactically valid or complete. I use as large of a font size and as few words as necessary.
 
+<<<<<<< HEAD
 I have what's showing on the slide be what you want the audience to focus on. Not what you're going to tell them in two more minutes. I don't have the entire code method on the slide. I have the one line that I'm talking about right now. Then the next slide adds the second line to it.
 
 If I ever use any slide builds, each build is a separate slide. I don't use an animation that happens within one slide. It makes it easier to go back and forth between slides, if  necessary.
@@ -103,3 +113,10 @@ If I ever use any slide builds, each build is a separate slide. I don't use an a
 ## Next Steps
 
 I have my slides built at this point, but my work isn't over. Next I go through the laborious, repetitive process to provide a consistent delivery.
+=======
+I have what's showing on the slide be what you want the audience to focus on. Not what you're going to tell them in two more minutes. To help me have more control over this, if I ever use any slide builds, each build is a separate slide. I don't use an animation that happens within one slide. It makes it easier to go back and forth between slides, if  necessary.
+
+## Next Steps
+
+I have my slides built at this point, but my work isn't over. Next I go through the laborious, repetitive process to provide a [consistent delivery]({{< ref "/preparing-conference-talk-delivery" >}}).
+>>>>>>> bdb7b2b (post about delivering a conference talk)
