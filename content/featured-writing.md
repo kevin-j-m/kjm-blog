@@ -12,6 +12,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 [Programming Guitar Greatness]({{< ref "/programming-guitar-greatness" >}})
 
 * Ruby Weekly [#646](https://rubyweekly.com/issues/646)
+* Short Ruby Newsletter [#35](https://newsletter.shortruby.com/p/edition-35)
 * The Ruby Dev (dev.to) on [mastodon](https://ruby.social/@devcommunity/110061231283456603)
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1638152273577623552)
 
