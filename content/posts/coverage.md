@@ -16,7 +16,14 @@ aliases = ["/coverage"]
 * [Video](https://youtu.be/EyLO0EEm3BQ)
 * [Slides](https://speakerdeck.com/kevinmurphy/enough-coverage-to-beat-the-band)
 * [Code Examples](https://github.com/kevin-j-m/ruby_cover_band)
-* [Blog Post]({{< ref "rubys-got-you-covered" >}})
+* Blog Post: [Ruby's Got You Covered]({{< ref "rubys-got-you-covered" >}})
+* Blog Post: [Evaluating More Coverage in Ruby 3.2]({{< ref "evaluating-more-coverage-in-ruby-3-2" >}})
+* Blog Post: [Dependency Injection: Plug In]({{< ref "dependency-injection-plug-in" >}})
+* Blog Post: [Shedding a Light on Duck Typing]({{< ref "shedding-light-on-duck-typing" >}})
+* Blog Post: [Synthesizing Composition With Delegation]({{< ref "synthesizing-composition-with-delegation" >}})
+* Blog Post: [Inheritance: Derivative Songwriting]({{< ref "inheritance-derivative-songwriting" >}})
+* Blog Post: [Using Sonic Pi to Play Music With Ruby]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}})
+* Blog Post: [Stringing Code Together to Play Music]({{< ref "stringing-code-together-to-play-music" >}})
 * [Proposal]({{< ref "enough-coverage-to-beat-the-band-proposal" >}})
 
 ## Code Coverage Modes
