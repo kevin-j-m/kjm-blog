@@ -11,6 +11,8 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "/composing-our-own-guitar-amps-from-inherited-gear" >}})
 
+* Short Ruby Newsletter [#39](https://newsletter.shortruby.com/p/short-ruby-news-the-content-edition-39)
+* Ruby Radar [April 23, 2023](https://www.rubyradar.com/p/railsconf-week)
 * The Ruby Dev (dev.to) on [mastodon](https://ruby.social/@devcommunity/110216546431224839)
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1648088698313928706)
 
