@@ -27,3 +27,5 @@ There's no shortage of tools at your disposal to solve these problems. This talk
 * [Sample App](https://github.com/kevin-j-m/testing-services)
 * [Code Examples](https://github.com/kevin-j-m/testing-services#testing-methods)
 * [Proposal]({{< ref "fake-it-while-you-make-it-proposal" >}})
+* Blog Post [Testing Dependencies: Fake It While You Make It]({{< ref "testing-dependencies" >}})
+* Blog Post [Designing A Dependency's Domain]({{< ref "designing-dependency-domain" >}})
