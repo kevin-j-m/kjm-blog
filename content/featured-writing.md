@@ -11,6 +11,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [Flog-Driven Development]({{< ref "flog-driven-development" >}})
 
+* Ruby Weekly [#654](https://rubyweekly.com/issues/654)
 * DEV Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1658828718687629312)
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1658808335204745218)
 
