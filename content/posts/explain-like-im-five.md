@@ -4,7 +4,6 @@ date = 2020-11-11T15:38:10-05:00
 tags = ["rails", "activerecord"]
 summary = "Five ways to run EXPLAIN on your Rails database queries"
 description = "Five ways to run EXPLAIN on your Rails database queries."
-canonicalUrl = "https://www.thegnar.com/blog/explain-like-im-five"
 +++
 
 ## `EXPLAIN`ing Myself

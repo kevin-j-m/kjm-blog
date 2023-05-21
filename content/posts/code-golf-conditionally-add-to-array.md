@@ -4,7 +4,6 @@ date = 2021-09-28T19:00:07-04:00
 tags = ["ruby"]
 summary = "Can you come up with more than four (fore) ways to do this?"
 description = "Ruby's expressiveness and vast API provides a myriad of ways to solve the same problem. This post proposes different ways to add elements to an array only if a certain condition applies."
-canonicalUrl = "https://www.thegnar.com/blog/code-golf-conditionally-add-to-array"
 +++
 
 ## The Grass Is Always Greener

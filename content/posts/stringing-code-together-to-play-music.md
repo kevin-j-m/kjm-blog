@@ -4,7 +4,6 @@ date = 2020-12-15T07:03:46-05:00
 tags = ["ruby", "software-design", "software-design-concert-series"]
 summary = "Anyone Can Play Guitar"
 description = "In a previous post, we built an amplifier. Now, we'll learn to play the guitar with ruby code."
-canonicalUrl = "https://www.thegnar.com/blog/stringing-code-together-to-play-music"
 +++
 
 ## Ruby Software Design Concert Series

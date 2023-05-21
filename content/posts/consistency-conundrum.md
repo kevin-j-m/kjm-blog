@@ -4,7 +4,6 @@ date = 2021-04-24T14:14:09-04:00
 tags = ["ruby", "software-design"]
 summary = "If the only constant is change, how do we keep our code consistent?"
 description = "How can we approach being consistent within a codebase while also continuing to evolve?"
-canonicalUrl = "https://www.thegnar.com/blog/consistency-conundrum"
 +++
 
 ## Evaluating Alternatives

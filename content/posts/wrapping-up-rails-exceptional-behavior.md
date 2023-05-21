@@ -4,7 +4,6 @@ date = 2021-03-28T14:15:20-04:00
 tags = ["ruby", "rails", "debugging"]
 summary = "Putting a bow on our investigation"
 description = "In our last post, we encountered some inconsistent behavior between Rails 5 and Rails 6. Now that we've identified the inconsistency, we'll explain why it's happening."
-canonicalUrl = "https://www.thegnar.com/blog/wrapping-up-rails-exceptional-behavior"
 +++
 
 ## Exceptional Behavior in Rails

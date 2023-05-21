@@ -4,7 +4,6 @@ date = 2021-04-18T07:29:25-04:00
 tags = ["ruby", "software-design"]
 summary = "Here are more questions to try to answer THAT question"
 description = "Here is a set of criteria to apply when determining between different options."
-canonicalUrl = "https://www.thegnar.com/blog/to-change-or-not-to-change"
 +++
 
 ## Evaluating Alternatives

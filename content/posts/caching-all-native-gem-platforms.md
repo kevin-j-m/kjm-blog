@@ -4,7 +4,6 @@ date = 2021-01-06T12:20:07-05:00
 tags = ["ruby"]
 summary = "Installing nokogiri WITHOUT native extensions"
 description = "Some dependencies, like nokogiri, ship with multiple libraries for different architectures. If you cache your gems, you may need to cache multiple platforms, because your development team is spread across various platforms or you deploy to a different platform. We discuss how to do that in this post."
-canonicalUrl = "https://www.thegnar.com/blog/caching-all-native-gem-platforms"
 +++
 
 ## TL;DR
