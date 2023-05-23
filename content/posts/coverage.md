@@ -7,6 +7,11 @@ summary = "Using Coverage To Stage A Concert Tour"
 aliases = ["/coverage"]
 +++
 
+## Thank You!
+
+Thanks for checking out my talk! To keep in touch, you can join [my newsletter](https://newsletter.kevinjmurphy.com/)
+or [follow me]({{< ref "about#elsewhere-on-the-internet" >}}) on the Internet.
+
 ## Presentation Resources
 
 {{< rawhtml class="float" >}}
