@@ -90,6 +90,7 @@ assist your crew and delight your audience.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EyLO0EEm3BQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
+* [Blue Ridge Ruby 2023]({{< ref "/blue-ridge-ruby-2023-recap" >}})
 * RubyConf 2020
 * [BostonRB](https://www.meetup.com/bostonrb/events/281560022/)
 * [Columbus Ruby Brigade](https://www.meetup.com/columbusrb/events/281100451/)
