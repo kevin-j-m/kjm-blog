@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[Blue Ridge Ruby 2023 Recap]({{< ref "blue-ridge-ruby-2023-recap" >}})
+
+* Ruby Weekly [#658](https://rubyweekly.com/issues/658)
+
 [Flog-Driven Development]({{< ref "flog-driven-development" >}})
 
 * Ruby Weekly [#654](https://rubyweekly.com/issues/654)
