@@ -198,3 +198,9 @@ words about code that aren't code. You can listen [here](https://www.buzzsprout.
 ### The Ruby on Rails Podcast
 
 Brittany Martin and I talked about BookBub, coverage, contributing to Ruby, and conference speaking. You can listen [here](https://www.therubyonrailspodcast.com/456).
+
+---
+
+### The Ruby on Rails Podcast (Again)
+
+I joined Brittany for a chance to talk with Allison McMillan and Chelsea Kaufman from Ruby Central about RubyConf 2023. You can listen [here](https://www.therubyonrailspodcast.com/488).
