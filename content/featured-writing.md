@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[Preparing Conference Talk Delivery]({{< ref "/preparing-conference-talk-delivery" >}})
+
+* Short Ruby Newsletter [#63](https://newsletter.shortruby.com/p/edition-63)
+
 [Building Conference Talk Content]({{< ref "building-conference-talk-content" >}})
 
 * Ruby Radar: [From Amsterdam with Love](https://www.rubyradar.com/p/amsterdam-love)
