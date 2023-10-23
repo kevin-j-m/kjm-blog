@@ -12,6 +12,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 [Preparing Conference Talk Delivery]({{< ref "/preparing-conference-talk-delivery" >}})
 
 * Short Ruby Newsletter [#63](https://newsletter.shortruby.com/p/edition-63)
+* Developer Avocados Weekly [#213](https://developeravocados.substack.com/p/revolutionising-the-developer-experience)
 
 [Building Conference Talk Content]({{< ref "building-conference-talk-content" >}})
 
