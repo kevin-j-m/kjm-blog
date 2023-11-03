@@ -204,3 +204,10 @@ Brittany Martin and I talked about BookBub, coverage, contributing to Ruby, and 
 ### The Ruby on Rails Podcast (Again)
 
 I joined Brittany for a chance to talk with Allison McMillan and Chelsea Kaufman from Ruby Central about RubyConf 2023. You can listen [here](https://www.therubyonrailspodcast.com/488).
+
+---
+
+### Ruby for All
+
+I joined Julie and Andrew to talk about conference speaking (and attending). You
+can listen [here](https://www.rubyforall.com/s2/50).
