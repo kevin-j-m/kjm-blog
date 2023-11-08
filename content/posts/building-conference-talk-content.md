@@ -18,19 +18,11 @@ Have you recently had a conference proposal accepted? Congratulations! Are you w
 
 My first step is to gather all the content I want to talk about as quickly as possible. I know that sounds reductive. Oh, the first step is JUST to put together all your content? How easy! I might as well tell you [how to draw an owl](https://knowyourmeme.com/photos/572078-how-to-draw-an-owl) next.
 
-<<<<<<< HEAD
-But, here's the thing - for a conference talk, I'm not starting from scratch. I've already put a lot of time, and thinking, into the [proposal]({{< ref "/sharing-past-conference-proposals" >}}). For me, that almost always includes a full outline. So I start by revisiting that and seeing what I need to add.
+But, here's the thing - for a conference talk, I'm not starting from scratch. I've already put a lot of time, and thinking, into the [proposal]({{< ref "/sharing-past-conference-proposals" >}}). For me, that almost always includes a full outline. So I start by revisiting that and see what I need to add.
 
 I completed most of my research in the proposal, but I may need to brush up on some details. There may be a book or research paper that I skimmed that I need to go back to and dig into.
 
-Will I be using code examples to demonstrate some points? I'll start writing some code samples, in my usual code editor, that show what I want. I'll make sure they run. At this point, I'm not concerned about how terse or verbose they are. I'm not worried what the domain is. I need something that shows the point I want to make. I will admit that sometimes this code generation process is procrastination. I try to call myself out on that and not put too much effort into it at this point.
-=======
-But, here's the thing - for a conference talk, I'm not starting from scratch. I've already put a lot of time, and thinking, into the [proposal]({{< ref "/sharing-past-conference-proposals" >}}). For me, that almost always includes a full outline. So I start by revisiting that and see what I need to add.
-
-I completed ost of my research in the proposal, but I may need to brush up on some details. There may be a book or research paper that I skimmed that I need to go back to and dig into.
-
 Will I be using code examples to demonstrate some points? I'll start writing some code samples, in my usual code editor, that show what I want. I'll make sure they run. At this point, I'm not concerned about how terse or verbose they are. I'm not worried what the domain is. I need something that shows the point I want to make. I will admit that sometimes this code generation process is procrastination. I try to call myself out on that and not put too much effort into them at this point.
->>>>>>> bdb7b2b (post about delivering a conference talk)
 
 ## Shameless Green
 
