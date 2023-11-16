@@ -3,7 +3,7 @@ title = "Ruby Friends at RubyConf 2023"
 date = 2023-11-15T19:00:00-04:00
 tags = ["ruby", "conference", "rubyconf", "photos", "rubyfriends"]
 summary = "A photo blog of the people I met"
-description = "I had a great time meeting ruby friends old and new and RubyConf. This shares the selfies I took."
+description = "I had a great time meeting ruby friends old and new at RubyConf. This shares the selfies I took."
 +++
 
 ## Ruby Friends at RubyConf 2023
