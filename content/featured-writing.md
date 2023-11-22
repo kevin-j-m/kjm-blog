@@ -12,6 +12,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 [RubyConf 2023 Recap]({{< ref "/rubyconf-2023-recap" >}})
 
 * Short Ruby Newsletter [#68](https://newsletter.shortruby.com/p/edition-68)
+* The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1727418674254848379)
 
 [Preparing Conference Talk Delivery]({{< ref "/preparing-conference-talk-delivery" >}})
 
