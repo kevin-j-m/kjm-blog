@@ -34,8 +34,7 @@ execution plan.
 ```
 
 This gives us a great starting point, and works across various databases.
-However, if you want some additional features, like [running](https://www.postgresql.org/docs/current/sql-explain.html) `EXPLAIN ANALYZE`,
-you'll need to look elsewhere.
+However, if you want some additional features, like [running](https://www.postgresql.org/docs/current/sql-explain.html) `EXPLAIN ANALYZE`, you'll need to look elsewhere. Unless you're using ActiveRecord 7.1 or higher, where it's [now available](https://www.bigbinary.com/blog/rails-7-1-adds-options-to-activerecord-relation-explain#analyze).
 
 ## 2. Interpolating a Query in an ActiveRecord Connection
 
