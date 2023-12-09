@@ -33,6 +33,7 @@ pygmentsCodeFences = true
     customCSS = ["css/link-style.css", "css/code-scroll.css" ,
 "css/coverage-emoji.css"]  #Optional Customised CSS
     #favicon = ""
+    disableDarkModeCSS = true # disables css style for users using dark-mode
 
 [[menu.main]]
     name = "Home" #Name in the navigation bar
