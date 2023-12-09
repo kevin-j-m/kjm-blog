@@ -31,7 +31,7 @@ pygmentsCodeFences = true
     description = "Kevin Murphy: Software Developer"
     #images = [""] #This is used for opengraph/twitter cards.
     customCSS = ["css/link-style.css", "css/code-scroll.css" ,
-"css/coverage-emoji.css", "css/header-name.css"]  #Optional Customised CSS
+"css/coverage-emoji.css", "css/header-name.css", "css/search.css"]  #Optional Customised CSS
     #favicon = ""
     disableDarkModeCSS = true # disables css style for users using dark-mode
 
