@@ -2,6 +2,7 @@
 title: "Speaking"
 date: 2020-12-19T17:37:33-05:00
 menu: "main"
+weight: "30"
 meta: "false"
 description: "Kevin has experience speaking both in-person and remotely. He’s delivered live and pre-recorded talks."
 ---
