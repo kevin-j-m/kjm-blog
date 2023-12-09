@@ -6,7 +6,7 @@ weight: "20"
 meta: "false"
 ---
 
-I am a full-stack Rails developer at [BookBub](https://www.bookbub.com/). My primary focus is in back-end and code design improvements. I love coaching team members to improve their technical abilities. Learning together with my coworkers is a joy. I have a [track record](https://www.linkedin.com/in/kevinmurphydev/) of delivering solutions to big problems with small teams.
+I am a full-stack Rails developer at [Pubmark](https://www.pubmark.com/). We help you find your next read with deals on [ebooks](https://www.bookbub.com/) and [audiobooks](https://www.chirpbooks.com/). My primary focus is in back-end and code design improvements. I love coaching team members to improve their technical abilities. Learning together with my coworkers is a joy. I have a [track record](https://www.linkedin.com/in/kevinmurphydev/) of delivering solutions to big problems with small teams.
 
 I prefer working with back-end technologies. I'm most proficient with Ruby. I've recently written Elixir and Golang professionally. I recognize that Javascript exists, and am happy that other people like it. I enjoy solving integration and architecture concerns with projects.
 
