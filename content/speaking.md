@@ -88,7 +88,7 @@ assist your crew and delight your audience.
 [Read More]({{< ref "/coverage" >}})
 
 {{< rawhtml class="float" >}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EyLO0EEm3BQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4pBjWOMr_Y?si=LuO1nsqTJRCMOOIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 * [Blue Ridge Ruby 2023]({{< ref "/blue-ridge-ruby-2023-recap" >}})

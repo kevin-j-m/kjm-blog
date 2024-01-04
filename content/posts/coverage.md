@@ -15,10 +15,11 @@ or [follow me]({{< ref "about#elsewhere-on-the-internet" >}}) on the Internet.
 ## Presentation Resources
 
 {{< rawhtml class="float" >}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EyLO0EEm3BQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4pBjWOMr_Y?si=LuO1nsqTJRCMOOIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-* [Video](https://youtu.be/EyLO0EEm3BQ)
+* Blue Ridge Ruby [Video](https://youtu.be/H4pBjWOMr_Y)
+* RubyConf [Video](https://youtu.be/EyLO0EEm3BQ)
 * [Slides](https://speakerdeck.com/kevinmurphy/enough-coverage-to-beat-the-band)
 * [Code Examples](https://github.com/kevin-j-m/ruby_cover_band)
 * Blog Post: [Ruby's Got You Covered]({{< ref "rubys-got-you-covered" >}})
