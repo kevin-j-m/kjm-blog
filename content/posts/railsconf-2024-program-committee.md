@@ -12,4 +12,6 @@ I'm thrilled to be part of the RailsConf 2024 Program Committee. [RailsConf](htt
 
 To put together a great program, we need __your help__. I hope you'll consider submitting a talk proposal to our [CFP](https://sessionize.com/railsconf2024/), which is open until February 13. I want to read your proposal!
 
-Thank you to Ufuk Kayserilioglu and Andy Croll for inviting me to participate. Whether as a speaker or an attendee, I hope I'll see you in Detroit this May.
+Thank you to Ufuk Kayserilioglu and Andy Croll for inviting me to participate. Special thanks to past Program Committee members for answering my questions.
+
+Whether as a speaker or an attendee, I hope I'll see you in Detroit this May.
