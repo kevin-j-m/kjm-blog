@@ -9,7 +9,12 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[Joining RailsConf 2024 Program Committee]({{< ref "/railsconf-2024-program-committee" >}})
+
+* Short Ruby Newsletter [#78](https://newsletter.shortruby.com/p/edition-78)
+
 [Blue Ridge Ruby 2023 Video]({{< ref "/blue-ridge-coverage-video" >}})
+
 * Ruby Weekly [#684](https://rubyweekly.com/issues/684)
 
 [RubyConf 2023 Recap]({{< ref "/rubyconf-2023-recap" >}})
