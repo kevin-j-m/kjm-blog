@@ -12,7 +12,7 @@ I'm on the [RailsConf 2024 Program Committee]({{< ref "/railsconf-2024-program-c
 
 One thing we don't have are formally-themed tracks. In past years, our CFP might have included prompts for different topics. Or we'd group some talks in publicly-shared and advertised ways.
 
-We aren't doing that this year. However, that didn't stop me from brainstorming a list of possible tracks, in case we did want to add them in.
+We aren't doing that this year. That lets us focus on the overall conference theme: building with Rails. However, that didn't stop me from brainstorming a list of possible tracks, in case we did want to add them in.
 
 The following is a list of what could have been, but will not be: tracks that are not part of the RailsConf 2024 program.
 
