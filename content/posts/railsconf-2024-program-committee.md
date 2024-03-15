@@ -1,7 +1,7 @@
 +++
 title = "Joining RailsConf 2024 Program Committee"
 date = 2024-02-05T17:00:22-05:00
-tags = ["ruby", "conference"]
+tags = ["ruby", "conference", "rails"]
 summary = "Will I see you in Detroit?"
 description = "I'm on the RailsConf 2024 Program Committee. I hope you'll consider submitting a talk to the CFP and joining us in Detroit May 7-9."
 +++
