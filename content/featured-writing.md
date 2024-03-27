@@ -12,6 +12,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 [Tracks Not At RailsConf 2024]({{< ref "/tracks-not-at-railsconf-2024" >}})
 
 * Ruby Weekly [#695](https://rubyweekly.com/issues/695)
+* The Ruby on Rails Podcast Show Notes [#512](https://www.therubyonrailspodcast.com/512)
 
 [Joining RailsConf 2024 Program Committee]({{< ref "/railsconf-2024-program-committee" >}})
 
