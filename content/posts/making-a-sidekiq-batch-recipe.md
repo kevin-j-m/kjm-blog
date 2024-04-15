@@ -14,19 +14,19 @@ We'll set each step up as a separate Sidekiq job. The details of each step aren'
 
 ```ruby
 class GetRawVeggiesWorker
-  include Sidekiq::Worker
+  include Sidekiq::Job
 
   def perform; end
 end
 
 class GetBaconWorker
-  include Sidekiq::Worker
+  include Sidekiq::Job
 
   def perform; end
 end
 
 class GetCupOfSoupWorker
-  include Sidekiq::Worker
+  include Sidekiq::Job
 
   def perform; end
 end
