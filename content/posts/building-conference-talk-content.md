@@ -97,18 +97,8 @@ Are my slides accessible? I run my color scheme through a [contrast checker](htt
 
 Are my slides readable to the audience? I avoid putting any information you need the audience to see on the bottom third of the slides. Someone's head might be in the way. I distill code down to the essentials, even if that means it isn't syntactically valid or complete. I use as large of a font size and as few words as necessary.
 
-<<<<<<< HEAD
-I have what's showing on the slide be what you want the audience to focus on. Not what you're going to tell them in two more minutes. I don't have the entire code method on the slide. I have the one line that I'm talking about right now. Then the next slide adds the second line to it.
-
-If I ever use any slide builds, each build is a separate slide. I don't use an animation that happens within one slide. It makes it easier to go back and forth between slides, if  necessary.
-
-## Next Steps
-
-I have my slides built at this point, but my work isn't over. Next I go through the laborious, repetitive process to provide a consistent delivery.
-=======
 I have what's showing on the slide be what you want the audience to focus on. Not what you're going to tell them in two more minutes. To help me have more control over this, if I ever use any slide builds, each build is a separate slide. I don't use an animation that happens within one slide. It makes it easier to go back and forth between slides, if  necessary.
 
 ## Next Steps
 
 I have my slides built at this point, but my work isn't over. Next I go through the laborious, repetitive process to provide a [consistent delivery]({{< ref "/preparing-conference-talk-delivery" >}}).
->>>>>>> bdb7b2b (post about delivering a conference talk)
