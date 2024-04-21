@@ -212,3 +212,11 @@ I joined Brittany for a chance to talk with Allison McMillan and Chelsea Kaufman
 
 I joined Julie and Andrew to talk about conference speaking (and attending). You
 can listen [here](https://www.rubyforall.com/s2/50).
+
+---
+
+### Ruby for All (Again)
+
+I joined Julie and Andrew to talk about RailsConf 2024. Julie and I are both on
+the RailsConf 2024 Program Committee, and shared our experience thus far. You
+can listen [here](https://www.rubyforall.com/s2/66).
