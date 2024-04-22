@@ -13,6 +13,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 * Ruby Weekly [#699](https://rubyweekly.com/issues/699)
 * Short Ruby Newsletter [#86](https://newsletter.shortruby.com/p/edition-86)
+* Short Ruby Newsletter [#87](https://newsletter.shortruby.com/p/edition-87)
 
 [Tracks Not At RailsConf 2024]({{< ref "/tracks-not-at-railsconf-2024" >}})
 
