@@ -10,6 +10,8 @@ description = "A summary of my time at RailsConf 2024."
 
 RailsConf recently wrapped up in Detroit, Michigan. This post is meant to highlight the great work from all involved. I hope you'll seek out the full videos of all the sessions that interest you once they are available. Unfortunately, I couldn't be everywhere, so this covers what I saw.
 
+I've separately compiled a list of [brief takeaways]({{< ref "4-things-railsconf-2024" >}}).
+
 ## Preparing
 
 I had a bit of work to do leading up to the conference. It was my honor and
