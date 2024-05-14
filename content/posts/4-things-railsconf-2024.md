@@ -3,7 +3,7 @@ title = "Four Things To Take Away From RailsConf 2024"
 date = 2024-05-13T19:00:24-04:00
 tags = ["ruby", "conference", "rails"]
 summary = "One of these numbers may shock you!"
-description = ""
+description = "This discusses the importance that conferences have on my career and what was great about RailsConf 2024."
 +++
 
 ## RailsConf 2024
