@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[RailsConf 2024 Recap]({{< ref "railsconf-2024-recap" >}})
+
+* Short Ruby Newsletter [#90](https://newsletter.shortruby.com/p/edition-90)
+
 [Making a (Sidekiq) Batch Recipe]({{< ref "/making-a-sidekiq-batch-recipe" >}})
 
 * Ruby Weekly [#699](https://rubyweekly.com/issues/699)
