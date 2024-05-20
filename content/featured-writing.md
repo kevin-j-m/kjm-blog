@@ -17,6 +17,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 * Short Ruby Newsletter [#90](https://newsletter.shortruby.com/p/edition-90)
 * Ruby Weekly [#703](https://rubyweekly.com/issues/703)
+* Ruby Central [May 2024 Newsletter](https://rubycentral.org/news/may-2024-newsletter/)
 
 [Making a (Sidekiq) Batch Recipe]({{< ref "/making-a-sidekiq-batch-recipe" >}})
 
