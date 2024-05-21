@@ -18,7 +18,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 * Short Ruby Newsletter [#90](https://newsletter.shortruby.com/p/edition-90)
 * Ruby Weekly [#703](https://rubyweekly.com/issues/703)
 * Ruby Central [May 2024 Newsletter](https://rubycentral.org/news/may-2024-newsletter/)
-* TL;DR Web Dev [2024-05-21](https://a.tldrnewsletter.com/web-version?ep=1&lc=370b268c-04a2-11ef-ae94-154a86672d19&p=d99d0dce-174a-11ef-8688-c9b4f033c41d&pt=campaign&t=1716289633&s=f8d64a684b167de86dcb877ce42b9aa5b55fba7f1cbe8c8d40a248c4b598149c)
+* TLDR Web Dev [2024-05-21](https://a.tldrnewsletter.com/web-version?ep=1&lc=370b268c-04a2-11ef-ae94-154a86672d19&p=d99d0dce-174a-11ef-8688-c9b4f033c41d&pt=campaign&t=1716289633&s=f8d64a684b167de86dcb877ce42b9aa5b55fba7f1cbe8c8d40a248c4b598149c)
 
 [Making a (Sidekiq) Batch Recipe]({{< ref "/making-a-sidekiq-batch-recipe" >}})
 
