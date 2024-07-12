@@ -40,6 +40,11 @@ pygmentsCodeFences = true
     weight = 10 #The larger the weight, the more on the right this item will be
     url = "/" #URL address
 
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-RVD6VLNE04'
+
 # uncomment to enable the Tags link on the main toolbar
 #  [[menu.main]]
 #    identifier = "tags"
