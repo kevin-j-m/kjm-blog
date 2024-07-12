@@ -28,7 +28,7 @@ We looked into what was creating our wrapper and discovered that we were always
 passing it the `RuntimeError`. After taking a much-needed break, we start
 reading the code again, and, almost immediately, we see a [transformation](https://github.com/rails/rails/blob/63d3f3f4d868a5ed9eacf00af2a80278aa005051/actionpack/lib/action_dispatch/middleware/exception_wrapper.rb#L36):
 
-```ruby{3}
+```ruby
 def initialize(backtrace_cleaner, exception)
   @backtrace_cleaner = backtrace_cleaner
   @exception = original_exception(exception)
