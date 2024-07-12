@@ -9,7 +9,7 @@ description = "Here is a set of criteria to apply when determining between diffe
 ## Evaluating Alternatives
 
 - **To Change Or Not To Change**
-- [Consistency Conundrum]({{< ref "/consistency-conundrum" >}})
+- [Consistency Conundrum]({{< ref "consistency-conundrum" >}})
 
 ## Optional Feedback
 
@@ -165,6 +165,6 @@ left out any discussion of consistency with the application itself.
 If keyword arguments aren't used anywhere else in the application, should we
 reject the change because it's inconsistent? What criteria can we use to
 determine how to maintain consistency **and** support change? We'll explore that
-in our [next post]({{< ref "/consistency-conundrum" >}}).
+in our [next post]({{< ref "consistency-conundrum" >}}).
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/to-change-or-not-to-change).

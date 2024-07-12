@@ -8,12 +8,12 @@ description = "Duck typing is commonly used by Rubyists and other users of dynam
 
 ## Ruby Software Design Concert Series
 
-1. [Dependency Injection: Plug In]({{< ref "/dependency-injection-plug-in" >}})
+1. [Dependency Injection: Plug In]({{< ref "dependency-injection-plug-in" >}})
 2. __Shedding a Light on Duck Typing__
-3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
-4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
-5. [Using Sonic Pi To Play Music With Ruby]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
-6. [Stringing Code Together To Play Music]({{< ref "/stringing-code-together-to-play-music" >}})
+3. [Synthesizing Composition With Delegation]({{< ref "synthesizing-composition-with-delegation" >}})
+4. [Inheritance: Derivative Songwriting]({{< ref "inheritance-derivative-songwriting" >}})
+5. [Using Sonic Pi To Play Music With Ruby]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}})
+6. [Stringing Code Together To Play Music]({{< ref "stringing-code-together-to-play-music" >}})
 
 ## Setting the Stage
 
@@ -156,7 +156,7 @@ end
 The `LightingController`'s `trigger` method is taking advantage of duck typing.
 Ruby doesn't care what kind of object it's calling in its `light` argument. All
 that matters is that it responds to `trigger`. We also used duck typing when we
-discussed [dependency injection]({{< ref "/dependency-injection-plug-in" >}}). Our guitar
+discussed [dependency injection]({{< ref "dependency-injection-plug-in" >}}). Our guitar
 didn't care how the amplifier made sound, or even if it did make sound. All that
 matters at runtime to satisfy Ruby is that the object we pass in responds to
 `play` and accepts an argument.
@@ -219,6 +219,6 @@ If you're coming from a static typing system, or desiring more direction or
 enforcement about what's expected to be provided as an argument, then
 investigate defining interface types with RBS, which will be part of Ruby 3.
 
-Our concert series continues with a discussion on [composition and delegation]({{< ref "/synthesizing-composition-with-delegation" >}}).
+Our concert series continues with a discussion on [composition and delegation]({{< ref "synthesizing-composition-with-delegation" >}}).
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/shedding-light-on-duck-typing).

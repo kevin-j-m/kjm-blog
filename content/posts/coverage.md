@@ -114,7 +114,7 @@ in your current applications, I recommend:
 
 I have a series of blog posts using the live music examples I wrote for the talk
 to describe various software design principles. The first post is about
-[dependency injection]({{< ref "/dependency-injection-plug-in" >}}).
+[dependency injection]({{< ref "dependency-injection-plug-in" >}}).
 You can see the full series [here]({{< ref "/tags/software-design-concert-series/" >}}).
 
 ## Presentation Fonts

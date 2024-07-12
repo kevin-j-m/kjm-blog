@@ -5,7 +5,7 @@ tags = ["ruby", "self-promotion"]
 summary = "Ruby Weekly, Awesome Ruby, and dev.to - oh my!"
 +++
 
-Last week, I wrote a [post]({{< ref "/active-model-validations-csv" >}}) on my
+Last week, I wrote a [post]({{< ref "active-model-validations-csv" >}}) on my
 employer's [blog](https://blog.thegnar.co/active-model-validations-csv) about
 validating input from a CSV file using `ActiveModel::Validations`.
 

@@ -8,12 +8,12 @@ description = "Business Process Management follows five steps to continuously im
 
 ## A Developer's Business
 
-1. [Situational Leadership]({{< ref "/situational-leadership" >}})
-2. [Competitive Advantage]({{< ref "/competitive-advantage" >}})
-3. [Core Competency]({{< ref "/core-competency" >}})
+1. [Situational Leadership]({{< ref "situational-leadership" >}})
+2. [Competitive Advantage]({{< ref "competitive-advantage" >}})
+3. [Core Competency]({{< ref "core-competency" >}})
 3. __Business Process Management__
 
-Knowing a thing or two about the mindset of someone on the "business" side of your company can be very valuable. That doesn't mean you need to spend two years of your life getting a [MBA]({{< ref "/engineering-mba" >}}) to learn about this (but don't let me stop you).
+Knowing a thing or two about the mindset of someone on the "business" side of your company can be very valuable. That doesn't mean you need to spend two years of your life getting a [MBA]({{< ref "engineering-mba" >}}) to learn about this (but don't let me stop you).
 
 This post won't be about accounting, marketing, entrepreneurship, or making quarterly revenue projections. Instead, it will focus on a concept I learned in business school that helps me in my day-to-day as a developer.
 

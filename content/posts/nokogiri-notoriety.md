@@ -6,7 +6,7 @@ tags = ["ruby", "self-promotion"]
 summary = "Installing nokogiri with MY instructions"
 +++
 
-Last week, I wrote a [post]({{< ref "/caching-all-native-gem-platforms" >}}) on 
+Last week, I wrote a [post]({{< ref "caching-all-native-gem-platforms" >}}) on 
 my employer's [blog](https://blog.thegnar.co/caching-all-native-gem-platforms) 
 about how to set up the correct bundler configuration 
 to support caching multiple platforms of gems. This came up with the latest Nokogiri 

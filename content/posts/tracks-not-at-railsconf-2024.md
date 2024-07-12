@@ -8,7 +8,7 @@ description = "I'm on the RailsConf 2024 Program Committee. We just released the
 
 ## RailsConf 2024
 
-I'm on the [RailsConf 2024 Program Committee]({{< ref "/railsconf-2024-program-committee" >}}). We just released the [program](https://railsconf.org/schedule/) for this year's event, and I hope you'll join us!
+I'm on the [RailsConf 2024 Program Committee]({{< ref "railsconf-2024-program-committee" >}}). We just released the [program](https://railsconf.org/schedule/) for this year's event, and I hope you'll join us!
 
 One thing we don't have are formally-themed tracks. In past years, our CFP might have included prompts for different topics. Or we'd group some talks in publicly-shared and advertised ways.
 

@@ -8,15 +8,15 @@ description = "This post explores how flog, a tool that analyzes the complexity 
 
 ## Anyone Can Play Guitar Series
 
-1. [Enumerating Musical Notes]({{< ref "/enumerating-musical-notes" >}})
-2. [Revisiting Calling Sonic Pi From Ruby]({{< ref "/revisiting-calling-sonic-pi-from-ruby" >}})
-3. [Programming Guitar Greatness]({{< ref "/programming-guitar-greatness" >}})
-4. [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "/composing-our-own-guitar-amps-from-inherited-gear" >}})
+1. [Enumerating Musical Notes]({{< ref "enumerating-musical-notes" >}})
+2. [Revisiting Calling Sonic Pi From Ruby]({{< ref "revisiting-calling-sonic-pi-from-ruby" >}})
+3. [Programming Guitar Greatness]({{< ref "programming-guitar-greatness" >}})
+4. [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "composing-our-own-guitar-amps-from-inherited-gear" >}})
 5. __Flog-Driven Development__
 
 ## Remembering Refactoring
 
-In a [prior post]({{< ref "/programming-guitar-greatness" >}}), we extracted the details of how to tune a guitar out of the `Guitar` class. We [moved it]({{< ref "/programming-guitar-greatness#tune-low" >}}) to a separate `Tuner` class. In that telling, we did so because it spoke to our sensibilities. It afforded us more space in the `Guitar` class to focus on other responsibilities. It gave a central location to focus on tuning.
+In a [prior post]({{< ref "programming-guitar-greatness" >}}), we extracted the details of how to tune a guitar out of the `Guitar` class. We [moved it]({{< ref "programming-guitar-greatness#tune-low" >}}) to a separate `Tuner` class. In that telling, we did so because it spoke to our sensibilities. It afforded us more space in the `Guitar` class to focus on other responsibilities. It gave a central location to focus on tuning.
 
 What if those justifications weren't enough? What if we needed metrics to give an explanation for our refactoring? Let's use the guidance from a tool called [flog](https://github.com/seattlerb/flog) to guide our changes.
 

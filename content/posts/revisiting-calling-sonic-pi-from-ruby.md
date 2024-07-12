@@ -8,11 +8,11 @@ description = "This provides a crude mechanism for piping sound output from your
 
 ## Anyone Can Play Guitar Series
 
-1. [Enumerating Musical Notes]({{< ref "/enumerating-musical-notes" >}})
+1. [Enumerating Musical Notes]({{< ref "enumerating-musical-notes" >}})
 2. __Revisiting Calling Sonic Pi From Ruby__
-3. [Programming Guitar Greatness]({{< ref "/programming-guitar-greatness" >}})
-4. [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "/composing-our-own-guitar-amps-from-inherited-gear" >}})
-5. [Flog-Driven Development]({{< ref "/flog-driven-development" >}})
+3. [Programming Guitar Greatness]({{< ref "programming-guitar-greatness" >}})
+4. [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "composing-our-own-guitar-amps-from-inherited-gear" >}})
+5. [Flog-Driven Development]({{< ref "flog-driven-development" >}})
 
 ## Tweaking Amp Settings
 
@@ -34,7 +34,7 @@ It's not the greatest long-term solution. You don't want to hear the song every 
 
 ## Speaker
 
-Much like in my [original version]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}}), I built an amplifier to communicate with Sonic Pi. In my original post, my guitar class knew how to generate its [sound output]({{< ref "/stringing-code-together-to-play-music#plucking-a-single-string" >}}) to the amp. In this version, the amp knows how to do that.
+Much like in my [original version]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}}), I built an amplifier to communicate with Sonic Pi. In my original post, my guitar class knew how to generate its [sound output]({{< ref "stringing-code-together-to-play-music#plucking-a-single-string" >}}) to the amp. In this version, the amp knows how to do that.
 
 ```ruby
 class SonicPiAmplifier < Amplifier
@@ -67,7 +67,7 @@ class SonicPiAmplifier < Amplifier
 end
 ```
 
-The `play_operation` string is again a command from [Sonic Pi's DSL](https://sonic-pi.net/tutorial.html#section-2-1). As you'd expect, it plays a sound. We retrieve the value of the sound to play from the `Note` class we constructed in a [prior post]({{< ref "/enumerating-musical-notes" >}}). We pass this into our `sound_output`. We store the result in our list of `@sounds` that the amplifier projects, and return it as well.
+The `play_operation` string is again a command from [Sonic Pi's DSL](https://sonic-pi.net/tutorial.html#section-2-1). As you'd expect, it plays a sound. We retrieve the value of the sound to play from the `Note` class we constructed in a [prior post]({{< ref "enumerating-musical-notes" >}}). We pass this into our `sound_output`. We store the result in our list of `@sounds` that the amplifier projects, and return it as well.
 
 ## Audio Loopback
 
@@ -128,4 +128,4 @@ Sam Aaron very helpfully on [Twitter](https://twitter.com/samaaron/status/159265
 >
 > That way you can show off the best of both worlds!
 
-Let's take a step back and explore how to model the business domain of [playing guitar]({{< ref "/programming-guitar-greatness" >}}).
+Let's take a step back and explore how to model the business domain of [playing guitar]({{< ref "programming-guitar-greatness" >}}).

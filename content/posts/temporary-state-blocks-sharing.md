@@ -5,7 +5,7 @@ tags = ["ruby", "self-promotion"]
 summary = "Putting this on your (ruby) radar"
 +++
 
-Last week, I wrote a [post]({{< ref "/temporary-state-in-tests" >}}) on my
+Last week, I wrote a [post]({{< ref "temporary-state-in-tests" >}}) on my
 employer's [blog](https://blog.thegnar.co/temporary-state-in-tests) about using blocks in ruby to temporarily alter the state of
 the application, and how that can be particularly helpful in tests.
 

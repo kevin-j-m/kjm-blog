@@ -8,16 +8,16 @@ description = "In a previous post, we built an amplifier. Now, we'll learn to pl
 
 ## Ruby Software Design Concert Series
 
-1. [Dependency Injection: Plug In]({{< ref "/dependency-injection-plug-in" >}})
-2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
-3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
-4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
-5. [Using Sonic Pi To Play Music With Ruby]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
+1. [Dependency Injection: Plug In]({{< ref "dependency-injection-plug-in" >}})
+2. [Shedding a Light on Duck Typing]({{< ref "shedding-light-on-duck-typing" >}})
+3. [Synthesizing Composition With Delegation]({{< ref "synthesizing-composition-with-delegation" >}})
+4. [Inheritance: Derivative Songwriting]({{< ref "inheritance-derivative-songwriting" >}})
+5. [Using Sonic Pi To Play Music With Ruby]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}})
 6. __Stringing Code Together To Play Music__
 
 ## Setting the Stage
 
-In our [last post]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}}), I talked about how I built an interface to [Sonic Pi](https://sonic-pi.net) when
+In our [last post]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}}), I talked about how I built an interface to [Sonic Pi](https://sonic-pi.net) when
 I was preparing my [RubyConf 2020](https://youtu.be/EyLO0EEm3BQ) talk about Ruby's [Coverage](https://docs.ruby-lang.org/en/master/Coverage.html) module. At the
 end of that post, we could send sounds to Sonic Pi. Today, we'll have our code
 play the guitar, and send those sounds to our amplifier.
@@ -88,7 +88,7 @@ the octave.
 A helpful thing here is that the note is still a number to Sonic Pi. We can add
 the fret number pressed on the string to the root note of the string and Sonic
 Pi will know what note that is.
-We'll construct a Sonic Pi command to send to our [amplifier]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
+We'll construct a Sonic Pi command to send to our [amplifier]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}})
 to play that note.
 
 ```ruby
@@ -107,7 +107,7 @@ tone.
 
 ## Plucking a Single String
 
-Our guitarist is interfacing with the guitar as a whole, which is [composed]({{< ref "/synthesizing-composition-with-delegation" >}}) of
+Our guitarist is interfacing with the guitar as a whole, which is [composed]({{< ref "synthesizing-composition-with-delegation" >}}) of
 many strings. They'll first place their fingers on the neck of the guitar.
 
 ```ruby
@@ -160,7 +160,7 @@ end
 However, we need to package this all up in a string to then send that command
 over to Sonic Pi via the sonic-pi-cli gem.
 
-Our amplifier, passed in via [dependency injection]({{< ref "/dependency-injection-plug-in" >}}),
+Our amplifier, passed in via [dependency injection]({{< ref "dependency-injection-plug-in" >}}),
 then takes that command and sends it to Sonic Pi, producing a sound!
 
 ## Strike a Chord
@@ -225,11 +225,11 @@ Combining a few key software design principles, we were able to create a
 flexible, extensible, and testable system for playing music over the course of a
 few blog posts.
 
-We're now armed with an amplifier that knows how to communicate with [Sonic Pi]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
-that's passed in to our guitar via [dependency injection]({{< ref "/dependency-injection-plug-in" >}}) (but could send the notes anywhere as long as the injected class [responds]({{< ref "/shedding-light-on-duck-typing" >}}) to the right methods). Our guitar is [composed]({{< ref "/synthesizing-composition-with-delegation" >}}) of various strings, each of which are responsible for knowing what sound to make.
+We're now armed with an amplifier that knows how to communicate with [Sonic Pi]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}})
+that's passed in to our guitar via [dependency injection]({{< ref "dependency-injection-plug-in" >}}) (but could send the notes anywhere as long as the injected class [responds]({{< ref "shedding-light-on-duck-typing" >}}) to the right methods). Our guitar is [composed]({{< ref "synthesizing-composition-with-delegation" >}}) of various strings, each of which are responsible for knowing what sound to make.
 
 Given a songwriter who knows how to
-[consistently write]({{< ref "/inheritance-derivative-songwriting" >}}) for our band, we can
+[consistently write]({{< ref "inheritance-derivative-songwriting" >}}) for our band, we can
 play chords and individual notes on our guitar as the [song](https://github.com/kevin-j-m/ruby_cover_band/blob/09e7b72b38dac09d4968afe1468eda53caaf294c/lib/ruby_cover_band/songs/the_line_begins_to_blur.rb) requires.
 
 {{< rawhtml >}}

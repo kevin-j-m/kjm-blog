@@ -8,12 +8,12 @@ description = "Explore the benefits of delegating work to collaborators in objec
 
 ## Ruby Software Design Concert Series
 
-1. [Dependency Injection: Plug In]({{< ref "/dependency-injection-plug-in" >}})
-2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
+1. [Dependency Injection: Plug In]({{< ref "dependency-injection-plug-in" >}})
+2. [Shedding a Light on Duck Typing]({{< ref "shedding-light-on-duck-typing" >}})
 3. __Synthesizing Composition With Delegation__
-4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
-5. [Using Sonic Pi To Play Music With Ruby]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
-6. [Stringing Code Together To Play Music]({{< ref "/stringing-code-together-to-play-music" >}})
+4. [Inheritance: Derivative Songwriting]({{< ref "inheritance-derivative-songwriting" >}})
+5. [Using Sonic Pi To Play Music With Ruby]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}})
+6. [Stringing Code Together To Play Music]({{< ref "stringing-code-together-to-play-music" >}})
 
 ## Setting the Stage
 
@@ -140,7 +140,7 @@ def initialize_memory
 end
 ```
 
-Thanks to [duck typing]({{< ref "/shedding-light-on-duck-typing" >}}), as long as these patch
+Thanks to [duck typing]({{< ref "shedding-light-on-duck-typing" >}}), as long as these patch
 memory classes respond to the same messages, our `Synthesizer` class can use
 either of them interchangeably.
 
@@ -155,6 +155,6 @@ responsibility to different classes can also make it easier for the system to
 change, making it more likely to promote code reuse.
 
 Next we're going to play one of the greatest hits in software design:
-[inheritance]({{< ref "/inheritance-derivative-songwriting" >}}).
+[inheritance]({{< ref "inheritance-derivative-songwriting" >}}).
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/synthesizing-composition-with-delegation).

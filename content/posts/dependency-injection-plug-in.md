@@ -9,11 +9,11 @@ description = "Dependency injection is a fancy term. It sounds intimidating. The
 ## Ruby Software Design Concert Series
 
 1. __Dependency Injection: Plug In__
-2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
-3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
-4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
-5. [Using Sonic Pi To Play Music With Ruby]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
-6. [Stringing Code Together To Play Music]({{< ref "/stringing-code-together-to-play-music" >}})
+2. [Shedding a Light on Duck Typing]({{< ref "shedding-light-on-duck-typing" >}})
+3. [Synthesizing Composition With Delegation]({{< ref "synthesizing-composition-with-delegation" >}})
+4. [Inheritance: Derivative Songwriting]({{< ref "inheritance-derivative-songwriting" >}})
+5. [Using Sonic Pi To Play Music With Ruby]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}})
+6. [Stringing Code Together To Play Music]({{< ref "stringing-code-together-to-play-music" >}})
 
 ## Setting the Stage
 
@@ -159,6 +159,6 @@ allows for more flexibility in collaborating with others, reduces the burden of
 testing, and makes it more clear when classes are growing to the point where
 their current design needs to be reconsidered.
 
-The next post in our series explains using [duck typing]({{< ref "/shedding-light-on-duck-typing" >}}) in ruby.
+The next post in our series explains using [duck typing]({{< ref "shedding-light-on-duck-typing" >}}) in ruby.
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/dependency-injection-plug-in).

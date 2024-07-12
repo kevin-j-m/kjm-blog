@@ -10,7 +10,7 @@ description = "Why is our Rails app returning different HTTP status codes in dif
 ## Exceptional Behavior in Rails
 
 1. __(W)rapping About Exceptional Behavior In Rails__
-2. [Wrapping Up Rails Exceptional Behavior]({{< ref "/wrapping-up-rails-exceptional-behavior" >}})
+2. [Wrapping Up Rails Exceptional Behavior]({{< ref "wrapping-up-rails-exceptional-behavior" >}})
 
 ## Reset
 ## Pop Quiz
@@ -321,6 +321,6 @@ Let's take stock in what we've done:
 We still don't know where the `ActiveRecord::RecordNotFound` exception is coming
 from.
 
-We'll take another look at this with fresh eyes in our [next post]({{< ref "/wrapping-up-rails-exceptional-behavior" >}}).
+We'll take another look at this with fresh eyes in our [next post]({{< ref "wrapping-up-rails-exceptional-behavior" >}}).
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/wrapping-about-exceptional-behavior-in-rails).

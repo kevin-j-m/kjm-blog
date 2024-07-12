@@ -60,7 +60,7 @@ end
 
 ## Attributing The Difference
 
-If we find an existing record by the attributes provided, then we return that record. If not, `find_by` returns `nil` and we visit the right-hand side of the expression. That will create a new record with the attributes and [pass the block]({{< ref "/activerecord-new-block" >}}) to `new`. Notice that the block is not executed at all when `find_by` returns a record.
+If we find an existing record by the attributes provided, then we return that record. If not, `find_by` returns `nil` and we visit the right-hand side of the expression. That will create a new record with the attributes and [pass the block]({{< ref "activerecord-new-block" >}}) to `new`. Notice that the block is not executed at all when `find_by` returns a record.
 
 ## Mistakenly Blocking Out Our Friend's New Name
 

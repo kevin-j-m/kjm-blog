@@ -8,12 +8,12 @@ description = "Inheritance sets up a relationship or a taxonomy between classes 
 
 ## Ruby Software Design Concert Series
 
-1. [Dependency Injection: Plug In]({{< ref "/dependency-injection-plug-in" >}})
-2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
-3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
+1. [Dependency Injection: Plug In]({{< ref "dependency-injection-plug-in" >}})
+2. [Shedding a Light on Duck Typing]({{< ref "shedding-light-on-duck-typing" >}})
+3. [Synthesizing Composition With Delegation]({{< ref "synthesizing-composition-with-delegation" >}})
 4. __Inheritance: Derivative Songwriting__
-5. [Using Sonic Pi To Play Music With Ruby]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}})
-6. [Stringing Code Together To Play Music]({{< ref "/stringing-code-together-to-play-music" >}})
+5. [Using Sonic Pi To Play Music With Ruby]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}})
+6. [Stringing Code Together To Play Music]({{< ref "stringing-code-together-to-play-music" >}})
 
 ## Setting the Stage
 
@@ -125,7 +125,7 @@ blankly at each other, unsure of what to do.
 ## Composing a Song
 
 Taking a note from our earlier post on
-[composition and delegation]({{< ref "/synthesizing-composition-with-delegation" >}}), we can
+[composition and delegation]({{< ref "synthesizing-composition-with-delegation" >}}), we can
 build a class that's solely responsible for playing the song.
 
 ```ruby
@@ -163,7 +163,7 @@ end
 We have now isolated the responsibility of playing the song to one place. If we
 need to change the way in which songs are played in totality, we can do so in
 the `SongPerformer` and that change will be reflected in all of our songs. We
-can even [dependency inject]({{< ref "/dependency-injection-plug-in" >}}) the performer class
+can even [dependency inject]({{< ref "dependency-injection-plug-in" >}}) the performer class
 into the song, allowing us to set up different arrangements of the same song.
 Even with those benefits, we *do* still have to remember to implement a `play`
 method that calls our `SongPerformer`.
@@ -279,7 +279,7 @@ shouldn't be avoided wholesale based on this, but it should be carefully and
 judiciously applied in your systems.
 
 Our next post will move a little further from theory and explore how to build an
-[interface to Sonic Pi]({{< ref "/using-sonic-pi-to-play-music-with-ruby" >}}),
+[interface to Sonic Pi]({{< ref "using-sonic-pi-to-play-music-with-ruby" >}}),
 so that these principles can work together to actually make sounds on your
 computer.
 

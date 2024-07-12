@@ -8,7 +8,7 @@ description = "This article decomposes an interaction with an external dependenc
 
 ## Sweathr
 
-In our [last post]({{< ref "/testing-dependencies" >}}) I introduced you to Sweathr. We've revolutionized the sweater weather prediction landscape forever. We evaluated many ways to test the core business logic, which called out to a HTTP weather API.
+In our [last post]({{< ref "testing-dependencies" >}}) I introduced you to Sweathr. We've revolutionized the sweater weather prediction landscape forever. We evaluated many ways to test the core business logic, which called out to a HTTP weather API.
 
 ```ruby
 class Location
@@ -55,7 +55,7 @@ This class is solely focused on communicating with the dependency. There's subtl
 
 #### API Client Testing
 
-To test this, we can use any of the methods from our [last post]({{< ref "/testing-dependencies" >}}). However, I would advocate for one that, at least at some point, issues a real request to the API. That is the focus of this class, and as such, we want to make sure it's performing as expected. Using a fake or a stub here wouldn't give us a lot of confidence in testing our implementation.
+To test this, we can use any of the methods from our [last post]({{< ref "testing-dependencies" >}}). However, I would advocate for one that, at least at some point, issues a real request to the API. That is the focus of this class, and as such, we want to make sure it's performing as expected. Using a fake or a stub here wouldn't give us a lot of confidence in testing our implementation.
 
 Making a direct API call or using a fixture that's updated has an issue: determinism. Remember, this is a weather API - and the weather changes. We can't assert that it's sunny and 70 degrees and have it pass all the time.
 
@@ -79,7 +79,7 @@ This test is flexible where it can be - what the temperature is. It's also rigid
 
 This can serve as an early-warning system for upcoming components in our design. If this test fails, we'll need to change other areas of our domain.
 
-Running this test as written [directly interacts]({{< ref "/testing-dependencies#direct-interaction" >}}) with the dependency. This test will fail without an internet connection, or when the API is down. We could instead use a [fixture]({{< ref "/testing-dependencies#fixture" >}}) that's regularly updated to mitigate that concern.
+Running this test as written [directly interacts]({{< ref "testing-dependencies#direct-interaction" >}}) with the dependency. This test will fail without an internet connection, or when the API is down. We could instead use a [fixture]({{< ref "testing-dependencies#fixture" >}}) that's regularly updated to mitigate that concern.
 
 ### Data Representation
 
@@ -163,7 +163,7 @@ This separation gives us a new option for testing our interactions with the weat
 
 ### Fake Client
 
-Let's borrow a strategy from our prior post. We're going to build a [fake]({{< ref "/testing-dependencies#fake" >}}). But, we don't need to fake out the HTTP traffic. We're going to build a class that responds to the same methods as `Sweathr::Weather::Api`, but doesn't make a HTTP call.
+Let's borrow a strategy from our prior post. We're going to build a [fake]({{< ref "testing-dependencies#fake" >}}). But, we don't need to fake out the HTTP traffic. We're going to build a class that responds to the same methods as `Sweathr::Weather::Api`, but doesn't make a HTTP call.
 
 ```ruby
 class FakeWeatherClient
@@ -223,7 +223,7 @@ module Sweathr
 end
 ```
 
-This method expects a block, and for the [duration of the block]({{< ref "/temporary-state-in-tests" >}}), our fake client is the client it uses. At the conclusion of the block, it returns the client to one that will execute API requests.
+This method expects a block, and for the [duration of the block]({{< ref "temporary-state-in-tests" >}}), our fake client is the client it uses. At the conclusion of the block, it returns the client to one that will execute API requests.
 
 Now in testing our `Location` class, we can define the state of the world (or at least the weather) in the setup of our test.
 

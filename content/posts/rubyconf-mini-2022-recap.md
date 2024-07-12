@@ -12,7 +12,7 @@ RubyConf Mini wrapped up last week in Providence, Rhode Island. This post docume
 
 ## Day 1
 
-The day started with an opening address, which I'm sure was lovely, but I'll admit I was a bit distracted. The reason being that I got on stage directly after. Thanks to everyone who attended [my session]({{< ref "/play-guitar" >}}); it was great to see you all.
+The day started with an opening address, which I'm sure was lovely, but I'll admit I was a bit distracted. The reason being that I got on stage directly after. Thanks to everyone who attended [my session]({{< ref "play-guitar" >}}); it was great to see you all.
 
 After that, I moved rooms to see Jeremy Smith's talk, ["Solo: Building Successful Web Apps By Your Lonesome"](https://www.rubyconfmini.com/program#Solo:-Building-Successful-Web-Apps-By-Your-Lonesome).  The perspective of this talk was from a place of working alone. But, no matter your team size, the conclusions in this session are valuable and relevant.
 

@@ -8,12 +8,12 @@ description = "In our last post, we encountered some inconsistent behavior betwe
 
 ## Exceptional Behavior in Rails
 
-1. [(W)rapping About Exceptional Behavior In Rails]({{< ref "/wrapping-about-exceptional-behavior-in-rails" >}})
+1. [(W)rapping About Exceptional Behavior In Rails]({{< ref "wrapping-about-exceptional-behavior-in-rails" >}})
 2. **Wrapping Up Rails Exceptional Behavior**
 
 ## Reset
 
-In our [last post]({{< ref "/wrapping-about-exceptional-behavior-in-rails" >}}), we
+In our [last post]({{< ref "wrapping-about-exceptional-behavior-in-rails" >}}), we
 encountered some inconsistent behavior between Rails 5 and Rails 6. In Rails 5,
 raising a `RuntimeError` in a controller after rescuing from an
 `ActiveRecord::RecordNotFound` exception was still returning a 404 HTTP status

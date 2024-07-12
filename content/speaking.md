@@ -26,7 +26,7 @@ I've got the blues. I've been looking for the perfect guitar tone, but haven't f
 
 Let's string together object-oriented principles to orchestrate a blues shuffle. We'll model our domain with the help of inheritance, composition, and dependency injection. This talk will strike a chord with you, whether you've strummed a guitar before or not.
 
-[Read More]({{< ref "/play-guitar" >}})
+[Read More]({{< ref "play-guitar" >}})
 
 {{< rawhtml class="float" >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t0C75Z0LX20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -40,7 +40,7 @@ We all only have so much working memory available in our brains. Developers may 
 
 Join me, and my actual search history, on a journey to solve recent challenges I faced. I'll categorize the different types of information I often search for. You'll leave with tips on retrieving the knowledge you need for your next bug, feature, or pull request.
 
-[Read More]({{< ref "/browser-history" >}})
+[Read More]({{< ref "browser-history" >}})
 
 {{< rawhtml class="float" >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R7LkHjJdH9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -61,7 +61,7 @@ decisions and learn how you can use those same concepts in your daily work.
 Explore the synergy one developer achieved by going to business school (sorry,
 the synergy comment slipped out - old habit).
 
-[Read More]({{< ref "/engineering-mba" >}})
+[Read More]({{< ref "engineering-mba" >}})
 
 {{< rawhtml class="float" >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ldCGo29w5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -85,13 +85,13 @@ production and also tell you how live code is used (or not used). We’ll cover
 how to leverage ruby’s different coverage measurement techniques in concert to
 assist your crew and delight your audience.
 
-[Read More]({{< ref "/coverage" >}})
+[Read More]({{< ref "coverage" >}})
 
 {{< rawhtml class="float" >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H4pBjWOMr_Y?si=LuO1nsqTJRCMOOIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-* [Blue Ridge Ruby 2023]({{< ref "/blue-ridge-ruby-2023-recap" >}})
+* [Blue Ridge Ruby 2023]({{< ref "blue-ridge-ruby-2023-recap" >}})
 * RubyConf 2020
 * [BostonRB](https://www.meetup.com/bostonrb/events/281560022/)
 * [Columbus Ruby Brigade](https://www.meetup.com/columbusrb/events/281100451/)
@@ -115,7 +115,7 @@ talk will introduce some available options, provide guidance on when one
 approach may be more appropriate than another, and discuss how to use these
 tools together to ease the testing process.
 
-[Read More]({{< ref "/railsconf-2020" >}})
+[Read More]({{< ref "railsconf-2020" >}})
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iEfpAp2sqiw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -138,7 +138,7 @@ think we should value everything in moderation, when should we push back on
 these ideals? What problems can they introduce? Let’s talk about the exceptions
 to some of the “rules” we all hold dear.
 
-[Read More]({{< ref "/rubyconf-2019" >}})
+[Read More]({{< ref "rubyconf-2019" >}})
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b960MApGA7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -162,7 +162,7 @@ plenty of room for alternatives. In learning how to do something, you may
 uncover different ways to accomplish the same goal. Determine which tool fits
 best in your situation with these lessons.
 
-[Read More]({{< ref "/railsconf-2019" >}})
+[Read More]({{< ref "railsconf-2019" >}})
 
 {{< rawhtml >}}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2NiePLJVjNI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

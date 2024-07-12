@@ -10,7 +10,7 @@ I'm excited to be in this week's Ruby Weekly, [#541](https://rubyweekly.com/issu
 
 {{< figure src="/img/ruby_weekly_541.png" class="mid" >}}
 
-The article they included is a [post]({{< ref "/querying-papertrail-object-changes-json" >}})
+The article they included is a [post]({{< ref "querying-papertrail-object-changes-json" >}})
 from my employer's [blog](https://blog.thegnar.co/querying-papertrail-object-changes-json)
 about querying for JSON data in your database. The specific use case is using
 PaperTrail's versions to query for what changed.

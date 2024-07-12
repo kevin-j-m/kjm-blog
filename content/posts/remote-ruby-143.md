@@ -36,7 +36,7 @@ I don't know - and neither do you probably. Those things are hard to measure. Th
 
 ## Why bother following the rules?
 
-This doesn't mean don't write tests. It can give you insights you didn't have before! Chris Oliver talked about the pay gem, and how different vendors may support features differently, or not at all. Testing can reveal that to you in a quicker/safer way than other explorations. Not only because a test may fail - but because the work Chris does, and things he researched, in order to have that test fail, gives more information about how the vendor's feature works. If you want to know more about that, I have another talk about testing (and designing interactions with) third-party dependencies [here]({{< ref "/railsconf-2020" >}}).
+This doesn't mean don't write tests. It can give you insights you didn't have before! Chris Oliver talked about the pay gem, and how different vendors may support features differently, or not at all. Testing can reveal that to you in a quicker/safer way than other explorations. Not only because a test may fail - but because the work Chris does, and things he researched, in order to have that test fail, gives more information about how the vendor's feature works. If you want to know more about that, I have another talk about testing (and designing interactions with) third-party dependencies [here]({{< ref "railsconf-2020" >}}).
 
 I'm on "team testing". My process of getting there came from a lot of opportunities to learn from testing, experiencing it, and having the chance to be "saved" by them. Forcing tests may increase the likelihood those things happen, but I think you'll have a harder time convincing people on the value of tests if they exist to appease a number.
 

@@ -8,9 +8,9 @@ description = "This documents my methodology of taking an accepted talk proposal
 
 ## Conference Talk Preparation Series
 
-1. [Sharing Past Conference Proposals]({{< ref "/sharing-past-conference-proposals" >}})
+1. [Sharing Past Conference Proposals]({{< ref "sharing-past-conference-proposals" >}})
 2. __Building Conference Talk Content__
-3. [Preparing Conference Talk Delivery]({{< ref "/preparing-conference-talk-delivery" >}})
+3. [Preparing Conference Talk Delivery]({{< ref "preparing-conference-talk-delivery" >}})
 
 Have you recently had a conference proposal accepted? Congratulations! Are you wondering, "what do I do *now*?" Here is the process I follow to turn my proposal into a full-length talk.
 
@@ -18,7 +18,7 @@ Have you recently had a conference proposal accepted? Congratulations! Are you w
 
 My first step is to gather all the content I want to talk about as quickly as possible. I know that sounds reductive. Oh, the first step is JUST to put together all your content? How easy! I might as well tell you [how to draw an owl](https://knowyourmeme.com/photos/572078-how-to-draw-an-owl) next.
 
-But, here's the thing - for a conference talk, I'm not starting from scratch. I've already put a lot of time, and thinking, into the [proposal]({{< ref "/sharing-past-conference-proposals" >}}). For me, that almost always includes a full outline. So I start by revisiting that and see what I need to add.
+But, here's the thing - for a conference talk, I'm not starting from scratch. I've already put a lot of time, and thinking, into the [proposal]({{< ref "sharing-past-conference-proposals" >}}). For me, that almost always includes a full outline. So I start by revisiting that and see what I need to add.
 
 I completed most of my research in the proposal, but I may need to brush up on some details. There may be a book or research paper that I skimmed that I need to go back to and dig into.
 
@@ -101,4 +101,4 @@ I have what's showing on the slide be what you want the audience to focus on. No
 
 ## Next Steps
 
-I have my slides built at this point, but my work isn't over. Next I go through the laborious, repetitive process to provide a [consistent delivery]({{< ref "/preparing-conference-talk-delivery" >}}).
+I have my slides built at this point, but my work isn't over. Next I go through the laborious, repetitive process to provide a [consistent delivery]({{< ref "preparing-conference-talk-delivery" >}}).

@@ -8,12 +8,12 @@ description = "How can we approach being consistent within a codebase while also
 
 ## Evaluating Alternatives
 
-- [To Change Or Not To Change]({{< ref "/to-change-or-not-to-change" >}})
+- [To Change Or Not To Change]({{< ref "to-change-or-not-to-change" >}})
 - **Consistency Conundrum**
 
 ## Consistent Starting Point
 
-In our [previous]({{< ref "/to-change-or-not-to-change" >}}) post, we wrote the following
+In our [previous]({{< ref "to-change-or-not-to-change" >}}) post, we wrote the following
 code:
 
 ```ruby

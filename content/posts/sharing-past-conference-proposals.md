@@ -9,8 +9,8 @@ description = "This summarizes my past accepted conference proposals, with some 
 ## Conference Talk Preparation Series
 
 1. __Sharing Past Conference Proposals__
-2. [Building Conference Talk Content]({{< ref "/building-conference-talk-content" >}})
-3. [Preparing Conference Talk Delivery]({{< ref "/preparing-conference-talk-delivery" >}})
+2. [Building Conference Talk Content]({{< ref "building-conference-talk-content" >}})
+3. [Preparing Conference Talk Delivery]({{< ref "preparing-conference-talk-delivery" >}})
 
 ## Happy CFP Season!
 
@@ -34,7 +34,7 @@ This also helps you once the Program Committee accepts your proposal. Congratula
 
 ## Revisit conventions and norms
 
-You don't need to invent a technology, principle, or methodology to have a conference talk. Sharing your experience with a well-known concept is a great contribution. I talked about the potential downsides of some of our favorite conventions in [Don't Hang Me Out To DRY]({{< ref "/dont-hang-me-out-to-dry-proposal" >}}).
+You don't need to invent a technology, principle, or methodology to have a conference talk. Sharing your experience with a well-known concept is a great contribution. I talked about the potential downsides of some of our favorite conventions in [Don't Hang Me Out To DRY]({{< ref "dont-hang-me-out-to-dry-proposal" >}}).
 
 That doesn't mean that your perspective needs to be controversial or a "hot take". The number of first-time conference attendees is large! This may be the opportunity for early-career developers to learn these time-honored traditions we love, or love to hate.
 

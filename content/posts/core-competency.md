@@ -8,12 +8,12 @@ description = "Core competencies are unique capabilities that a firm delivers. D
 
 ## A Developer's Business
 
-1. [Situational Leadership]({{< ref "/situational-leadership" >}})
-2. [Competitive Advantage]({{< ref "/competitive-advantage" >}})
+1. [Situational Leadership]({{< ref "situational-leadership" >}})
+2. [Competitive Advantage]({{< ref "competitive-advantage" >}})
 3. __Core Competency__
-4. [Business Process Management]({{< ref "/business-process-management" >}})
+4. [Business Process Management]({{< ref "business-process-management" >}})
 
-Knowing a thing or two about the mindset of someone on the "business" side of your company can be very valuable. That doesn't mean you need to spend two years of your life getting a [MBA]({{< ref "/engineering-mba" >}}) to learn about this (but don't let me stop you).
+Knowing a thing or two about the mindset of someone on the "business" side of your company can be very valuable. That doesn't mean you need to spend two years of your life getting a [MBA]({{< ref "engineering-mba" >}}) to learn about this (but don't let me stop you).
 
 This post won't be about accounting, marketing, entrepreneurship, or making quarterly revenue projections. Instead, it will focus on a concept I learned in business school that helps me in my day-to-day as a developer.
 
@@ -31,11 +31,11 @@ This is [often](https://www.techtarget.com/searchcio/definition/core-competency#
 
 Knowing your company's core competencies helps to answer your next build or buy or borrow conundrum. Developers face this when deciding *how* to build a feature.
 
-We'll consider upcoming features from our [previously mentioned]({{< ref "/competitive-advantage#competitive-advantage" >}}) blogging platform for medical professionals. Keeping an eye on our core competencies, let's decide how to deliver changes to our comment system.
+We'll consider upcoming features from our [previously mentioned]({{< ref "competitive-advantage#competitive-advantage" >}}) blogging platform for medical professionals. Keeping an eye on our core competencies, let's decide how to deliver changes to our comment system.
 
 ## Build
 
-Our last article introduced a comment moderation system to automatically flag HIPAA violations. We delivered that knowing we're [focusing]({{< ref "/competitive-advantage#focus" >}}) on the medical market. That feature allows us to stand out in the marketplace. The innovative functionality can be a core competency of the firm. As such, we should be building all the work related to that feature in-house.
+Our last article introduced a comment moderation system to automatically flag HIPAA violations. We delivered that knowing we're [focusing]({{< ref "competitive-advantage#focus" >}}) on the medical market. That feature allows us to stand out in the marketplace. The innovative functionality can be a core competency of the firm. As such, we should be building all the work related to that feature in-house.
 
 Our developers need a keen understanding of HIPAA violations, or how to identify them. Anything we can invest to build up that knowledge we should. It has immense value by making it available to customers through our product. Developers improving the functionality of HIPAA violation identification is of critical importance. The more time they can spend focusing on that, the better this unique capability will be.
 
@@ -59,4 +59,4 @@ We can use the kind work of open source developers who maintain pagination libra
 
 A company's core competencies help it stand out in the marketplace. The same is true for you. What unique talents and skills do you bring to bear? How can you use them so that a company will reward you with a new job, title, or raise? Think about what your awesome qualities are and how you can leverage them.
 
-For the final lesson in our series, we'll discuss [business process management]({{< ref "/business-process-management" >}}).
+For the final lesson in our series, we'll discuss [business process management]({{< ref "business-process-management" >}}).

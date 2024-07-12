@@ -167,6 +167,6 @@ themselves and others.
 
 Thanks to [Rob Whittaker](https://twitter.com/purinkle)
 for [asking me](https://twitter.com/purinkle/status/1412071536819851268) about
-other ways I like to use blocks, based on an [earlier post]({{< ref "/activerecord-new-block" >}}).
+other ways I like to use blocks, based on an [earlier post]({{< ref "activerecord-new-block" >}}).
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/temporary-state-in-tests).

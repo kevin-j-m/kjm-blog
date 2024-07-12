@@ -8,11 +8,11 @@ description = "This post explores different domain modeling tools and object-ori
 
 ## Anyone Can Play Guitar Series
 
-1. [Enumerating Musical Notes]({{< ref "/enumerating-musical-notes" >}})
-2. [Revisiting Calling Sonic Pi From Ruby]({{< ref "/revisiting-calling-sonic-pi-from-ruby" >}})
+1. [Enumerating Musical Notes]({{< ref "enumerating-musical-notes" >}})
+2. [Revisiting Calling Sonic Pi From Ruby]({{< ref "revisiting-calling-sonic-pi-from-ruby" >}})
 3. __Programming Guitar Greatness__
-4. [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "/composing-our-own-guitar-amps-from-inherited-gear" >}})
-5. [Flog-Driven Development]({{< ref "/flog-driven-development" >}})
+4. [Composing Our Own Guitar Amps From Inherited Gear]({{< ref "composing-our-own-guitar-amps-from-inherited-gear" >}})
+5. [Flog-Driven Development]({{< ref "flog-driven-development" >}})
 
 > I use heavy strings, tune low, play hard, and floor it. Floor it. That's technical talk.
 > -- [Stevie Ray Vaughan](https://twitter.com/srvofficial/status/836589348489424896?lang=en)
@@ -211,4 +211,4 @@ Along the way, we reinforced concepts by using domain terminology. We identified
 
 I hope this Texas-sized flood of information helps in your next domain modeling exercise.
 
-We can go a step further. Now that we know how to play guitar, let's [build some amps]({{< ref "/composing-our-own-guitar-amps-from-inherited-gear" >}}) so people can hear us play.
+We can go a step further. Now that we know how to play guitar, let's [build some amps]({{< ref "composing-our-own-guitar-amps-from-inherited-gear" >}}) so people can hear us play.

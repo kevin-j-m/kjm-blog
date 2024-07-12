@@ -8,12 +8,12 @@ description = "Sonic Pi is a fun and approachable way to make music with code. F
 
 ## Ruby Software Design Concert Series
 
-1. [Dependency Injection: Plug In]({{< ref "/dependency-injection-plug-in" >}})
-2. [Shedding a Light on Duck Typing]({{< ref "/shedding-light-on-duck-typing" >}})
-3. [Synthesizing Composition With Delegation]({{< ref "/synthesizing-composition-with-delegation" >}})
-4. [Inheritance: Derivative Songwriting]({{< ref "/inheritance-derivative-songwriting" >}})
+1. [Dependency Injection: Plug In]({{< ref "dependency-injection-plug-in" >}})
+2. [Shedding a Light on Duck Typing]({{< ref "shedding-light-on-duck-typing" >}})
+3. [Synthesizing Composition With Delegation]({{< ref "synthesizing-composition-with-delegation" >}})
+4. [Inheritance: Derivative Songwriting]({{< ref "inheritance-derivative-songwriting" >}})
 5. __Using Sonic Pi To Play Music With Ruby__
-6. [Stringing Code Together To Play Music]({{< ref "/stringing-code-together-to-play-music" >}})
+6. [Stringing Code Together To Play Music]({{< ref "stringing-code-together-to-play-music" >}})
 
 ## Setting the Stage
 
@@ -24,8 +24,8 @@ delivering a live performance of some music during the presentation. This ended
 up getting cut for a variety of reasons (time, concern about the audio working
 on the streaming platform, the reality of ambition turning into actual work to
 do), but I built out the structure to support this for one instrument, the
-guitar. I integrated this into my [RubyConf Mini 2022]({{< ref "/play-guitar">}})
-talk, though with some [modifications]({{< ref "/revisiting-calling-sonic-pi-from-ruby" >}}).
+guitar. I integrated this into my [RubyConf Mini 2022]({{< ref "play-guitar">}})
+talk, though with some [modifications]({{< ref "revisiting-calling-sonic-pi-from-ruby" >}}).
 
 This is the first of two posts that'll describe the work that I did to
 support this.
@@ -37,7 +37,7 @@ blowing up any capacitors.
 
 ## Parts List
 
-In the earlier post on [dependency injection]({{< ref "/dependency-injection-plug-in" >}}),
+In the earlier post on [dependency injection]({{< ref "dependency-injection-plug-in" >}}),
 I created a `PracticeAmplifier` [class](https://github.com/kevin-j-m/ruby_cover_band/blob/09e7b72b38dac09d4968afe1468eda53caaf294c/lib/ruby_cover_band/practice_amplifier.rb)
 that did nothing so I could use it in tests, rather than the "regular" amplifier.
 
@@ -88,7 +88,7 @@ end
 Needing to find the port is now something that the `SonicPi` class can do [by itself](https://github.com/Widdershin/sonic-pi-cli/pull/23)
 as of version v0.2.0; however, this work preceded that.
 
-The rest of the functionality in the `Amplifier` class is now to [delegate]({{< ref "/synthesizing-composition-with-delegation" >}}) commands to the `@speaker`.
+The rest of the functionality in the `Amplifier` class is now to [delegate]({{< ref "synthesizing-composition-with-delegation" >}}) commands to the `@speaker`.
 
 ```ruby
 class Amplifier
@@ -107,6 +107,6 @@ commands from outside of its IDE. We have a way to *send* sound
 out of our ruby code.
 
 In our next post, we'll take a look at how we *generate* the sound to send from
-a [guitar]({{< ref "/stringing-code-together-to-play-music" >}}) to an amplifier.
+a [guitar]({{< ref "stringing-code-together-to-play-music" >}}) to an amplifier.
 
 > This post originally published on [The Gnar Company blog](https://blog.thegnar.co/using-sonic-pi-to-play-music-with-ruby).

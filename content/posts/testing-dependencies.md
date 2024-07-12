@@ -155,4 +155,4 @@ A fake version of the dependency adds back some complexity. We need to generate 
 
 A fixture captures a real interaction with the dependency. We must refresh that interaction so it reflects the dependency's current reality.
 
-There is no "right" answer to how to test against third-party dependencies. It's all [trade-offs]({{< ref "/to-change-or-not-to-change" >}}), and it's up to us to determine which risks we're willing to accept for the greatest benefit.
+There is no "right" answer to how to test against third-party dependencies. It's all [trade-offs]({{< ref "to-change-or-not-to-change" >}}), and it's up to us to determine which risks we're willing to accept for the greatest benefit.

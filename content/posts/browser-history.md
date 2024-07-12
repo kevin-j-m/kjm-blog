@@ -23,8 +23,8 @@ Join me, and my actual search history, on a journey to solve recent challenges I
 * [Video](https://youtu.be/R7LkHjJdH9o)
 * [Slides](https://speakerdeck.com/kevinmurphy/browser-history-confessional-searching-my-recent-searches)
 * [Code Examples](https://github.com/kevin-j-m/browser-history)
-* [Blog Post]({{< ref "/searching-for-a-reason" >}})
-* [Proposal]({{< ref "/browser-history-confessional-proposal" >}})
+* [Blog Post]({{< ref "searching-for-a-reason" >}})
+* [Proposal]({{< ref "browser-history-confessional-proposal" >}})
 
 ## Search-Driven Development
 

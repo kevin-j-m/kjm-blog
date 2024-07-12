@@ -10,7 +10,7 @@ I'm excited to be in this week's Ruby Weekly, [#554](https://rubyweekly.com/issu
 
 {{< figure src="/img/ruby_weekly_554.png" class="mid" >}}
 
-The article they included is a [post]({{< ref "/activerecord-new-block" >}})
+The article they included is a [post]({{< ref "activerecord-new-block" >}})
 from my employer's [blog](https://blog.thegnar.co/activerecord-new-block)
 about passing a block to ActiveRecord methods, and how it differs from using
 `tap`.

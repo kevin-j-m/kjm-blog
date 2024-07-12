@@ -8,8 +8,8 @@ description = "This post walks through the steps I take once I've built a confer
 
 ## Conference Talk Preparation Series
 
-1. [Sharing Past Conference Proposals]({{< ref "/sharing-past-conference-proposals" >}})
-2. [Building Conference Talk Content]({{< ref "/building-conference-talk-content" >}})
+1. [Sharing Past Conference Proposals]({{< ref "sharing-past-conference-proposals" >}})
+2. [Building Conference Talk Content]({{< ref "building-conference-talk-content" >}})
 3. __Preparing Conference Talk Delivery__
 
 A conference accepted my proposal and I've built a slide deck. I still have a lot to do before hitting the stage!
@@ -34,7 +34,7 @@ For the talk from the spreadsheet above, I logged 20 practice sessions.
 
 I find other places to practice separated from my slides. When I would commute to work, I would practice (in my head) on the train ride in or back from work. I practice the full talk or sections while on walks. Some times, I run through ideas for my intro or conclusion as I'm drifting off to sleep.
 
-I tell myself I want to be able to deliver my talk without the help of the slides. In case the power goes out and I need to entertain everyone in the dark, or outside, I can. Note that almost happened at RubyConf Mini 2022, when my laptop [wouldn't connect]({{< ref "/rubyconf-mini-2022-recap#appreciation">}}) to the projector.
+I tell myself I want to be able to deliver my talk without the help of the slides. In case the power goes out and I need to entertain everyone in the dark, or outside, I can. Note that almost happened at RubyConf Mini 2022, when my laptop [wouldn't connect]({{< ref "rubyconf-mini-2022-recap#appreciation">}}) to the projector.
 
 > When I’m practicing, I tell myself I need to prepare enough to give my talk without any slides or notes. I practice on walks, away from my material. I practice looking the other direction (checking occasionally to make sure I’m clicking to the right slide). In those moments on stage, I was wondering if my preparation would become necessary. Would I have to give my full talk without any slides?
 >

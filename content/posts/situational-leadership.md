@@ -9,11 +9,11 @@ description = "The Situational Leadership model introduces four different leader
 ## A Developer's Business
 
 1. __Situational Leadership__
-2. [Competitive Advantage]({{< ref "/competitive-advantage" >}})
-3. [Core Competency]({{< ref "/core-competency" >}})
-4. [Business Process Management]({{< ref "/business-process-management" >}})
+2. [Competitive Advantage]({{< ref "competitive-advantage" >}})
+3. [Core Competency]({{< ref "core-competency" >}})
+4. [Business Process Management]({{< ref "business-process-management" >}})
 
-Knowing a thing or two about the mindset of someone on the "business" side of your company can be very valuable. That doesn't mean you need to spend two years of your life getting a [MBA]({{< ref "/engineering-mba" >}}) to learn about this (but don't let me stop you).
+Knowing a thing or two about the mindset of someone on the "business" side of your company can be very valuable. That doesn't mean you need to spend two years of your life getting a [MBA]({{< ref "engineering-mba" >}}) to learn about this (but don't let me stop you).
 
 This post won't be about accounting, marketing, entrepreneurship, or making quarterly revenue projections. Instead, it will focus on a concept I learned in business school that helps me in my day-to-day as a developer.
 
@@ -148,4 +148,4 @@ Leadership is a framework you can use to consider what concrete actions you can
 model in a given scenario to provide the most effective leadership for yourself
 and your team.
 
-Now that we've covered leadership, let's explore your company's [competitive advantage]({{< ref "/competitive-advantage" >}}).
+Now that we've covered leadership, let's explore your company's [competitive advantage]({{< ref "competitive-advantage" >}}).

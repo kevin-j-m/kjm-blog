@@ -10,7 +10,7 @@ This isn't a "real" post. This is a summary of all the things that made up my ye
 
 ## Writing
 
-I published 11 articles about Ruby or software development in general this year. I started with changes to Ruby's [Coverage module]({{< ref "/evaluating-more-coverage-in-ruby-3-2" >}}) in 3.2. My last post of the year covered what I saw at [RubyConf]({{< ref "rubyconf-2023-recap" >}}).
+I published 11 articles about Ruby or software development in general this year. I started with changes to Ruby's [Coverage module]({{< ref "evaluating-more-coverage-in-ruby-3-2" >}}) in 3.2. My last post of the year covered what I saw at [RubyConf]({{< ref "rubyconf-2023-recap" >}}).
 
 In between, I continued my [Anyone Can Play Guitar Series]({{< ref "programming-guitar-greatness" >}}) and my [Conference Talk Preparation Series]({{< ref "building-conference-talk-content" >}}). I also published one-off articles about modifying [frozen hashes]({{< ref "modify-frozen-hash" >}}), [testing inherited behavior]({{< ref "testing-inherited-behavior" >}}), and more.
 
@@ -59,7 +59,7 @@ The Gaslight Anthem got back together and released a new record this year, featu
 
 ### Strong Female Character
 
-Maybe you know Fern Brady from [Taskmaster]({{< ref "/2021-review#taskmaster" >}}). Maybe you don't (and if you don't, you should). Her [memoir](https://www.bookbub.com/books/strong-female-character-by-fern-brady-2023-04-24) is the most impactful book I read this year.
+Maybe you know Fern Brady from [Taskmaster]({{< ref "2021-review#taskmaster" >}}). Maybe you don't (and if you don't, you should). Her [memoir](https://www.bookbub.com/books/strong-female-character-by-fern-brady-2023-04-24) is the most impactful book I read this year.
 
 ### Jared James Nichols
 

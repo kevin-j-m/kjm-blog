@@ -6,7 +6,7 @@ summary = "A bold product announcement for this site"
 description = "This site now has search site powered by Pagefind"
 +++
 
-I'm no stranger to [search]({{< ref "/searching-for-a-reason" >}}). Give me [25 minutes]({{< ref "/browser-history" >}}) and I'll tell you my thoughts on how and why we search for things. All that said, one thing you couldn't do on this site for a long time was search. I'm proud to announce on behalf of the entire team responsible for this site (me) that an innovative new feature is now available: [search]({{< ref "/search" >}}).
+I'm no stranger to [search]({{< ref "searching-for-a-reason" >}}). Give me [25 minutes]({{< ref "browser-history" >}}) and I'll tell you my thoughts on how and why we search for things. All that said, one thing you couldn't do on this site for a long time was search. I'm proud to announce on behalf of the entire team responsible for this site (me) that an innovative new feature is now available: [search]({{< ref "/search" >}}).
 
 Any questions?
 

@@ -12,7 +12,7 @@ Perhaps you've heard of [test coverage](https://en.wikipedia.org/wiki/Code_cover
 which is a measurement of how much of your application code is executed when
 your tests run. That number is typically represented as a percentage, and people
 may use that metric to assess the relative health of a codebase. The efficacy of
-such metrics is [debated]({{< ref "/remote-ruby-143" >}}), but the metrics are
+such metrics is [debated]({{< ref "remote-ruby-143" >}}), but the metrics are
 still prevalent.
 
 This article will demonstrate the mechanism ruby provides to measure coverage
