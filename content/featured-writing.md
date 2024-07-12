@@ -20,26 +20,26 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 * Ruby Central [May 2024 Newsletter](https://rubycentral.org/news/may-2024-newsletter/)
 * TLDR Web Dev [2024-05-21](https://a.tldrnewsletter.com/web-version?ep=1&lc=370b268c-04a2-11ef-ae94-154a86672d19&p=d99d0dce-174a-11ef-8688-c9b4f033c41d&pt=campaign&t=1716289633&s=f8d64a684b167de86dcb877ce42b9aa5b55fba7f1cbe8c8d40a248c4b598149c)
 
-[Making a (Sidekiq) Batch Recipe]({{< ref "/making-a-sidekiq-batch-recipe" >}})
+[Making a (Sidekiq) Batch Recipe]({{< ref "making-a-sidekiq-batch-recipe" >}})
 
 * Ruby Weekly [#699](https://rubyweekly.com/issues/699)
 * Short Ruby Newsletter [#86](https://newsletter.shortruby.com/p/edition-86)
 * Short Ruby Newsletter [#87](https://newsletter.shortruby.com/p/edition-87)
 
-[Tracks Not At RailsConf 2024]({{< ref "/tracks-not-at-railsconf-2024" >}})
+[Tracks Not At RailsConf 2024]({{< ref "tracks-not-at-railsconf-2024" >}})
 
 * Ruby Weekly [#695](https://rubyweekly.com/issues/695)
 * The Ruby on Rails Podcast Show Notes [#512](https://www.therubyonrailspodcast.com/512)
 
-[Joining RailsConf 2024 Program Committee]({{< ref "/railsconf-2024-program-committee" >}})
+[Joining RailsConf 2024 Program Committee]({{< ref "railsconf-2024-program-committee" >}})
 
 * Short Ruby Newsletter [#78](https://newsletter.shortruby.com/p/edition-78)
 
-[Blue Ridge Ruby 2023 Video]({{< ref "/blue-ridge-coverage-video" >}})
+[Blue Ridge Ruby 2023 Video]({{< ref "blue-ridge-coverage-video" >}})
 
 * Ruby Weekly [#684](https://rubyweekly.com/issues/684)
 
-[RubyConf 2023 Recap]({{< ref "/rubyconf-2023-recap" >}})
+[RubyConf 2023 Recap]({{< ref "rubyconf-2023-recap" >}})
 
 * Ruby Weekly [#679](https://rubyweekly.com/issues/679)
 * Ruby Radar: [Thanksgiving Leftovers](https://www.rubyradar.com/p/thanksgiving-leftovers)
@@ -47,7 +47,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1727418674254848379)
 * DEV Community (dev.to) on [twitter](https://twitter.com/ThePracticalDev/status/1727518331324793277)
 
-[Preparing Conference Talk Delivery]({{< ref "/preparing-conference-talk-delivery" >}})
+[Preparing Conference Talk Delivery]({{< ref "preparing-conference-talk-delivery" >}})
 
 * Short Ruby Newsletter [#63](https://newsletter.shortruby.com/p/edition-63)
 * Developer Avocados Weekly [#213](https://developeravocados.substack.com/p/revolutionising-the-developer-experience)
@@ -81,7 +81,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 * The Ruby Dev (dev.to) on [mastodon](https://ruby.social/@devcommunity/110216546431224839)
 * The Ruby Dev (dev.to) on [twitter](https://twitter.com/the_ruby_dev/status/1648088698313928706)
 
-[Programming Guitar Greatness]({{< ref "/programming-guitar-greatness" >}})
+[Programming Guitar Greatness]({{< ref "programming-guitar-greatness" >}})
 
 * Ruby Weekly [#646](https://rubyweekly.com/issues/646)
 * Short Ruby Newsletter [#35](https://newsletter.shortruby.com/p/edition-35)
