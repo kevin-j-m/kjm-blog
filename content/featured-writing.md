@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[Access Request Headers in a Rails Controller]({{< ref "access-request-headers-in-rails-controller" >}})
+
+* Short Ruby Newsletter [#99](https://newsletter.shortruby.com/p/edition-99)
+
 [Four Things To Take Away From RailsConf 2024]({{< ref "4-things-railsconf-2024" >}})
 
 * Ruby Weekly [#703](https://rubyweekly.com/issues/703)
