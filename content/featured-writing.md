@@ -11,6 +11,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [Access Request Headers in a Rails Controller]({{< ref "access-request-headers-in-rails-controller" >}})
 
+* Ruby Weekly [#712](https://rubyweekly.com/issues/712)
 * Short Ruby Newsletter [#99](https://newsletter.shortruby.com/p/edition-99)
 
 [Four Things To Take Away From RailsConf 2024]({{< ref "4-things-railsconf-2024" >}})
