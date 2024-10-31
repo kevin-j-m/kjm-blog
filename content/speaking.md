@@ -20,6 +20,8 @@ you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) m
 * [I Know I Can, But Should I?]({{< ref "#i-know-i-can-but-should-i" >}})
 * [Podcasts]({{< ref "#podcasts" >}})
 
+My talks are on [Ruby Video](https://www.rubyvideo.dev/speakers/kevin-murphy). My slides are on [SpeakerDeck](https://speakerdeck.com/kevinmurphy).
+
 ## Anyone Can Play Guitar (With Ruby)
 
 I've got the blues. I've been looking for the perfect guitar tone, but haven't found it. To amp up my mood, let's teach a computer to play the guitar through an amplifier.
