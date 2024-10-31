@@ -47,4 +47,6 @@ fine treating it like just another day, like I am. Either way, enjoy the day.
 
 Certainly not their strongest effort.
 
+Coincidentally, the E Street Band starts the Canadian swing of their tour tonight. I'd definitely run away to Canada and catch a show if I could.
+
 > This is terrible!
