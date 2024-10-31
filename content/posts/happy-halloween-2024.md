@@ -1,6 +1,6 @@
 +++
-title = "Happy Halloween"
-date = 2024-10-25T17:40:50-05:00
+title = "Happy Halloween 2024"
+date = 2024-10-31T08:29:50-04:00
 tags = ["music", "personal"]
 summary = "Some Ghastly Tunes"
 +++
@@ -46,5 +46,7 @@ fine treating it like just another day, like I am. Either way, enjoy the day.
 {{< /rawhtml >}}
 
 Certainly not their strongest effort.
+
+Coincidentally, the E Street Band starts the Canadian swing of their tour tonight. I'd definitely run away to Canada and catch a show if I could.
 
 > This is terrible!
