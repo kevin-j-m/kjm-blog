@@ -76,7 +76,7 @@ module ErrorResponses
     env_config = Rails.application.env_config
     original_show_exceptions = env_config["action_dispatch.show_exceptions"]
     original_show_detailed_exceptions = env_config["action_dispatch.show_detailed_exceptions"]
-    env_config["action_dispatch.show_exceptions"] = true
+    env_config["action_dispatch.show_exceptions"] = :all
     env_config["action_dispatch.show_detailed_exceptions"] = false
     yield
   ensure
@@ -87,6 +87,8 @@ end
 ```
 
 We [pass a block]({{< ref "temporary-state-in-tests" >}}) to this method in our test. We store the initial values of the environment configuration, then set `show_exceptions` and `show_details_exceptions` to match production. After our block executes, we return them to their original value.
+
+Note that prior to Rails 7.1, you'll want to set the value of `show_exceptions` to `true`. From 7.1 on, the configuration accepts a [set of symbols](https://guides.rubyonrails.org/configuring.html#config-action-dispatch-show-exceptions) and using true or false is deprecated.
 
 Let's update our test to use this method.
 
