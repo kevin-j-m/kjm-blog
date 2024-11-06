@@ -8,7 +8,7 @@ description = "Largely a photo blog of what I did at RubyConf 2024"
 
 ## RubyConf 2024
 
-I'm starting this post from Terminal B in Logan Airport (Boston). Waiting for my plane, I figured I might put together a post to document a quick and loose exploration of what I see while I'm in Chicago.
+I'm starting this post from Terminal B in Logan Airport (Boston). Waiting for my plane, I figured I might put together a post to document a quick and loose exploration of what I see while I'm in Chicago. Check out my [recap post]({{< ref "rubyconf-2024-recap" >}}) for more details about the sessions I visited.
 
 ## Travel
 
@@ -113,3 +113,5 @@ I stopped by the reception to say some goodbyes. Then headed out with a small gr
 I met up with a group for dinner and then called it a night.
 
 I'm ending RubyConf tired but thankful. I wish I saw more people. And had more time with the people I did see. But I'm so thankful for the work RubyCentral does year round to support our community. And the investment they make in bringing us together at events like this. Thank you #RubyFriends.
+
+Check out my [recap post]({{< ref "rubyconf-2024-recap" >}}) for more details about the sessions I visited.
