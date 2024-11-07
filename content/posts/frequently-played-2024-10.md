@@ -3,8 +3,6 @@ title = "Frequently Played Oct 2024"
 date = 2024-10-06T18:40:50-05:00
 tags = ["music", "personal"]
 summary = "What I've been listening to since last time"
-[build]
-  list = 'local'
 +++
 
 ## Frequently Played
