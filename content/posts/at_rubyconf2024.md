@@ -22,7 +22,7 @@ For anyone landing at Midway, look for the "Ground Transportation" signs, and ev
 
 ## Hotel
 
-I'm staying at the conference hotel. I originally was going to stay elsewhere, but switched to the conference hotel for the convenience. I've got myself a fancy city view. It's only MOSTLY a view of HVAC systems from the next building (not pictured).
+I'm staying at the conference hotel. I've got myself a fancy city view. It's only MOSTLY a view of HVAC systems from the next building (not pictured).
 
 {{< figure src="/img/rubyconf2024/city_line.jpg" class="mid" alt="The Chicago city skyline from my hotel window" >}}
 
