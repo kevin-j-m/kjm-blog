@@ -60,6 +60,10 @@ Some of the walk was for the birds.
 
 {{< figure src="/img/rubyconf2024/bird.jpg" class="mid" alt="A sign that says McCormick Bird Sanctuary" >}}
 
+I scoped out a venue for my next speaking engagement.
+
+{{< figure src="/img/rubyconf2024/soldier_field.jpg" class="mid" alt="An entrance to Soldier Field" >}}
+
 Towards the end I realized I walked around the entire globe.
 
 {{< figure src="/img/rubyconf2024/globe.jpg" class="mid" alt="A statue a globe" >}}
