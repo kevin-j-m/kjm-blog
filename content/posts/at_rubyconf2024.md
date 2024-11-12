@@ -28,4 +28,42 @@ I'm staying at the conference hotel. I've got myself a fancy city view. It's onl
 
 After checking in, I immediately saw Matz in the lobby with a group. I didn't say hi, but it confirmed I'm in the right place.
 
+## A Walk in the Park
+
+The hotel is right by a series of parks, so I wandered around for a while on my own.
+
+I stretched my legs.
+
+{{< figure src="/img/rubyconf2024/legs.jpg" class="mid" alt="A series of legs made of what looks to be bronze castings" >}}
+
+I marveled at the existence of dedicated bike infrastructure.
+
+{{< figure src="/img/rubyconf2024/bike_lane.jpg" class="mid" alt="Dedicated bike lanes" >}}
+
+Unlike at RailsConf in Detroit this year, I could not see Canada from across the water.
+
+{{< figure src="/img/rubyconf2024/lake.jpg" class="mid" alt="Lake Michigan" >}}
+
+I still managed to make a splash.
+
+{{< figure src="/img/rubyconf2024/splash.jpg" class="mid" alt="The waves from the lake splashing along the walking path" >}}
+
+It was a bit unseasonable to stay at the beach, so I just walked by.
+
+{{< figure src="/img/rubyconf2024/beach.jpg" class="mid" alt="A beach on the shore of Lake Michigan" >}}
+
+I unexpectedly ran across some fairies.
+
+{{< figure src="/img/rubyconf2024/fairy.jpg" class="mid" alt="A statue of what I think are fairies in a garden. I must admit, I've seen more beautiful fairies." >}}
+
+Some of the walk was for the birds.
+
+{{< figure src="/img/rubyconf2024/bird.jpg" class="mid" alt="A sign that says McCormick Bird Sanctuary" >}}
+
+Towards the end I realized I walked around the entire globe.
+
+{{< figure src="/img/rubyconf2024/globe.jpg" class="mid" alt="A statue a globe" >}}
+
+After I returned, it was time for early registration. I met some #RubyFriends and passed the afternoon with them.
+
 ## This Post Is In Progress And Will Update
