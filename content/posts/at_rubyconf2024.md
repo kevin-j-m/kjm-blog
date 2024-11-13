@@ -78,4 +78,16 @@ I went to Yolk for breakfast and had french toast. It was good! It's a few block
 
 I had already pre-registered, but I headed down to the ballroom area after eating to see how things were coming together.
 
+I have this weird strategy at conferences: I go to the talks. Today I was in sessions with Matz, Murray Steele, Ahmed Omran, Noel Rappin, Brandt Sheets, Samuel Giddens, Martin Emde, Marty Haught, Sara Jackson, Aaron Patterson, and Nickolas Means.
+
+Everyone did a great job. I'll have my recap post later. On to the random pictures of the day...
+
+At lunch they served coconut creme brulee in these tiny mugs. It was tasty and unexpected.
+
+{{< figure src="/img/rubyconf2024/creme_brulee.jpg" class="mid" alt="A serving of creme brulee and chocolate cake" >}}
+
+Do you think the hotel has these rubies in this display case all the time, or just for us?
+
+{{< figure src="/img/rubyconf2024/ruby_statues.jpg" class="mid" alt="A display case with jewelry and trinkets that displays large rubies" >}}
+
 ## This Post Is In Progress And Will Update
