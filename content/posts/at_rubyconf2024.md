@@ -72,4 +72,10 @@ After I returned, it was time for early registration. I met some #RubyFriends an
 
 It seems like Kitty O'Sheas is the conference bar of choice after hours. At least, it was tonight.
 
+## Day 1
+
+I went to Yolk for breakfast and had french toast. It was good! It's a few blocks straight down the street from the conference hotel.
+
+I had already pre-registered, but I headed down to the ballroom area after eating to see how things were coming together.
+
 ## This Post Is In Progress And Will Update
