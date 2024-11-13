@@ -70,4 +70,6 @@ Towards the end I realized I walked around the entire globe.
 
 After I returned, it was time for early registration. I met some #RubyFriends and passed the afternoon with them.
 
+It seems like Kitty O'Sheas is the conference bar of choice after hours. At least, it was tonight.
+
 ## This Post Is In Progress And Will Update
