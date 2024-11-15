@@ -90,4 +90,16 @@ Do you think the hotel has these rubies in this display case all the time, or ju
 
 {{< figure src="/img/rubyconf2024/ruby_statues.jpg" class="mid" alt="A display case with jewelry and trinkets that displays large rubies" >}}
 
+## Day 2
+
+Breakfast with the Bragg family started the day...not to brag. And then it was off to the Keynote for the morning.
+
+Hack day is always kind of a weird day for me. I'm glad that other people like it. I wandered for the rest of the morning, moving from conversation to conversation and actively not hacking.
+
+I spent the afternoon in Noel Rappin's workshop, which was well-executed (of course).
+
+After a quiet (appreciated) dinner, I spent some time at a thoughtbot event and talked to some #RubyFriends at game night before settling in for the evening.
+
+No fun pictures today. Which doesn't mean no fun was had.
+
 ## This Post Is In Progress And Will Update
