@@ -102,4 +102,14 @@ After a quiet (appreciated) dinner, I spent some time at a thoughtbot event and 
 
 No fun pictures today. Which doesn't mean no fun was had.
 
-## This Post Is In Progress And Will Update
+## Day 3
+
+Last day, and an early start. I managed to fit in time for breakfast before Brandon's Keynote. I then watched talks from Karl Weber and Jeremy Evans before Nadia's Keynote.
+
+I stopped by the reception to say some goodbyes. Then heading out with a small group to try an escape room. I can't say I was much help, but we did succeed. You're welcome everyone.
+
+{{< figure src="/img/rubyconf2024/agent_bob.jpg" class="mid" alt="A drawing of a person labeled Agent Bob with the saying, 'for saving the world, all I ask for is free parking for life.'" >}}
+
+I met up with a group for dinner and then called it a night.
+
+I'm ending RubyConf tired but thankful. I wish I saw more people. And had more time with the people I did see. But I'm so thankful for the work RubyCentral does year round to support our community. And the investment they make in bringing us together at events like this. Thank you #RubyFriends.
