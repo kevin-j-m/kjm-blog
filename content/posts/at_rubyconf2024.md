@@ -106,7 +106,7 @@ No fun pictures today. Which doesn't mean no fun was had.
 
 Last day, and an early start. I managed to fit in time for breakfast before Brandon's Keynote. I then watched talks from Karl Weber and Jeremy Evans before Nadia's Keynote.
 
-I stopped by the reception to say some goodbyes. Then heading out with a small group to try an escape room. I can't say I was much help, but we did succeed. You're welcome everyone.
+I stopped by the reception to say some goodbyes. Then headed out with a small group to try an escape room. I can't say I was much help, but we did succeed. You're welcome everyone.
 
 {{< figure src="/img/rubyconf2024/agent_bob.jpg" class="mid" alt="A drawing of a person labeled Agent Bob with the saying, 'for saving the world, all I ask for is free parking for life.'" >}}
 
