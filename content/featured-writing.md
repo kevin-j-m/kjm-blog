@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[At RubyConf 2024]({{< ref "at_rubyconf2024" >}})
+
+* Short Ruby Newsletter [#114](https://newsletter.shortruby.com/p/edition-114)
+
 [RSpec Stubs The Object In Memory]({{< ref "rspec-stubs-object-in-memory" >}})
 
 * Ruby Weekly [#720](https://rubyweekly.com/issues/720)
