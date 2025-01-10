@@ -142,7 +142,7 @@ it = "This isn't it"
 
 ## You've got to share it, so you dare it
 
-If you want to learn more about this new feature, check out the [proposal](https://bugs.ruby-lang.org/issues/18980) and the [documentation](https://docs.ruby-lang.org/en/3.4/Proc.html#class-Proc-label-it).
+If you want to learn more about this new feature, check out the [proposal](https://bugs.ruby-lang.org/issues/18980) and the [documentation](https://docs.ruby-lang.org/en/3.4/Proc.html#class-Proc-label-it). Read the [Ruby 3.4 changelog](https://rubyreferences.github.io/rubychanges/3.4.html) to discover all the fun available in Ruby 3.4.
 
 > You can touch it, smell it, taste it, so sweet  
 > But it makes no difference 'cause it knocks you off your feet  
