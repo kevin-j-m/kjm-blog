@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[What Is It (in Ruby 3.4)?]({{< ref "what-is-it-in-ruby-34" >}})
+
+* Ruby Weekly [#734](https://rubyweekly.com/issues/734)
+
 [RubyConf 2024 Recap]({{< ref "rubyconf-2024-recap" >}})
 
 * Ruby Weekly [#728](https://rubyweekly.com/issues/728)
