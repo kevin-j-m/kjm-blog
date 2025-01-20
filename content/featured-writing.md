@@ -12,6 +12,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 [What Is It (in Ruby 3.4)?]({{< ref "what-is-it-in-ruby-34" >}})
 
 * Ruby Weekly [#734](https://rubyweekly.com/issues/734)
+* Short Ruby Newsletter [#119](https://newsletter.shortruby.com/p/edition-119)
 
 [RubyConf 2024 Recap]({{< ref "rubyconf-2024-recap" >}})
 
