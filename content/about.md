@@ -22,6 +22,5 @@ I'm originally from New Hampshire. I currently live with my wife and daughter ou
 * [Mastodon](https://ruby.social/@kevin_j_m)
 * [LinkedIn](https://www.linkedin.com/in/kevinmurphydev/)
 * [Dev.to](https://dev.to/kevin_j_m)
-* [Twitter](https://twitter.com/kevin_j_m)
 * [GitHub](https://github.com/kevin-j-m)
 * [Bluesky](https://bsky.app/profile/kevinjm.bsky.social)

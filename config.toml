@@ -16,7 +16,6 @@ pygmentsCodeFences = true
 [author]
     name = "Kevin Murphy"
     github = "kevin-j-m"
-    twitter = "kevin_j_m"
     linkedin = "kevinmurphydev"
     devto = "kevin_j_m"
     mastodon = "ruby.social/@kevin_j_m"
