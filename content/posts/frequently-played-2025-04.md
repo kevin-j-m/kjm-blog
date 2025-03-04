@@ -1,12 +1,9 @@
 +++
-title = "Frequently Played Jan 2025"
-date = 2024-09-10T17:40:50-05:00
+title = "Frequently Played April 2025"
+date = 2025-03-02T17:40:50-05:00
 tags = ["music", "personal"]
 summary = "What I've been listening to since last time"
-[build]
-  list = 'local'
 +++
-
 
 ## Frequently Played
 
@@ -27,17 +24,19 @@ This musical outro is transcendent.
 > She stares off alone into the night  
 > With the eyes of one who hates for just being born  
 
-## Downbound Train
+## Snuff
 
 {{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q80_LmmJWno?si=yk9l7SHwHfdv4ZQN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PvB6QApisk8?si=pyj2hyMvsQpIe0vv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
-I often debate myself about the most underrated Springsteen song. This comes up often.
+I'm not super familiar with Slipknot, but I know others are. Jim Root seems
+like a really cool, down-to-Earth guitar playing person. At the time of this
+performance, that's Jay Weinberg playing drums, son of Max, the drummer of the E
+Street Band. Jay has filled in for Max on E Street dates in the past.
 
-[Full Lyrics](https://genius.com/Bruce-springsteen-downbound-train-lyrics)
+[Full Lyrics](https://genius.com/Slipknot-snuff-lyrics)
 
-> Last night, I heard your voice  
-> You were crying, crying, you were so alone  
-> You said your love had never died  
-> You were waiting for me at home  
+> You ran away, you're all the same  
+> Angels lie to keep control  
+> My love was punished long ago  
