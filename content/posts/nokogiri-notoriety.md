@@ -17,11 +17,7 @@ That post has been featured in Ruby Weekly [#534](https://rubyweekly.com/issues/
 
 {{< figure src="/img/ruby_weekly_534.png" class="mid" >}} 
 
-I was also humbled to receive this tweet reply from a Nokogiri maintainer:
-
-{{< tweet user="flavorjones" id="1347195095079137285" >}}
-
-In case you can't read that, the tweet from Mike Dalessio says: 
+I was also humbled to receive a tweet reply from Nokogiri maintainer Mike Dalessio, which says:
 
 > I've linked out to your post from the "Troubleshooting" section of the installation guide. Thanks again! 
 
