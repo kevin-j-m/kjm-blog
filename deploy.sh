@@ -5,6 +5,8 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+# delete everything in public except .git
+find public -path public/.git -prune -o -exec rm -rf {} \; 2> /dev/null
 # Build the project.
 hugo  -t hugo-kiera # if using a theme, replace with `hugo -t <YOURTHEME>`
 
