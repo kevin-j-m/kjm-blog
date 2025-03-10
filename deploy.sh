@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-hugo -t hugo-kiera # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo --cleanDestinationDir -t hugo-kiera # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Run pagefind to index the site.
 npx -y pagefind --site public --exclude-selectors "#home"
