@@ -6,7 +6,7 @@ theme = "hugo-kiera"
 
 googleAnalytics = 'G-RVD6VLNE04'
 
-paginate = 10
+pagination.pagerSize = 10
 
 summaryLength = 30
 enableEmoji = true
