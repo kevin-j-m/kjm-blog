@@ -1,7 +1,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name="description" content="{{ .Params.description | default .Site.Params.description }}" />
-<meta name="author" content="{{ .Site.Params.Author | default .Site.Params.Author.name }}" />
+<meta name="author" content="{{ .Site.Params.author.name | default .Site.Params.Author.name }}" />
 {{ if .Params.canonicalUrl }}
 <link rel="canonical" href="{{ .Params.canonicalUrl }}">
 {{ else }}
