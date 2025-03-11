@@ -16,6 +16,6 @@ I found there is a more modern deployment story with Hugo now that is in their d
 
 That created a situation where the git submodule for the theme I use wasn't recognized in the GitHub Action. Updating the theme required updating Hugo itself and...here we are.
 
-I've noticed at least one visual regression, which is that my fancy social link icons aren't available on the top header. If you're seeing this and missing them that much, I do keep track of [where to find me on the internet]({{< ref "/about/#elsewhere-on-the-internet" >}}).
+I've noticed at least one visual regression, which is that my fancy social link icons aren't available on the top header (Update: they should be back now). If you're seeing this and missing them that much, I do keep track of [where to find me on the internet]({{< ref "/about/#elsewhere-on-the-internet" >}}).
 
 If you find anything else that's not working or seems off, could you let me know?
