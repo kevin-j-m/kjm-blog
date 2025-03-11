@@ -1,7 +1,7 @@
 </main>
     <footer>
       {{ partial "user_footer" . }}
-        <h6>{{ .Site.Copyright | markdownify }} |
+        <h6>{{ replace .Site.Copyright "{year}" now.Year | markdownify }} |
             {{ T "rendered" }} <a href="https://gohugo.io" title="Hugo">Hugo</a> |
             <a href="{{.Site.BaseURL}}index.xml">RSS </a></h6>
     </footer>
