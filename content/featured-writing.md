@@ -11,6 +11,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [Preserving Flash Messages in Rails]({{< ref "preserving-flash-messages-in-rails" >}})
 
+* Ruby Weekly [#743](https://rubyweekly.com/issues/743)
 * Short Ruby Newsletter [#127](https://newsletter.shortruby.com/p/edition-127)
 
 [What Is It (in Ruby 3.4)?]({{< ref "what-is-it-in-ruby-34" >}})
