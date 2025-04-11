@@ -8,7 +8,7 @@ description = "I'm speaking about how 10 years of RailsConfs can inform the next
 
 ## RailsConf 2025
 
-I'm honored to be speaking at the final [RailsConf](https://railsconf.org/) this July in Philadelphia.
+I'm honored to be [speaking](https://railsconf.org/speakers/#kevin-murphy) at the final [RailsConf](https://railsconf.org/) this July in Philadelphia.
 I'll be speaking on Thursday, July 10 at 10:15am on the Main Stage in the
 Liberty room.
 
