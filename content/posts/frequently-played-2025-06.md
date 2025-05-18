@@ -26,6 +26,22 @@ Unfortunately, miracles are nothing more than [dreams gone bad]( {{<ref "frequen
 > If I'm a fool, I'll be a fool  
 > Darling, for you  
 
+## Could Have Been Me
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7KrCCmXjUqs?si=0GMJ5mNIdWJp0UnN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+The Struts are maybe the greatest expression of pure joy and excitement I've
+seen live. If Rock N Roll still mattered culturally, they'd be a household name.
+
+[Full Lyrics](https://genius.com/The-struts-could-have-been-me-lyrics)
+
+> I wanna live better days  
+> Never look back and say  
+> Could have been me  
+> It could have been me  
+
 ## Yvette Young
 
 Yvette is the guitarist in Covet and has solo stuff too. I've mostly been enjoying
