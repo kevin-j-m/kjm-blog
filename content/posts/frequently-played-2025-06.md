@@ -44,11 +44,11 @@ seen live. If Rock N Roll still mattered culturally, they'd be a household name.
 
 ## Yvette Young
 
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Q1-ETuBg5A?si=RJDWEJDQY3Jc_eks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 Yvette is the guitarist in Covet and has solo stuff too. I've mostly been enjoying
 her interviews. Her playing style is phenomenal, and I'm intrigued by how
 she approaches the instrument. I like hearing the way she explains concepts and
 describes how she makes the choices she does.
-
-{{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Q1-ETuBg5A?si=RJDWEJDQY3Jc_eks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-{{< /rawhtml >}}
