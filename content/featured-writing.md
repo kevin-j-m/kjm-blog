@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[Rails Controller Callback Order With Concerns]({{< ref "rails-controller-callback-order-with-concerns" >}})
+
+* Short Ruby Newsletter [#136](https://newsletter.shortruby.com/p/edition-136)
+
 [Preserving Flash Messages in Rails]({{< ref "preserving-flash-messages-in-rails" >}})
 
 * Ruby Weekly [#743](https://rubyweekly.com/issues/743)
