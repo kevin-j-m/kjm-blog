@@ -11,6 +11,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [Rails Controller Callback Order With Concerns]({{< ref "rails-controller-callback-order-with-concerns" >}})
 
+* Ruby Weekly [#751](https://rubyweekly.com/issues/751)
 * Short Ruby Newsletter [#136](https://newsletter.shortruby.com/p/edition-136)
 
 [Preserving Flash Messages in Rails]({{< ref "preserving-flash-messages-in-rails" >}})
