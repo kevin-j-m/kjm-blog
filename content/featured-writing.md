@@ -13,6 +13,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 * Ruby Weekly [#751](https://rubyweekly.com/issues/751)
 * Short Ruby Newsletter [#136](https://newsletter.shortruby.com/p/edition-136)
+* Short Ruby Newsletter [#137](https://newsletter.shortruby.com/p/edition-137)
 
 [Preserving Flash Messages in Rails]({{< ref "preserving-flash-messages-in-rails" >}})
 
