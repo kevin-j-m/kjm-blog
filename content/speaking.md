@@ -11,6 +11,7 @@ I have experience speaking both in-person and remotely. I've delivered live
 and pre-recorded talks. If you're interested in me speaking at your event,
 you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) me.
 
+* [How 10 years of RailsConfs can inform the next 10 years of your career]({{< ref "#how-10-years-of-railsconfs-can-inform-the-next-10-years-of-your-career" >}})
 * [Anyone Can Play Guitar (With Ruby)]({{< ref "#anyone-can-play-guitar-with-ruby" >}})
 * [Browser History Confessional]({{< ref "#browser-history-confessional" >}})
 * [Engineering MBA]({{< ref "#engineering-mba" >}})
@@ -21,6 +22,16 @@ you can [email](mailto:murphy.kevin.mail@gmail.com?subject=Speaking%20Inquiry) m
 * [Podcasts]({{< ref "#podcasts" >}})
 
 My talks are on [Ruby Video](https://www.rubyvideo.dev/speakers/kevin-murphy). My slides are on [SpeakerDeck](https://speakerdeck.com/kevinmurphy).
+
+## How 10 years of RailsConfs can inform the next 10 years of your career
+
+RailsConf has played an important role in my professional and personal life. I've learned about technology in ways I wouldn't have otherwise at RailsConf. I've learned about myself in ways I wouldn't have otherwise thanks to RailsConf. I've met people that changed the course of my career thanks to RailsConf. I've met others who have become dear friends thanks to RailsConf. I've done things I've never done before thanks to RailsConf.
+
+The same may be true for you. We should celebrate and reflect on that. Where do we go from here? Let's talk about it together.
+
+[Read More]({{< ref "ten-years-of-railsconf" >}})
+
+* [RailsConf 2025](https://railsconf.org/speakers/#kevin-murphy)
 
 ## Anyone Can Play Guitar (With Ruby)
 
