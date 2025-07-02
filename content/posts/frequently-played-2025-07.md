@@ -1,6 +1,6 @@
 +++
 title = "Frequently Played July 2025"
-date = 2025-03-16T17:40:50-05:00
+date = 2025-07-02T14:40:50-05:00
 tags = ["music", "personal"]
 summary = "What I've been listening to since last time"
 +++
@@ -47,6 +47,21 @@ I'm missing them on tour with Gaslight Anthem this cycle.
 > You wish that you could tell him it’ll be okay  
 > But you feel a little shy these days  
 > 'Cause everybody goes away  
+
+## We’re Getting a Divorce, You Keep the Diner
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6WscA8oaKc?si=Bl8VW00UYfiR4fFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+From the album Sink or Swim. My life has been about treading water. Keeping my head just above the surface. Trying to take a deep breath when I go under; seeing what it's like below, then pushing my way back for air.
+
+[Full Lyrics](https://genius.com/The-gaslight-anthem-were-getting-a-divorce-you-keep-the-diner-lyrics)
+
+> On a Sunday morning the whole crowd assembled  
+> I've done some things that I'm not too proud of  
+> I've never left you, a deaf ear for longing  
+> Some hearts are gallows, I'm not here for hangin' around  
 
 ## safeword
 
