@@ -14,7 +14,7 @@ I like [speaking]({{< ref "speaking" >}}) at conferences and meetups, [writing](
 
 I graduated from Rochester Institute of Technology (2008) and Bentley University (2010). I have experience in the insurance industry, healthcare technology industry, and consulting.
 
-I'm originally from New Hampshire. I live with my wife and daughter outside of Boston, Massachusetts. I support and visit my [local greyhound rescue](https://greyhoundrescuene.org/) when I can. I'm passionate about very specific musical artists, namely [Bruce Springsteen](https://brucespringsteen.net/) and [Nine Inch Nails](https://www.nin.com/). I enjoy watching hockey and other people make woodworking projects. Unfortunately, that leaves me with no time to make projects of my own.
+I'm originally from New Hampshire. I live with daughter outside of Boston, Massachusetts. I support and visit my [local greyhound rescue](https://greyhoundrescuene.org/) when I can. I'm passionate about very specific musical artists, namely [Bruce Springsteen](https://brucespringsteen.net/) and [Nine Inch Nails](https://www.nin.com/). I enjoy watching hockey and other people make woodworking projects. Unfortunately, that leaves me with no time to make projects of my own.
 
 ## Elsewhere on the Internet
 
