@@ -9,6 +9,11 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[RailsConf 2025 Recap]({{< ref "railsconf-2025-recap" >}})
+
+* Ruby Weekly [#759](https://rubyweekly.com/issues/759)
+* Chris Fung [Speaking at RailsConf 2025](https://www.chrisfung.dev/posts/speaking-at-railsconf-2025/)
+
 [Rails Controller Callback Order With Concerns]({{< ref "rails-controller-callback-order-with-concerns" >}})
 
 * Ruby Weekly [#751](https://rubyweekly.com/issues/751)
