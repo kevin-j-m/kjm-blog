@@ -15,5 +15,10 @@ The same may be true for you. We should celebrate and reflect on that. Where do 
 
 ## Presentation Resources
 
+{{< rawhtml class="float" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2WkBHoGAlpY?si=3jp7FNtUbGyEey2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+* [Video](https://youtu.be/2WkBHoGAlpY?si=c_SCAvyEckyTH4RS)
 * [Slides](https://speakerdeck.com/kevinmurphy/how-10-years-of-railsconfs-can-inform-the-next-10-years-of-your-career)
 * [Proposal]({{< ref "ten-years-of-railsconf-proposal" >}})

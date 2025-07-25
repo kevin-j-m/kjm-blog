@@ -31,6 +31,10 @@ The same may be true for you. We should celebrate and reflect on that. Where do 
 
 [Read More]({{< ref "ten-years-of-railsconf" >}})
 
+{{< rawhtml class="float" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2WkBHoGAlpY?si=3jp7FNtUbGyEey2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 * [RailsConf 2025](https://railsconf.org/speakers/#kevin-murphy)
 
 ## Anyone Can Play Guitar (With Ruby)
