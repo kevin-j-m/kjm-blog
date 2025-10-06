@@ -1,6 +1,6 @@
 +++
-title = "Frequently Played October 2025"
-date = 2025-08-03T03:33:33-04:00
+title = "Frequently Played November 2025"
+date = 2025-10-03T03:33:33-04:00
 tags = ["music", "personal"]
 summary = "What I've been listening to since last time"
 +++
