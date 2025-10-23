@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[Formatting SQL with anbt-sql-formatter]({{< ref "format-sql-anbt-sql-formatter" >}})
+
+* Ruby Weekly [#772](https://rubyweekly.com/issues/772)
+
 [RailsConf 2025 Recap]({{< ref "railsconf-2025-recap" >}})
 
 * Ruby Weekly [#759](https://rubyweekly.com/issues/759)
