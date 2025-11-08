@@ -1,6 +1,6 @@
 +++
 title = "Frequently Played December 2025"
-date = 2025-10-03T03:33:33-04:00
+date = 2025-12-15T03:33:33-04:00
 tags = ["music", "personal"]
 summary = "What I've been listening to since last time"
 +++
@@ -8,6 +8,29 @@ summary = "What I've been listening to since last time"
 ## Frequently Played
 
 I tend to listen to the same songs or albums on repeat that are evocative of how I'm feeling or what's going on with me. Here is what I'm currently listening to over, and over, and over, and over, again.
+
+## Buckle
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xXQmje2bjWc?si=hwUCOpQBWS-NUKIB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+Just get the new album. And all the prior albums. You're welcome.
+
+[Full Lyrics](https://genius.com/Florence-the-machine-buckle-lyrics)
+
+> I'm much too old for this  
+> But I'm not over it  
+>  
+> 'Cause I'm stupid and I'm damaged and you're a disaster  
+> When you walk into the room, oh, none of it matters  
+> Oh, baby, I just buckle my resolution in tatters  
+> 'Cause I know it won't work, but make it ache, make it hurt  
+> I'm not better than this, show me what I'm worth  
+>  
+> Keep me a secret, choose someone else  
+> I'll still be here hanging off, I'm hanging off  
+> The buckle on your belt  
 
 ## Painkillers
 
@@ -24,19 +47,4 @@ Yup, Brian Fallon again. I don't have very varied musical tastes.
 > And every heart I held in between  
 > Well, they were painkillers to me  
 > Yeah, they were painkillers to me  
-> Come get your painkillers from me
-
-## Downbound Train
-
-{{< rawhtml >}}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q80_LmmJWno?si=yk9l7SHwHfdv4ZQN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-{{< /rawhtml >}}
-
-I often debate myself about the most underrated Springsteen song. This comes up often.
-
-[Full Lyrics](https://genius.com/Bruce-springsteen-downbound-train-lyrics)
-
-> Last night, I heard your voice  
-> You were crying, crying, you were so alone  
-> You said your love had never died  
-> You were waiting for me at home  
+> Come get your painkillers from me  
