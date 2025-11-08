@@ -9,6 +9,29 @@ summary = "What I've been listening to since last time"
 
 I tend to listen to the same songs or albums on repeat that are evocative of how I'm feeling or what's going on with me. Here is what I'm currently listening to over, and over, and over, and over, again.
 
+## Buckle
+
+{{< rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xXQmje2bjWc?si=hwUCOpQBWS-NUKIB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
+Just get the new album. And all the prior albums. You're welcome.
+
+[Full Lyrics](https://genius.com/Florence-the-machine-buckle-lyrics)
+
+> I'm much too old for this  
+> But I'm not over it  
+>  
+> 'Cause I'm stupid and I'm damaged and you're a disaster  
+> When you walk into the room, oh, none of it matters  
+> Oh, baby, I just buckle my resolution in tatters  
+> 'Cause I know it won't work, but make it ache, make it hurt  
+> I'm not better than this, show me what I'm worth  
+>  
+> Keep me a secret, choose someone else  
+> I'll still be here hanging off, I'm hanging off  
+> The buckle on your belt  
+
 ## Painkillers
 
 {{< rawhtml >}}
