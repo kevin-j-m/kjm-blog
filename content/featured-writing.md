@@ -12,6 +12,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 [Don't REST on your Laurels]({{< ref "dont-rest-on-your-laurels" >}})
 
 * Ruby Weekly [#777](https://rubyweekly.com/issues/777)
+* Short Ruby Newsletter [#158](https://newsletter.shortruby.com/p/edition-158)
 
 [Formatting SQL with anbt-sql-formatter]({{< ref "format-sql-anbt-sql-formatter" >}})
 
