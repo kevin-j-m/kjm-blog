@@ -55,3 +55,34 @@ Rob and Steph were kind enough to include a sticker with a personalized note. Wh
 {{< figure src="/img/2025_09_10_sticker_back.jpg" class="mid" alt="The back of the sticker, where Rob wrote, 'Thanks Kevin! -Rob'" >}}
 
 Thank *you*, Rob.
+
+## Nothing Studios 2000
+
+With the 25th anniversary of [Things Falling Apart](https://www.patreon.com/posts/144077283), Rob pulled some rare prints out, and I got a matching set. These photos are important to me because of their setting (Nothing Studios) and time (2000) they were taken.
+
+{{< figure src="/img/2025_12_21_texture_set.jpg" class="mid" alt="Both texture prints in frames mounted on the wall. In the reflection you can see artwork from the opposite walls." >}}
+
+## texture: studio I
+
+{{< figure src="/img/2025_12_21_texture_studio_i.jpg" class="mid" alt="A print of Rob Sheridan's texture: studio i. A close-up of synthesizer keys taken with a macro lens. Signed by Rob and labeled 62/65." >}}
+
+> Personal photography taken on 35mm film of the textures of Nothing Studios, New Orleans, where I was living in the year 2000, at the beginning of my journey with macro lenses. Macro photography opened up new portals of expression all around me; emotions from the inanimate, stories from mundane details. It inspired my artwork for Nine Inch Nails' "Things Falling Apart" that same year, and the process of exploring details of instruments and the texture of the studio environment would lay the groundwork for my photography on Nine Inch Nails' "Ghosts I-IV" in 2008.
+
+Unfortunately, this got bent in transit. I'll chalk it up to a real-world glitch.
+
+I have print 62/65.
+
+## texture: studio II
+
+{{< figure src="/img/2025_12_21_texture_studio_ii.jpg" class="mid" alt="A print of Rob Sheridan's texture: studio ii. A close-up of an acoustic guitar near the soundhole taken with a macro lens. Signed by Rob and labeled 62/65." >}}
+
+> Personal photography taken on 35mm film of the textures of Nothing Studios, New Orleans, where I was living in the year 2000, at the beginning of my journey with macro lenses. Macro photography opened up new portals of expression all around me; emotions from the inanimate, stories from mundane details. It inspired my artwork for Nine Inch Nails' "Things Falling Apart" that same year, and the process of exploring details of instruments and the texture of the studio environment would lay the groundwork for my photography on Nine Inch Nails' "Ghosts I-IV" in 2008.
+
+I have print 62/65.
+
+## Bonus 2
+
+Another order; another sticker.
+
+{{< figure src="/img/2025_12_21_glitch_skull_astronaut_sticker.jpg" class="mid" alt="A sticker of Glitch Skull Astronaut with Rob Sheridan's name" >}}
+{{< figure src="/img/2025_12_21_glitch_skull_astronaut_sticker_back.jpg" class="mid" alt="The back of the sticker, where Rob wrote, 'Thanks Kevin! -Rob'" >}}
