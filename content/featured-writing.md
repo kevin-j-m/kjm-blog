@@ -11,6 +11,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [How I Read A Pull Request]({{< ref "how-i-read-a-pr" >}})
 
+* Ruby Weekly [#784](https://rubyweekly.com/issues/784)
 * Short Ruby Newsletter [#164](https://newsletter.shortruby.com/p/edition-164)
 
 [Don't REST on your Laurels]({{< ref "dont-rest-on-your-laurels" >}})
