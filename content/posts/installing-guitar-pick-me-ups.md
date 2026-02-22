@@ -1,7 +1,7 @@
 +++
 title = "Installing Guitar Pick(me)ups"
 date = 2026-02-22T16:30:22-05:00
-tags = ["music", "guitar"]
+tags = ["music", "guitar", "music"]
 summary = "This post could have been a YouTube video"
 description = "I installed new Lace Sensor pickups in a Squier strat and Tonerider humbuckers in a LP-style guitar"
 +++
