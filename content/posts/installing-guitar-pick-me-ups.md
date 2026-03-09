@@ -82,7 +82,7 @@ I installed the new switch first, as those wires have the longest distance to tr
 
 {{< figure src="/img/pickups/fflp_before_solder.jpg" class="mid" alt="All the wiring in the body cavity, ready for solder" >}}
 
-The it was back to soldering poorly, again following the diagram from the manufacturer. I set this up to use [50's wiring](https://obsidianwire.com/blogs/the-great-guitar-natter/les-paul-50s-wiring-vs-modern-60s), for an easier volume roll-off.
+Then it was back to soldering poorly, again following the diagram from the manufacturer. I set this up to use [50's wiring](https://obsidianwire.com/blogs/the-great-guitar-natter/les-paul-50s-wiring-vs-modern-60s), for an easier volume roll-off.
 
 Here's the mess hiding in the body cavity post-soldering.
 
