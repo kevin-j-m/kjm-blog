@@ -11,6 +11,7 @@ archive of writing on this site, as well as cross-posted at my [dev.to profile](
 
 [Announcing simplecov-compare]({{< ref "announcing-simplecov-compare" >}})
 
+* Ruby Weekly [#793](https://rubyweekly.com/issues/793)
 * Short Ruby Newsletter [#171](https://newsletter.shortruby.com/p/edition-171)
 
 [How I Read A Pull Request]({{< ref "how-i-read-a-pr" >}})
