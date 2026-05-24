@@ -30,6 +30,10 @@ Congrats on joining Hours Unlimited. The Math and Numbers team is excited to hav
 
 [Read More]({{< ref "instillment-of-successful-practices-in-an-agentic-world" >}})
 
+{{< rawhtml class="float" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZZh0ObEdcg?si=93sxptMuHtipV7jb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 * [Blue Ridge Ruby 2026](https://blueridgeruby.com/speakers/kevin-murphy/)
 
 ## How 10 years of RailsConfs can inform the next 10 years of your career

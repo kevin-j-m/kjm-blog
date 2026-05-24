@@ -14,8 +14,13 @@ Congrats on joining Hours Unlimited. The Math and Numbers team is excited to hav
 
 ## Presentation Resources
 
+{{< rawhtml class="float" >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZZh0ObEdcg?si=93sxptMuHtipV7jb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< /rawhtml >}}
+
 * [Slides](https://speakerdeck.com/kevinmurphy/instillment-of-successful-practices-in-an-agentic-world)
 * [Proposal]({{< ref "instillment-of-successful-practices-in-an-agentic-world-proposal" >}})
+* [Video](https://youtu.be/OZZh0ObEdcg?si=EXZ7tjk7-X7eQDaQ)
 
 ## Reviews
 
