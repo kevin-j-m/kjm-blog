@@ -31,3 +31,7 @@ Congrats on joining Hours Unlimited. The Math and Numbers team is excited to hav
 * [Christine Seeman](https://christine-seeman.com/blue-ridge-ruby-2026/)
 
 > Kevin Murphy’s talk, InstiLLMent of Successful Practices in an Agentic World, started out funny. A hilarious bit about being a new employee at “Hours Unlimited” had the room going. Then it quietly flipped a switch. It moved from talking about agents to talking about humans on your team. Code review isn’t just a quality gate, it’s an invitation to a discussion. Form deep working relationships. Treat the other humans on your team like, well, humans. Lessons that work whether your collaborator is an LLM or a coworker.
+
+* [John Athayde](https://www.linkedin.com/posts/activity-7465039177789743104-csNe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHs_zcB9bZ6lOvE86myXc3Puhs5zC35VNs)
+
+> His talk, "InstiLLMent of Successful Practices in an Agentic World," starts funny and quietly turns into something about how we treat the humans on our team. Worth your time.
