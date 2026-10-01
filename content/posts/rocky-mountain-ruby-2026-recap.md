@@ -96,7 +96,7 @@ Ifat Ribon demonstrated how to test behavior (not implementation), keep tests de
 
 ### Lightning Talks
 
-Congrats to Rachael Wright-Munn, Marc Heiligers, Miles Georgi, Connor Shea, Jim Remsik, Jason Brown, Marco Roth, and Katya Sarmiento on their talks.
+Congrats to Rachael Wright-Munn, Marc Heiligers, Miles Georgi, Connor Shea, Jim Remsik, Jason Brown, Marco Roth, Andy Rusterholz, and Katya Sarmiento on their talks.
 
 {{< figure src="/img/rmr_2026_chael.jpg" class="mid" alt="Chael at Rocky Mountain Ruby 2026" >}}
 
