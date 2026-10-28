@@ -20,7 +20,9 @@ Congrats on joining Hours Unlimited. The Math and Numbers team is excited to hav
 
 * [Slides](https://speakerdeck.com/kevinmurphy/instillment-of-successful-practices-in-an-agentic-world)
 * [Proposal]({{< ref "instillment-of-successful-practices-in-an-agentic-world-proposal" >}})
-* [Video](https://youtu.be/OZZh0ObEdcg?si=EXZ7tjk7-X7eQDaQ)
+* [Blue Ridge Ruby Video](https://youtu.be/OZZh0ObEdcg?si=EXZ7tjk7-X7eQDaQ)
+* [Chicago Ruby Video](https://youtu.be/pAgvqq4wQmE?si=9BaWx17GnPRfO1ao)
+* [Rocky Mountain Ruby Video](https://youtu.be/6-xDq2ooTAQ?si=DJgH4EMwIB__bvtf)
 
 ## Reviews
 

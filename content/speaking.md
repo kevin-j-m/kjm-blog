@@ -35,6 +35,8 @@ Congrats on joining Hours Unlimited. The Math and Numbers team is excited to hav
 {{< /rawhtml >}}
 
 * [Blue Ridge Ruby 2026](https://blueridgeruby.com/speakers/kevin-murphy/)
+* [Chicago Ruby August 2026](https://youtu.be/pAgvqq4wQmE?si=9BaWx17GnPRfO1ao)
+* [Rocky Mountain Ruby 2026](https://youtu.be/6-xDq2ooTAQ?si=DJgH4EMwIB__bvtf)
 
 ## How 10 years of RailsConfs can inform the next 10 years of your career
 
