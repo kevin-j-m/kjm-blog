@@ -9,6 +9,10 @@ description: "Kevin enjoys sharing what he learns through blogging. This page hi
 I enjoy sharing what I learn through blogging. You can find my full
 archive of writing on this site, as well as cross-posted at my [dev.to profile](https://dev.to/kevin_j_m). This page highlights posts of mine that have been shared by others.
 
+[Find The Value. THEN Find The Place.]({{< ref "find-the-value-then-find-the-place" >}})
+
+* Awesome Ruby [#548](https://ruby.libhunt.com/newsletter/548)
+
 [ActiveModel Conditional Validations]({{< ref "activemodel-conditional-validations" >}})
 
 * Ruby Weekly [#810](https://rubyweekly.com/issues/810)
